@@ -66,5 +66,10 @@ export default defineConfig({
     }
     
     ,
+  },
+  vite: {
+    ssr: {
+      noExternal: ['@escook/vitepress-theme','vitepress']
+    }
   }
 })
