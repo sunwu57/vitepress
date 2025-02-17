@@ -1,38 +1,16 @@
 {
   "docs": [
     {
-      "id": 206102311,
-      "doc_id": "gkvlxabrf0c7ceok",
-      "updated": 1739717204000,
-      "properties": {
-        "title": "222333444556677",
-        "urlname": "gkvlxabrf0c7ceok",
-        "date": "2025-02-16 12:56:17",
-        "updated": "2025-02-16 22:46:44",
-        "author": "孙武",
-        "description": "Hello World2222336677"
-      },
-      "catalog": [
-        {
-          "title": "关于",
-          "doc_id": "gkvlxabrf0c7ceok"
-        }
-      ],
-      "realName": "222333444556677",
-      "relativePath": "\\关于\\222333444556677.md",
-      "docPath": "docs\\docs\\关于"
-    },
-    {
       "id": 148986759,
       "doc_id": "7d50696487c73ca99c968c9c9955a043",
-      "updated": 1739716934000,
+      "updated": 1739803374000,
       "properties": {
-        "title": "markdown代码",
+        "title": "markdown语法",
         "urlname": "7d50696487c73ca99c968c9c9955a043",
         "date": "2023-12-03 17:14:49",
-        "updated": "2025-02-16 22:42:14",
+        "updated": "2025-02-17 22:42:54",
         "author": "孙武",
-        "description": "title: \"示例\"description: \"这是一个测试文档\"top: 1方法一   点击时的区域标题：点击查看详细内容    - 测试 测试测试   qwe   qwe   123   123    "
+        "description": "方法一   点击时的区域标题：点击查看详细内容    - 测试 测试测试   qwe   qwe   123   123    title，value，callBack可以缺省..."
       },
       "catalog": [
         {
@@ -40,8 +18,32 @@
           "doc_id": "7d50696487c73ca99c968c9c9955a043"
         }
       ],
-      "realName": "markdown代码",
-      "relativePath": "\\关于\\markdown代码.md",
+      "realName": "markdown语法",
+      "relativePath": "\\关于\\markdown语法.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 206320978,
+      "doc_id": "on578p3peeqksucw",
+      "updated": 1739813323000,
+      "properties": {
+        "title": "本blog的搭建",
+        "urlname": "on578p3peeqksucw",
+        "date": "2025-02-17 22:34:56",
+        "updated": "2025-02-18 01:28:43",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1739803976612-3af47b2e-5e9e-4e54-8354-e593e1a7bd46.png",
+        "description": "1.  博客介绍使用vitepress框架+github存储+Elog+语雀写作+vercel部署+自定义域名子夜旅馆2. 部署2.1. VitePressVitePress 官网：VitePress 中文版2.1.1. 什么是 VitePressVitePress 是一个静态站点生成器 (S..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "on578p3peeqksucw"
+        }
+      ],
+      "realName": "本blog的搭建",
+      "relativePath": "\\关于\\本blog的搭建.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\关于"
     }
   ],
@@ -67,7 +69,7 @@
     {
       "uuid": "nANsBc9sjRq0-CvB",
       "type": "DOC",
-      "title": "markdown代码",
+      "title": "markdown语法",
       "url": "7d50696487c73ca99c968c9c9955a043",
       "slug": "7d50696487c73ca99c968c9c9955a043",
       "id": 148986759,
@@ -77,19 +79,19 @@
       "open_window": 1,
       "visible": 1,
       "prev_uuid": "GxObxeQiBqbu0XuS",
-      "sibling_uuid": "nOTNqNJJEfRxr7qh",
+      "sibling_uuid": "tU-9xVTk40BmwlQF",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",
       "_serializer": "v2.toc_item"
     },
     {
-      "uuid": "nOTNqNJJEfRxr7qh",
+      "uuid": "tU-9xVTk40BmwlQF",
       "type": "DOC",
-      "title": "222333444556677",
-      "url": "gkvlxabrf0c7ceok",
-      "slug": "gkvlxabrf0c7ceok",
-      "id": 206102311,
-      "doc_id": 206102311,
+      "title": "本blog的搭建",
+      "url": "on578p3peeqksucw",
+      "slug": "on578p3peeqksucw",
+      "id": 206320978,
+      "doc_id": 206320978,
       "level": 1,
       "depth": 2,
       "open_window": 1,
