@@ -42,9 +42,6 @@ cursor不用梯子也能用，支持多种语言：python，java，C#等等语�
 现在的环境是go需要你用gin框架帮我写三个接口 第一个是用户名密码注册第二个是用户名密码登录(需要返回 用户信息)第三个是根据用户id查询用户信息。
 我的数据库连接方式是:127.0.0.1:3306,root,root
 以当前目录为根目录需要执行命令的时候请告诉我让我来执行
-
-
-生成curl测试用例并告诉我成功与不成功的返回值
 ```
 
 3. 根据ds的指引，依次应用ds给出的文件内容和命令  
@@ -125,5 +122,6 @@ echo "测试查询："
 curl http://localhost:8080/user/1
 ```
 
-[vue-project.zip](https://www.yuque.com/attachments/yuque/0/2025/zip/26698826/1739899799686-25cb1271-7f26-468a-aac1-2e9d600f96d3.zip)[test6.zip](https://www.yuque.com/attachments/yuque/0/2025/zip/26698826/1739899696401-51e8f697-93fa-42fa-bbb1-501b82531fa3.zip)
+[vue-project.zip](https://www.yuque.com/attachments/yuque/0/2025/zip/26698826/1739899799686-25cb1271-7f26-468a-aac1-2e9d600f96d3.zip)                [test6.zip](https://www.yuque.com/attachments/yuque/0/2025/zip/26698826/1739899696401-51e8f697-93fa-42fa-bbb1-501b82531fa3.zip)  
+![](../../images/5b9c80691466567e30b2e252e8e2c019.png)![](../../images/a31f17cf9798a130619447becfd23ff2.png)
 

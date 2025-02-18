@@ -862,7 +862,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](https://cdn.nlark.com/yuque/0/2025/gif/26698826/1739811085349-8c537688-ece0-445c-a8ab-bf06b140e8b1.gif)
+![](../../images/393f430dc5349468a3c495ab8c0e3935.gif)
 
 ##### <font style="color:rgb(51, 51, 51);">配置注意项</font>
 1. <font style="color:rgb(51, 51, 51);">多侧边栏配置时， </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">sidebar</font>`<font style="color:rgb(51, 51, 51);"> 为对象</font>

@@ -73,12 +73,12 @@
     {
       "id": 206488350,
       "doc_id": "odihxemydqo73zpz",
-      "updated": 1739899869000,
+      "updated": 1739900678000,
       "properties": {
         "title": "cursor+deepseek编程",
         "urlname": "odihxemydqo73zpz",
         "date": "2025-02-18 21:50:42",
-        "updated": "2025-02-19 01:31:09",
+        "updated": "2025-02-19 01:44:38",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1739887077637-4c521a76-99ff-4728-b5a5-753c208acbcc.png",
         "description": "1. cursor是什么?cursor是openAi合作伙伴推出的，内置GPT-4的编辑器，能更好的为开发者服务。关键是是他是免费的。cursor不用梯子也能用，支持多种语言：python，java，C#等等语言，也同样支持在多平台安装。可以用于聊天，辅助写代码，辅助写作等等功能。相信你试用了..."
