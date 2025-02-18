@@ -7,7 +7,7 @@ export default defineConfig({
   lang: "zh-CN",
   title: "子夜旅馆",
   description: "子夜的安全学习笔记",
-  lastUpdated: true,
+  lastUpdated: false,
   cleanUrls: true,
   ignoreDeadLinks: true,
   head: [
@@ -15,7 +15,6 @@ export default defineConfig({
       'link', { rel: 'icon', href: '/favicon.ico' }
     ]
   ],
-  appearance: 'dark',
   themeConfig: {
     search: {
       provider: 'local'

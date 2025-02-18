@@ -3,12 +3,12 @@
     {
       "id": 206320978,
       "doc_id": "on578p3peeqksucw",
-      "updated": 1739815441000,
+      "updated": 1739885998000,
       "properties": {
         "title": "本blog的搭建",
         "urlname": "on578p3peeqksucw",
         "date": "2025-02-17 22:34:56",
-        "updated": "2025-02-18 02:04:01",
+        "updated": "2025-02-18 21:39:58",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1739803976612-3af47b2e-5e9e-4e54-8354-e593e1a7bd46.png",
         "description": "1.  博客介绍使用vitepress框架+github存储+Elog+语雀写作+vercel部署+自定义域名子夜旅馆2. 部署2.1. VitePressVitePress 官网：VitePress 中文版2.1.1. 什么是 VitePressVitePress 是一个静态站点生成器 (S..."
@@ -27,12 +27,12 @@
     {
       "id": 148986770,
       "doc_id": "cc6cb6af50f74808fa4e0c665f87159a",
-      "updated": 1739815436000,
+      "updated": 1739886004000,
       "properties": {
         "title": "markdown语法",
         "urlname": "cc6cb6af50f74808fa4e0c665f87159a",
         "date": "2023-12-03 17:14:50",
-        "updated": "2025-02-18 02:03:56",
+        "updated": "2025-02-18 21:40:04",
         "author": "孙武",
         "description": "markdown的使用说明一、标题语法：# (一级标题)  ## (二级标题)  ### (三级标题) ......代码：# 这是一级标题 ## 这是二级标题效果:  这是一级标题这是二级标题快捷键:Ctrl+数字1~6可以快速将选中的文本调成对应级别的标题Ctrl+0可以快速将选中的文本调成..."
       },
@@ -44,6 +44,30 @@
       ],
       "realName": "markdown语法",
       "relativePath": "\\关于\\markdown语法.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 206481403,
+      "doc_id": "pgf5950f9yu6dlma",
+      "updated": 1739886001000,
+      "properties": {
+        "title": "语雀转vitepress示例代码",
+        "urlname": "pgf5950f9yu6dlma",
+        "date": "2025-02-18 20:50:11",
+        "updated": "2025-02-18 21:40:01",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2023/png/417081/1682313146385-a61870b7-6a26-45a5-977f-983a5317746f.png",
+        "description": "1.图片2.表格字段备注name名称age年龄3.附件测试文本1.docx4.状态计划中未完成已完成布局和样式1.高亮块蓝色背景高亮块:::tips灰色背景高亮:::color1天蓝:::color2翠绿:::success绿色:::color3黄色:::danger橙粉:::color4粉色..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "pgf5950f9yu6dlma"
+        }
+      ],
+      "realName": "语雀转vitepress示例代码",
+      "relativePath": "\\关于\\语雀转vitepress示例代码.md",
       "needUpdate": 1,
       "docPath": "docs\\docs\\关于"
     }
@@ -98,6 +122,24 @@
       "open_window": 1,
       "visible": 1,
       "prev_uuid": "AJ9fLKqq6KXEOGo8",
+      "sibling_uuid": "xpEYeUgbaJc4JMw2",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "xpEYeUgbaJc4JMw2",
+      "type": "DOC",
+      "title": "语雀转vitepress示例代码",
+      "url": "pgf5950f9yu6dlma",
+      "slug": "pgf5950f9yu6dlma",
+      "id": 206481403,
+      "doc_id": 206481403,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "tU-9xVTk40BmwlQF",
       "sibling_uuid": "",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",

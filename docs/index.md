@@ -11,8 +11,8 @@ hero:
     alt: Chrome 浏览器插件
   actions:
     - theme: brand
-      text: 快速开始
-      link: /docs/入门指引/快速开始
+      text: 最近的文章
+      link: /docs/关于/222
     - theme: brand
       text: 短路由示例
       link: /docs-shorturl/ssuhngw0yb3dgkkg
