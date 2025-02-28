@@ -70,5 +70,21 @@ export default defineConfig({
     ssr: {
       noExternal: ['@escook/vitepress-theme','vitepress']
     }
+  },
+  markdown: {
+    config: (md) => {
+      // 添加自定义处理器来保护特定内容
+      md.use((md) => {
+        const defaultRender = md.renderer.rules.text
+        md.renderer.rules.text = function(tokens, idx, options, env, self) {
+          const token = tokens[idx]
+          if (token.content.includes('由于传播、利用此文所提供的信息')) {
+            // 使用特殊字符包装内容，防止被过滤
+            return `<div class="disclaimer">${token.content}</div>`
+          }
+          return defaultRender(tokens, idx, options, env, self)
+        }
+      })
+    }
   }
 })
