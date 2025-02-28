@@ -1,5 +1,5 @@
 ### <font style="color:rgb(51, 51, 51);">1.图片</font>
-![](https://cdn.nlark.com/yuque/0/2023/png/417081/1682313146385-a61870b7-6a26-45a5-977f-983a5317746f.png)
+![](https://raw.githubusercontent.com/sunwu57/tuchuang/main/c6a235cd116809970cb63b45902b56b7.png)
 
 ### <font style="color:rgb(51, 51, 51);">2.表格</font>
 | **<font style="color:rgb(51, 51, 51);">字段</font>** | **<font style="color:rgb(51, 51, 51);">备注</font>** |
@@ -72,7 +72,7 @@
 
 <font style="color:rgb(51, 51, 51);">两列分栏——右</font>
 
-![](https://cdn.nlark.com/yuque/0/2023/png/417081/1677163708621-96cc61e3-c459-4880-8559-b10640d74d2a.png)
+![](https://raw.githubusercontent.com/sunwu57/tuchuang/main/42a95a0deca5135cabd143204811221c.png)
 
 <font style="color:rgb(51, 51, 51);"></font>
 
@@ -127,7 +127,7 @@ public void test11() {
 
 ### <font style="color:rgb(51, 51, 51);">3.UML图</font>
 ### <font style="color:rgb(51, 51, 51);">4.文本绘图</font>
-![](https://cdn.nlark.com/yuque/__puml/b11b6192390c95750c4b71c2580ff529.svg)
+![](https://raw.githubusercontent.com/sunwu57/tuchuang/main/5d3a6a548d3cbb37ad0a31ca7fc3d1d6.svg)
 
 ## <font style="color:rgb(51, 51, 51);">小工具</font>
 ### <font style="color:rgb(51, 51, 51);">1.提及</font>

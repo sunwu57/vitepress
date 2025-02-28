@@ -29,10 +29,17 @@ module.exports = {
   },
   image: {
     enable: true,
-    platform: 'local',
+    platform: 'github',
     local: {
       outputDir: './docs/images',
       pathFollowDoc: true,
+    },
+    github: {
+      token: process.env.GITHUB_TOKEN, // GitHub 的 Personal Access Token
+      user: process.env.GITHUB_USER, // GitHub 用户名
+      repo: process.env.GITHUB_REPO, // 仓库名
+      branch: 'main', // 分支名，默认是 main
+      path: 'img/', // 图片在仓库中的保存路径
     }
   }
 }
