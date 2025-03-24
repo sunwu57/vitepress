@@ -1285,7 +1285,7 @@ git push -u origin main --force
 ## <font style="color:rgb(31, 35, 40);">部署到 Vercel</font>
 <font style="color:rgb(31, 35, 40);">注册</font>[ Vercel](https://vercel.com/)<font style="color:rgb(31, 35, 40);"> 账号并绑定 Github，在 Vercel 导入 该项目，Vercel 会自动识别出该 VitePress 项目，不需要改动，直接选择 Deploy 部署。部署完成会有一个 Vercel 临时域名，你也可以绑定自己的域名。</font>
 
-![](https://camo.githubusercontent.com/cbb81a9ba9c325fa12d2c693188237a5f410d5ef6f7e2f5f4609b00f66de1c8d/68747470733a2f2f696d6167652e313837342e636f6f6c2f313837342f3230323331313139303132323036302e706e67)![](../../images/eabb3bebbfc5de266ddefd7648e940f0.png)
+![](../../images/3262d4fee014e5f89e2faed3296f5522.png)![](../../images/eabb3bebbfc5de266ddefd7648e940f0.png)
 
 ## 进行域名绑定
 Domains->Add  
@@ -1293,4 +1293,130 @@ Domains->Add
 
 ## 添加dns解析(使国内用户不挂代理也可以访问)
 ![](../../images/71bd21dfb0721db9320534e9d097d6ae.png)
+
+# 优化(选做)
+## 使用Github图床
+1. 修改`elog.config.js`内容如下(设置图床为github)，
+
+```yaml
+module.exports = {
+  write: {
+    platform: 'yuque',
+    // Token 模式（需要语雀超级会员）
+    yuque: {
+      token: process.env.YUQUE_TOKEN,
+      login: process.env.YUQUE_LOGIN,
+      repo: process.env.YUQUE_REPO,
+      onlyPublic: false,
+      onlyPublished: true,
+    },
+    // 账号密码模式
+    "yuque-pwd": {
+      username: process.env.YUQUE_USERNAME,
+      password: process.env.YUQUE_PASSWORD,
+      login: process.env.YUQUE_LOGIN,
+      repo: process.env.YUQUE_REPO,
+    }
+  },
+  deploy: {
+    platform: 'local',
+    local: {
+      outputDir: './docs/docs',
+      filename: 'title',
+      format: 'markdown',
+      catalog: true,
+      formatExt: './elog.format.js'
+    }
+  },
+  image: {
+    enable: true,
+    platform: 'github',
+    local: {
+      outputDir: './docs/images',
+      pathFollowDoc: true,
+    },
+    github: {
+      token: process.env.GITHUB_TOKEN, // GitHub 的 Personal Access Token
+      user: process.env.GITHUB_USER, // GitHub 用户名
+      repo: process.env.GITHUB_REPO, // 仓库名
+      branch: 'main', // 分支名，默认是 main
+      path: 'img/', // 图片在仓库中的保存路径
+    }
+  }
+}
+
+```
+
+2. 需改`.elog.env`添加相关配置api
+
+```yaml
+# 语雀（Token方式）
+YUQUE_TOKEN=
+
+#语雀账号密码模式
+YUQUE_USERNAME=
+YUQUE_PASSWORD=
+
+# 语雀公共参数
+YUQUE_LOGIN=sunwu-pbywz
+YUQUE_REPO=cgsqv7
+
+# 图床相关
+# 腾讯云
+COS_SECRET_ID=
+COS_SECRET_KEY=
+COS_BUCKET=
+COS_REGION=
+COS_HOST=
+
+# 阿里云
+OSS_SECRET_ID=
+OSS_SECRET_KEY=
+OSS_BUCKET=
+OSS_REGION=
+OSS_HOST=
+
+# 七牛云
+QINIU_SECRET_ID=
+QINIU_SECRET_KEY=
+QINIU_BUCKET=
+QINIU_REGION=
+QINIU_HOST=
+
+# 又拍云
+UPYUN_USER=
+UPYUN_PASSWORD=
+UPYUN_BUCKET=
+UPYUN_HOST=
+
+# Github 
+GITHUB_USER=用户名                                   
+GITHUB_TOKEN=你的token
+GITHUB_REPO=仓库名字
+
+```
+
+![](../../images/da797a164d3bde5484fd00fffbf19d25.png)
+
+### github的token获取
+![](../../images/acfb6c9dddc727c68bdeeb9797dc8364.png)![](../../images/0a3199ed6d025824b89fb9045c592a71.png)![](../../images/b01d66cf29075b5e1478b503d697bcd7.png)
+
+### 在项目根目录执行同步命令即可
+```yaml
+pnpm run elog:sync-local
+```
+
+1. 如果如图报错，请检查`.elog.env`中添加的三个参数值是否正确  
+![](../../images/a8f03b2d56e5056bceaf75c0927c0b49.png)
+2. 记得执行后续命令，将项目上传到github
+
+```yaml
+git init
+git add .
+git commit -m "first commit3"
+git remote add origin https://github.com/xxxxx/xxxx.git
+git branch -M main
+git config --global http.sslVerify "false"
+git push -u origin main --force
+```
 

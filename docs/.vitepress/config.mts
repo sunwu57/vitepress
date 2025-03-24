@@ -22,13 +22,32 @@ export default defineConfig({
     outline: [2,6],
     nav: [
       { text: '首页', link: '/' },
-      { text: '关于文库', link: '/' },
-      { text: '漏洞相关', link: '/' },
-      { text: 'CTF', link: '/' },
-      { text: '工具', link: '/' },
-      { text: '文库动态', link: '/' },
-      { text: '配置文档', link: '/docs/关于/222', activeMatch: '/docs/' },
-      { text: '友情链接', link: '/' },
+      //{ text: '关于文库', link: '/' },
+      {  text: '漏洞相关',
+      items: [
+        { text: '数据库漏洞', link: '/漏洞文库/数据库漏洞' },
+        { text: '网络设备漏洞', link: '/漏洞文库/网络设备漏洞' },
+        { text: 'OA产品漏洞', link: '/漏洞文库/OA产品漏洞' },
+        { text: 'CMS漏洞', link: '/漏洞文库/CMS漏洞' },
+        { text: '操作系统漏洞', link: '/漏洞文库/操作系统漏洞' },
+        { text: '开发语言漏洞', link: '/漏洞文库/开发语言漏洞' },
+        { text: '开发框架漏洞', link: '/漏洞文库/开发框架漏洞' },
+        { text: '其他漏洞', link: '/漏洞文库/其他漏洞' },
+        { text: '人工智能漏洞', link: '/漏洞文库/人工智能漏洞' },
+        { text: '云安全漏洞', link: '/漏洞文库/云安全漏洞' },
+        { text: '中间件漏洞', link: '/漏洞文库/中间件漏洞' },
+        { text: 'base', link: '/漏洞文库/base' },
+        { text: 'web应用漏洞', link: '/漏洞文库/web应用漏洞' },
+      ] },
+      //{ text: 'CTF', link: '/' },
+      //{ text: '工具', link: '/' },
+      //{ text: '文库动态', link: '/' },
+      //{ text: '配置文档', link: '/docs/关于/222', activeMatch: '/docs/' },
+      //{ text: '友情链接', link: '/' },
+      { text: '子夜网盘', link: 'https://pan.sunwu.world:5244/' },
+      { text: '文件快递柜', link: 'http://pan.sunwu.world:40157/#/' },
+      { text: '在线画板', link: 'http://pan.sunwu.world:5000/' },
+      { text: '爱发电', link: 'https://afdian.com/dashboard/stats' },
       // { text: '短路由模式', link: '/docs-shorturl/ssuhngw0yb3dgkkg', activeMatch: '/docs-shorturl/' }
     ],
     sidebar: {
@@ -58,7 +77,12 @@ export default defineConfig({
       `,
       copyright: `<div style="text-align: center; font-size: 14px;">
       <a href="https://beian.miit.gov.cn/#/Integrated/recordQuery" target="_blank" style="color: inherit; text-decoration: none;">
-        Copyright 1998 - 2025 ziye. All Rights Reserved
+      由于传播、利用此文所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，
+          文章作者不为此承担任何责任。子夜旅馆拥有对此文章的修改和解释权。
+          <br>如欲转载或传播此文章，
+          必须保证此文章的完整性，包括版权声明等全部内容。未经作者允许，不得任意修改或者增减此文章内容，
+          不得以任何方式将其用于商业目的。  
+          <br>Copyright 1998 - 2025 ziye. All Rights Reserved
         <br>皖ICP备2021016801号-1
       </a>
     </div>`
@@ -70,5 +94,27 @@ export default defineConfig({
     ssr: {
       noExternal: ['@escook/vitepress-theme','vitepress']
     }
+  },
+  markdown: {
+    config: (md) => {
+      // 添加自定义处理器来保护特定内容
+      md.use((md) => {
+        const defaultRender = md.renderer.rules.text
+        md.renderer.rules.text = function(tokens, idx, options, env, self) {
+          const token = tokens[idx]
+          if (token.content.includes('由于传播、利用此文所提供的信息')) {
+            // 使用特殊字符包装内容，防止被过滤
+            return `<div class="disclaimer">${token.content}</div>`
+          }
+          return defaultRender ? defaultRender(tokens, idx, options, env, self) : token.content
+        }
+      })
+    },
+    // 添加更宽松的 HTML 配置
+    html: true,
+    breaks: true,
+    linkify: true,
+    // 添加安全的标签白名单
+    allowedTags: ['a', 'abbr', 'b', 'code', 'em', 'img', 'li', 'ol', 'p', 'strong', 'ul']
   }
 })
