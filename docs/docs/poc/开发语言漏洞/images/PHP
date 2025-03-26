@@ -1,0 +1,7 @@
+111 8.1.0-dev 开发版本 zerodium 后门漏洞/1.md
+111 CGI Windows 平台远程代码执行漏洞 CVE-2024-4577/1.md
+111 imap 远程命令执行漏洞 CVE-2018-19518/1.md
+111 XDebug 远程调试模式导致代码执行/1.md
+111 利用 GNU C Iconv 将文件读取提升至 RCE CVE-2024-2961/1.md
+111 利用 phpinfo 包含临时文件 getshell/1.md
+111 环境 XML外部实体注入漏洞（XXE）/1.md
