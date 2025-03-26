@@ -103,6 +103,7 @@ export default defineConfig({
         //path: 'docs',
         scanRootMdFiles: true,
         titleFromFile: true,
+        collapsed: true,
       })
     ]
   },
