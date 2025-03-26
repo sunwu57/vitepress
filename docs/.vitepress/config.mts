@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 import { genYuqueSideBar } from "../../utils/route";
 import { YuQueSVG } from "../../utils/assists";
+import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -51,7 +52,7 @@ export default defineConfig({
       // { text: '短路由模式', link: '/docs-shorturl/ssuhngw0yb3dgkkg', activeMatch: '/docs-shorturl/' }
     ],
     sidebar: {
-      "/docs/": await genYuqueSideBar('/docs'),
+      //"/docs/": await genYuqueSideBar('/docs'),
       // "/docs-shorturl/": await genYuqueSideBarWithShortUrl('/docs-shorturl')
     },
     docFooter: {
@@ -93,7 +94,17 @@ export default defineConfig({
   vite: {
     ssr: {
       noExternal: ['@escook/vitepress-theme','vitepress']
-    }
+    },
+    plugins: [
+      // add plugin
+      AutoSidebar({
+        // You can also set options to adjust sidebar data
+        // see option document below
+        path: 'docs',
+        scanRootMdFiles: true,
+        titleFromFile: true,
+      })
+    ]
   },
   markdown: {
     config: (md) => {
