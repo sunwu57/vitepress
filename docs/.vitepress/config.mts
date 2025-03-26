@@ -39,7 +39,7 @@ export default defineConfig({
         { text: '云安全漏洞', link: encodeURI('/docs/poc/云安全漏洞/1') },
         { text: '中间件漏洞', link: encodeURI('/docs/poc/中间件漏洞/1') },
         { text: 'base', link: encodeURI('/docs/poc/base/1') },
-        { text: 'web应用漏洞', link: encodeURI('/docs/poc/web应用漏洞/1') },
+        { text: 'web应用漏洞', link: encodeURI('/docs/poc/Web应用漏洞/1') },
       ] },
       //{ text: 'CTF', link: '/' },
       //{ text: '工具', link: '/' },
