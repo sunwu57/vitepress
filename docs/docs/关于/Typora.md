@@ -577,7 +577,7 @@ F[竖向流程图]
 
 
 > 效果:  
-:happy:、 ![](../../images/98d2756adea4d1178361732702439bea.svg)、 ![](../../images/1d3fbac9b644717796b92914e2935088.svg)
+:happy:、 ![](https://gw.alipayobjects.com/os/lib/twemoji/11.2.0/2/svg/1f622.svg)、 ![](https://gw.alipayobjects.com/os/lib/twemoji/11.2.0/2/svg/1f468.svg)
 >
 
 

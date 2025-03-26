@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 import { genYuqueSideBar } from "../../utils/route";
 import { YuQueSVG } from "../../utils/assists";
+import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -25,19 +26,19 @@ export default defineConfig({
       //{ text: '关于文库', link: '/' },
       {  text: '漏洞相关',
       items: [
-        { text: '数据库漏洞', link: '/漏洞文库/数据库漏洞' },
-        { text: '网络设备漏洞', link: '/漏洞文库/网络设备漏洞' },
-        { text: 'OA产品漏洞', link: '/漏洞文库/OA产品漏洞' },
-        { text: 'CMS漏洞', link: '/漏洞文库/CMS漏洞' },
-        { text: '操作系统漏洞', link: '/漏洞文库/操作系统漏洞' },
-        { text: '开发语言漏洞', link: '/漏洞文库/开发语言漏洞' },
-        { text: '开发框架漏洞', link: '/漏洞文库/开发框架漏洞' },
-        { text: '其他漏洞', link: '/漏洞文库/其他漏洞' },
-        { text: '人工智能漏洞', link: '/漏洞文库/人工智能漏洞' },
-        { text: '云安全漏洞', link: '/漏洞文库/云安全漏洞' },
-        { text: '中间件漏洞', link: '/漏洞文库/中间件漏洞' },
-        { text: 'base', link: '/漏洞文库/base' },
-        { text: 'web应用漏洞', link: '/漏洞文库/web应用漏洞' },
+        { text: '数据库漏洞', link: '/docs/POC/数据库漏洞/1' },
+        { text: '网络设备漏洞', link: '/docs/POC/网络设备漏洞' },
+        { text: 'OA产品漏洞', link: '/docs/POC/OA产品漏洞' },
+        { text: 'CMS漏洞', link: '/docs/POC/CMS漏洞' },
+        { text: '操作系统漏洞', link: '/docs/POC/操作系统漏洞' },
+        { text: '开发语言漏洞', link: '/docs/POC/开发语言漏洞' },
+        { text: '开发框架漏洞', link: '/docs/POC/开发框架漏洞' },
+        { text: '其他漏洞', link: '/docs/POC/其他漏洞' },
+        { text: '人工智能漏洞', link: '/docs/POC/人工智能漏洞' },
+        { text: '云安全漏洞', link: '/docs/POC/云安全漏洞' },
+        { text: '中间件漏洞', link: '/docs/POC/中间件漏洞' },
+        { text: 'base', link: '/docs/POC/base' },
+        { text: 'web应用漏洞', link: '/docs/POC/web应用漏洞' },
       ] },
       //{ text: 'CTF', link: '/' },
       //{ text: '工具', link: '/' },
@@ -50,10 +51,11 @@ export default defineConfig({
       { text: '爱发电', link: 'https://afdian.com/dashboard/stats' },
       // { text: '短路由模式', link: '/docs-shorturl/ssuhngw0yb3dgkkg', activeMatch: '/docs-shorturl/' }
     ],
-    sidebar: {
-      "/docs/": await genYuqueSideBar('/docs'),
-      // "/docs-shorturl/": await genYuqueSideBarWithShortUrl('/docs-shorturl')
-    },
+    // sidebar: {
+    //   "/docs/": await genYuqueSideBar('/docs'),
+    //   // "/docs-shorturl/": await genYuqueSideBarWithShortUrl('/docs-shorturl')
+    // },
+    sidebar: {},
     docFooter: {
       prev: '上一篇',
       next: '下一篇'
@@ -90,10 +92,23 @@ export default defineConfig({
     
     ,
   },
+  build: {
+    chunkSizeWarningLimit: 10000 // 设置为 1000 KB
+  },
   vite: {
     ssr: {
       noExternal: ['@escook/vitepress-theme','vitepress']
-    }
+    },
+    plugins: [
+      // add plugin
+      AutoSidebar({
+        // You can also set options to adjust sidebar data
+        // see option document below
+        path: 'docs',
+        scanRootMdFiles: true,
+        titleFromFile: true,
+      })
+    ]
   },
   markdown: {
     config: (md) => {
