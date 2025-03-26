@@ -3,6 +3,7 @@ import { genYuqueSideBar } from "../../utils/route";
 import { YuQueSVG } from "../../utils/assists";
 import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar';
 
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: "zh-CN",
@@ -96,6 +97,7 @@ export default defineConfig({
       noExternal: ['@escook/vitepress-theme','vitepress']
     },
     plugins: [
+
       // add plugin
       AutoSidebar({
         // You can also set options to adjust sidebar data
