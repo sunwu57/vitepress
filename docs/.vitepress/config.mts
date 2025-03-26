@@ -24,7 +24,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       //{ text: '关于文库', link: '/' },
-      {  text: '漏洞相关',
+      {  text: '漏洞相关2',
       items: [
         { text: '数据库漏洞', link: encodeURI('/docs/POC/数据库漏洞/1') },
         { text: '网络设备漏洞', link: encodeURI('/docs/POC/网络设备漏洞') },
