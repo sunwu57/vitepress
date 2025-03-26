@@ -51,10 +51,10 @@ export default defineConfig({
       { text: '爱发电', link: 'https://afdian.com/dashboard/stats' },
       // { text: '短路由模式', link: '/docs-shorturl/ssuhngw0yb3dgkkg', activeMatch: '/docs-shorturl/' }
     ],
-    sidebar: {
-      //"/docs/": await genYuqueSideBar('/docs'),
-      // "/docs-shorturl/": await genYuqueSideBarWithShortUrl('/docs-shorturl')
-    },
+    // sidebar: {
+    //   //"/docs/": await genYuqueSideBar('/docs'),
+    //   // "/docs-shorturl/": await genYuqueSideBarWithShortUrl('/docs-shorturl')
+    // },
     docFooter: {
       prev: '上一篇',
       next: '下一篇'
@@ -100,13 +100,14 @@ export default defineConfig({
       AutoSidebar({
         // You can also set options to adjust sidebar data
         // see option document below
-        path: 'docs',
+        //path: 'docs',
         scanRootMdFiles: true,
         titleFromFile: true,
       })
     ]
   },
   markdown: {
+    lineNumbers: true,
     config: (md) => {
       // 添加自定义处理器来保护特定内容
       md.use((md) => {
