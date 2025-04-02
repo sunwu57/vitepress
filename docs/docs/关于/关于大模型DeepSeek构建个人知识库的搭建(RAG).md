@@ -31,7 +31,7 @@ ollama官网[https://ollama.com/](https://ollama.com/)
 ## ollama下载大模型
 <font style="color:rgb(51, 51, 51);">Ollama 安装成功之后，使用命令行 </font>`<font style="color:rgb(51, 51, 51);">ollama run deepseek-r1:1.5b</font>`<font style="color:rgb(51, 51, 51);">, 这个命令会自动下载 DeepSeek 模型到 HAI 并运行。1.5b 意思是下载参数个数为 15 亿的 DeepSeek 版本，笔者电脑配置还行deepseek-r1:14b就用这个了。出现</font>`<font style="color:rgb(51, 51, 51);">>>> send a message(/? for help)</font>`<font style="color:rgb(51, 51, 51);">就说明成功跑起来了，后续如果想关闭大模型可以直接关掉这个窗口即可</font>
 
-![](../../images/c95fb761ec8921cea756a80167f6cff3.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740646125643-df78594f-be2f-49e8-b5ea-ca134a50c812.png)
 
 通过浏览器访问本地11434端口，出现`Ollama is running`就说明成功了
 
@@ -68,7 +68,7 @@ docker compose up -d
 基础url：`http://127.0.0.1:11434`  
 模型名称：`<font style="color:rgb(51, 51, 51);">deepseek-r1:1.5b</font>`<font style="color:rgb(51, 51, 51);">点击保存即可</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740648391874-cc935443-afec-4f7e-8517-1458b52ba2ca.png)
+![](../../images/46ca8857abbc275c69eb6fdfc71f2b75.png)
 
 ### 将准备好的文档进行投喂，建立知识库
 1. 将准备好的文件拖进来就行
@@ -114,7 +114,7 @@ h3c路由器中，lock-time 60 中60是分钟还是秒？
 如果想让其他人也访问，点击右上角运行即可  
 ![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740649911577-45c27f57-48c7-4a47-b487-a9ab25694448.png)  
 会自动打开一个新的窗口，这个窗口是所有人都可以访问的，不需要登录也可以访问。记得将ip换一下。至此我们就构建了一个基于个人知识库的大模型`应用聊天机器人`。  
-![](../../images/66f43d4367ba7fe19f984ab0c3f85095.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740649946423-9f4fb2c7-02a3-4654-8661-55d0100a4c71.png)
 
 ## 对上面的一些内容进行补充
 ### 什么是提示词()，提示词有什么用？

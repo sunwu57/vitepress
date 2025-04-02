@@ -594,7 +594,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811082845-edaeb43b-9ce5-452b-bab8-374e45a5dc93.png)
+![](../../images/7865851da70c5a2b7fccbeb2e7858788.png)
 
 #### <font style="color:rgb(51, 51, 51);">明亮主题展示：appearance</font>
 `**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">appearance</font>**`**<font style="color:rgb(51, 51, 51);"> 配置不在 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig</font>**`**<font style="color:rgb(51, 51, 51);"> 字段里面，而是和 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig</font>**`**<font style="color:rgb(51, 51, 51);"> 同级</font>**![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811083922-e49f1bd7-f359-4851-8a7c-c8e5384690f8.png)
@@ -1021,7 +1021,7 @@ export default defineConfig({
 })
 ```
 
-<font style="color:rgb(51, 51, 51);">只展示 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h3</font>`<font style="color:rgb(51, 51, 51);"> 标题</font>![](../../images/7fef33d6b4d3d5a1aba1afd86468c47d.png)
+<font style="color:rgb(51, 51, 51);">只展示 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h3</font>`<font style="color:rgb(51, 51, 51);"> 标题</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086862-58dedf8a-85c0-4950-8694-b048639a603c.png)
 
 ##### <font style="color:rgb(51, 51, 51);">deep 字段</font>
 <font style="color:rgb(51, 51, 51);">当为字符串时，只有 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">deep</font>`<font style="color:rgb(51, 51, 51);"> 一个字段，与 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">[2, 6]</font>`<font style="color:rgb(51, 51, 51);"> 相同，展示 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h2~h6</font>`<font style="color:rgb(51, 51, 51);"> 所有标题</font>
@@ -1058,7 +1058,7 @@ export default defineConfig({
 + `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">level</font>`<font style="color:rgb(51, 51, 51);">: </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">number | [number, number] | 'deep'</font>`<font style="color:rgb(51, 51, 51);">，是展示标题等级</font>
 + `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">label</font>`<font style="color:rgb(51, 51, 51);">: </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">string</font>`<font style="color:rgb(51, 51, 51);">，是 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">outline</font>`<font style="color:rgb(51, 51, 51);"> 的标题，替换 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">On this page</font>`<font style="color:rgb(51, 51, 51);"> 文案</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811087801-ed46bcf8-e116-4c75-b6d5-bfea921dbe0b.png)
+![](../../images/b75ae1c6c07b6e9bc49a01410781d32d.png)
 
 #### <font style="color:rgb(51, 51, 51);">在当前页面中覆盖 config.mts 中的配置</font>
 <font style="color:rgb(51, 51, 51);">在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">basic/index.md</font>`<font style="color:rgb(51, 51, 51);"> 文件顶部写入以下内容</font>
@@ -1142,7 +1142,7 @@ export default defineConfig({
 })
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811089336-60e154b4-4f20-4b62-bb95-b0bc269d3982.png)
+![](../../images/1f01b8144979dc889024142209cb503d.png)
 
 #### <font style="color:rgb(51, 51, 51);">添加字体</font>
 ```plain

@@ -71,7 +71,7 @@ hexo s                                   //启动服务
 > <font style="color:#DF2A3F;">npm install hexo-deployer-git --save</font>
 >
 
-![](https://cdn.nlark.com/yuque/0/2024/png/26698826/1720595849698-166317e8-381d-4e54-88b5-d0a2a7ec7d5c.png)
+![](../../images/7c24be7efc60af7b0cf2a3b622d35187.png)
 
 + 在上一个`Git Bash Here`还需要继续配置
 
