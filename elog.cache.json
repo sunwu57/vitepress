@@ -118,12 +118,12 @@
     {
       "id": 207902898,
       "doc_id": "qy77g34sw8pf6knc",
-      "updated": 1742483400000,
+      "updated": 1743525497000,
       "properties": {
         "title": "关于大模型DeepSeek构建个人知识库的搭建(RAG)",
         "urlname": "qy77g34sw8pf6knc",
         "date": "2025-02-27 14:39:54",
-        "updated": "2025-03-20 23:10:00",
+        "updated": "2025-04-02 00:38:17",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1740645822668-15e983ad-dd05-4dc8-9f1a-2f93db47d13a.png",
         "description": "1. 前言由于笔记越写越多，在一堆笔记中进行查找费时费力，还要经常整理，更新。在黑神话悟空出来之后，b站有个up主将大量黑神话所参考的文献投喂给大模型，使用大模型制作多个agent智能体，将多个agent智能体以工作流的形式进行编排，制作出一个黑神话悟空的背景故事问答助手，准确率非常高，恰好前..."
@@ -136,6 +136,7 @@
       ],
       "realName": "关于大模型DeepSeek构建个人知识库的搭建(RAG)",
       "relativePath": "\\关于\\关于大模型DeepSeek构建个人知识库的搭建(RAG).md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\关于"
     },
     {
@@ -320,12 +321,12 @@
     {
       "id": 148986791,
       "doc_id": "0702f5e2fee312a06ed96d135a8eb292",
-      "updated": 1741528826000,
+      "updated": 1743506788000,
       "properties": {
         "title": "利用github搭建hexo博客",
         "urlname": "0702f5e2fee312a06ed96d135a8eb292",
         "date": "2023-12-03 17:15:00",
-        "updated": "2025-03-09 22:00:26",
+        "updated": "2025-04-01 19:26:28",
         "author": "孙武",
         "description": "参考链接主要参考准备前提提前安装好node.js左边的那个https://nodejs.org/en提前安装好Githttps://git-scm.com/downloads提前注册好一个github账号如果文章图片没有显示，请自行挂代理操作步骤在本地找个目录放博客源文件，路径不要有中文在选定..."
       },
@@ -337,6 +338,7 @@
       ],
       "realName": "利用github搭建hexo博客",
       "relativePath": "\\关于\\利用github搭建hexo博客.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\关于"
     },
     {
@@ -449,13 +451,57 @@
       "realName": "hexo+语雀",
       "relativePath": "\\关于\\hexo+语雀.md",
       "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 213109662,
+      "doc_id": "xcoymleeumz4vges",
+      "updated": 1743590843000,
+      "properties": {
+        "title": "payload",
+        "urlname": "xcoymleeumz4vges",
+        "date": "2025-03-31 08:47:29",
+        "updated": "2025-04-02 18:47:23",
+        "author": "孙武",
+        "description": "\"-prompt(1)-\" \"&gt;1  %'and'%'=' %'and'%'..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "xcoymleeumz4vges"
+        }
+      ],
+      "realName": "payload",
+      "relativePath": "\\关于\\payload.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 213025625,
+      "doc_id": "oymnu4ak7y4qognw",
+      "updated": 1743506781000,
+      "properties": {
+        "title": "Vite 任意文件读取漏洞（CVE-2025-30208）",
+        "urlname": "oymnu4ak7y4qognw",
+        "date": "2025-03-30 15:32:14",
+        "updated": "2025-04-01 19:26:21",
+        "author": "孙武",
+        "description": "漏洞分析漏洞描述Vite是一款流行的前端开发工具，但在以下版本中存在一个安全漏洞：6.2.3 之前版本6.1.2 之前版本6.0.12 之前版本5.4.15 之前版本4.5.10 之前版本问题：在这些版本中，Vite的文件系统模块@fs存在安全漏洞，允许攻击者绕过文件访问限制，访问服务器上的任..."
+      },
+      "catalog": [
+        {
+          "title": "漏洞复现",
+          "doc_id": "oymnu4ak7y4qognw"
+        }
+      ],
+      "realName": "Vite 任意文件读取漏洞（CVE-2025-30208）",
+      "relativePath": "\\漏洞复现\\Vite 任意文件读取漏洞（CVE-2025-30208）.md",
+      "docPath": "docs\\docs\\漏洞复现"
     }
   ],
   "catalog": [
     {
-      "uuid": "hOz82r2UAacCtoym",
+      "uuid": "ei-2gwma3II87RtG",
       "type": "TITLE",
-      "title": "ai",
+      "title": "漏洞复现",
       "url": "",
       "slug": "#",
       "id": "",
@@ -466,8 +512,26 @@
       "visible": 1,
       "prev_uuid": "",
       "sibling_uuid": "GxObxeQiBqbu0XuS",
-      "child_uuid": "",
+      "child_uuid": "8vhjyqm8blsdrbuA",
       "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "8vhjyqm8blsdrbuA",
+      "type": "DOC",
+      "title": "Vite 任意文件读取漏洞（CVE-2025-30208）",
+      "url": "oymnu4ak7y4qognw",
+      "slug": "oymnu4ak7y4qognw",
+      "id": 213025625,
+      "doc_id": 213025625,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "ei-2gwma3II87RtG",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "ei-2gwma3II87RtG",
       "_serializer": "v2.toc_item"
     },
     {
@@ -482,10 +546,28 @@
       "depth": 1,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "hOz82r2UAacCtoym",
+      "prev_uuid": "ei-2gwma3II87RtG",
       "sibling_uuid": "",
-      "child_uuid": "ANwb_V9L0jxW2U4j",
+      "child_uuid": "Xm5i103eDxIMFbXL",
       "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "Xm5i103eDxIMFbXL",
+      "type": "DOC",
+      "title": "payload",
+      "url": "xcoymleeumz4vges",
+      "slug": "xcoymleeumz4vges",
+      "id": 213109662,
+      "doc_id": 213109662,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "sibling_uuid": "ANwb_V9L0jxW2U4j",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
       "_serializer": "v2.toc_item"
     },
     {
@@ -500,7 +582,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "prev_uuid": "Xm5i103eDxIMFbXL",
       "sibling_uuid": "XlMIXHgHthYpFMJ8",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",

@@ -25,7 +25,7 @@ hexo g                                              //编译构建
 >
 
 构建好的效果:  
-![](../../images/198ac9bd95b230eced93fcbceb30e7e6.png)
+![](https://raw.githubusercontent.com/sunwu57/tuchuang/main/img/202303232317116.png)
 
 
 
@@ -53,7 +53,7 @@ hexo s                                   //启动服务
 
 
 
-![](../../images/ba35fd8674842f6bfcba96a7be860411.png)
+![](https://raw.githubusercontent.com/sunwu57/tuchuang/main/img/202303232317280.png)
 
 +  <font style="color:#DF2A3F;">key填写C:\Users\Administrator.ssh\id_rsa.pub中的内容 </font>
 + <font style="color:#DF2A3F;"> 尝试ssh连接,测试是否成功 </font>
@@ -71,7 +71,7 @@ hexo s                                   //启动服务
 > <font style="color:#DF2A3F;">npm install hexo-deployer-git --save</font>
 >
 
-![](../../images/7c24be7efc60af7b0cf2a3b622d35187.png)
+![](https://cdn.nlark.com/yuque/0/2024/png/26698826/1720595849698-166317e8-381d-4e54-88b5-d0a2a7ec7d5c.png)
 
 + 在上一个`Git Bash Here`还需要继续配置
 
@@ -91,7 +91,7 @@ deploy:
   branch: main
 ```
 
-![](../../images/3ede00a8d28300d7f1a3e1c5a85ab78e.png)
+![](https://raw.githubusercontent.com/sunwu57/tuchuang/main/img/202303232317329.png)
 
 +  注意保持格式，缩进不对，会导致一会儿，上传不成功 
 +  最后上传 
@@ -100,10 +100,10 @@ deploy:
 每次上传成功之后，需要等待1-3分钟，用来刷新页面
 >
 
-![](../../images/7bd5759cefb673f514e2e33a71ab4152.png)
+![](https://raw.githubusercontent.com/sunwu57/tuchuang/main/img/202303271424650.png)
 
 + 在创建的存储库的设置中-pages-如图设置  
-![](../../images/abd5160ffbeb99488abf21bcd3d6428a.png)
+![](https://raw.githubusercontent.com/sunwu57/tuchuang/main/img/202303271424773.png)
 7. hexo命令介绍
 
 ```plain

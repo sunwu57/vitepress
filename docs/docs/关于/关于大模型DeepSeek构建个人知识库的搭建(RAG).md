@@ -20,13 +20,13 @@ ollama官网[https://ollama.com/](https://ollama.com/)
 
 点击`Download`自行下载安装即可，这边建议运行ollama的配置最好好一些，这关乎着大模型运行的输出结果的好坏。
 
-![](../../images/36912032c6fc3cde9db99ae8d89da0e6.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740645822668-15e983ad-dd05-4dc8-9f1a-2f93db47d13a.png)
 
 
 
 另外建议不要安装在C盘
 
-![](../../images/12f597b200f028c70cff894bb4f16bf2.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740646006734-92c64ee0-c7c6-48fe-9347-803e070dc3a2.png)
 
 ## ollama下载大模型
 <font style="color:rgb(51, 51, 51);">Ollama 安装成功之后，使用命令行 </font>`<font style="color:rgb(51, 51, 51);">ollama run deepseek-r1:1.5b</font>`<font style="color:rgb(51, 51, 51);">, 这个命令会自动下载 DeepSeek 模型到 HAI 并运行。1.5b 意思是下载参数个数为 15 亿的 DeepSeek 版本，笔者电脑配置还行deepseek-r1:14b就用这个了。出现</font>`<font style="color:rgb(51, 51, 51);">>>> send a message(/? for help)</font>`<font style="color:rgb(51, 51, 51);">就说明成功跑起来了，后续如果想关闭大模型可以直接关掉这个窗口即可</font>
@@ -35,7 +35,7 @@ ollama官网[https://ollama.com/](https://ollama.com/)
 
 通过浏览器访问本地11434端口，出现`Ollama is running`就说明成功了
 
-![](../../images/45014ae07cd0f925fdb1853267d587bb.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740647367248-525987dc-4581-49fe-b51e-dd9dd23a756b.png)
 
 ## 准备投喂给大模型的资源
 1. 这里我以h3c的一个帮助手册作为投喂材料举例(也可以是其他格式的，多少个都行)
@@ -59,29 +59,29 @@ docker compose up -d
 
 启动后访问本地的80端口即可
 
-![](../../images/bde7ec2ec3afff990d45d75dc01804a1.png)![](../../images/91747b1000c3cca3913d4096ac949a2c.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740647167378-27b54c7b-7c3e-427e-be33-1b08e8903e44.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740647681280-27283db5-6637-489d-bc54-dd07a271fef3.png)
 
 ### 添加大模型
 1. 进入`dify`的设置  
-![](../../images/e0721e92d2a7f27291276c02748be429.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740647786997-7cb4c8a0-dc7d-4681-87d5-fa21d502d1c2.png)
 2. 这里的配置  
 基础url：`http://127.0.0.1:11434`  
 模型名称：`<font style="color:rgb(51, 51, 51);">deepseek-r1:1.5b</font>`<font style="color:rgb(51, 51, 51);">点击保存即可</font>
 
-![](../../images/46ca8857abbc275c69eb6fdfc71f2b75.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740648391874-cc935443-afec-4f7e-8517-1458b52ba2ca.png)
 
 ### 将准备好的文档进行投喂，建立知识库
 1. 将准备好的文件拖进来就行
 
-![](../../images/dd23cb5cd0acd638ceaeb616cbd5a0ee.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740648559080-4ec5ba76-6914-430c-8d2b-b6922bd05e5a.png)
 
 剩下的默认就行，保存并处理。
 
-![](../../images/b5e8ab05640a3bc7323ecd98e26df5e0.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740648605348-56dbefd0-1b91-4d08-b212-e799b0650bef.png)
 
 这样就建立了一个知识库，知识库有一个文档。后续有需要可以自行添加。
 
-![](../../images/ff5ecea733087803e0e28fb0339d9a10.png)![](../../images/cbb5d334957d2008d50fa9fdecfa5cbf.png)<font style="color:rgb(51, 51, 51);">向量数据库是一种用于存储和查询高维向量数据的数据库，其核心功能是提供高效的相似度搜索，使得查询向量能够找到与之最接近的向量。相比传统</font>[<font style="color:rgb(0, 82, 217);">关系型数据库</font>](https://cloud.tencent.com/product/tencentdb-catalog?from_column=20065&from=20065)<font style="color:rgb(51, 51, 51);">（如 </font><font style="color:rgb(0, 82, 217);">MySQL</font><font style="color:rgb(51, 51, 51);">、</font><font style="color:rgb(0, 82, 217);">PostgreSQL</font><font style="color:rgb(51, 51, 51);">），向量数据库更适合存储和检索非</font><font style="color:rgb(0, 82, 217);">结构化数据</font><font style="color:rgb(51, 51, 51);">，如文本、图像、音频等。</font>
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740648721291-995072f7-1106-4a49-a4a9-17ccff094d1c.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740648739931-f6ffedf8-a8f7-43b6-b887-9a9829765441.png)<font style="color:rgb(51, 51, 51);">向量数据库是一种用于存储和查询高维向量数据的数据库，其核心功能是提供高效的相似度搜索，使得查询向量能够找到与之最接近的向量。相比传统</font>[<font style="color:rgb(0, 82, 217);">关系型数据库</font>](https://cloud.tencent.com/product/tencentdb-catalog?from_column=20065&from=20065)<font style="color:rgb(51, 51, 51);">（如 </font><font style="color:rgb(0, 82, 217);">MySQL</font><font style="color:rgb(51, 51, 51);">、</font><font style="color:rgb(0, 82, 217);">PostgreSQL</font><font style="color:rgb(51, 51, 51);">），向量数据库更适合存储和检索非</font><font style="color:rgb(0, 82, 217);">结构化数据</font><font style="color:rgb(51, 51, 51);">，如文本、图像、音频等。</font>
 
 <font style="color:rgb(51, 51, 51);">在 RAG 架构中，向量数据库的作用类似于一个知识库，它存储了大量文本片段的嵌入（Embeddings），当用户输入查询时，模型会将查询转换为向量，并在数据库中检索最相关的向量，进而找到对应的文本内容。这种方式大幅提高了生成式 AI 的可控性和可解释性。</font>
 
@@ -92,9 +92,9 @@ docker compose up -d
 
 ## 创建基于知识库的聊天机器人并发布
 1. 创建空白应用  
-![](../../images/b02fc0632d05a0bc2fd4bbc7d22f1cb5.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740648851813-d96b4604-f8d6-4b72-945e-f6d17a09629c.png)
 2. 初学者用默认的第一个就行，设置名称，创建  
-![](../../images/60ac546eea1d610485d98a82bf94ea07.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740648878115-e81080c6-bdca-405e-ad32-50d7eb491edf.png)
 3. 暂时先不加入提示词和知识库，我们进行提问
 
 ```yaml
@@ -102,17 +102,17 @@ h3c路由器中，lock-time 60 中60是分钟还是秒？
 ```
 
 4.   
-![](../../images/4e308004c31af793d0fc3ac7e1f9c3a9.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740649069495-ba1095c2-5546-4d66-aaa5-81c22ee4c43c.png)
 5. 可以发现一本正经的胡扯  
-![](../../images/53c5faceacd7f941d2342b24a2978cf7.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740649605570-94ed1152-ccf5-4840-8b8b-de3a18fba294.png)
 6. 这时我们加入知识库  
-![](../../images/61f1cc214a3fe1edaa40505c48c6faf8.png)  
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740649674767-2744dcb7-01e6-4e51-902c-449e4a55d750.png)  
 再问同样的东西，这次发现就靠谱多了，回答的是分钟  
-![](../../images/0459b23e7c4341895d80a8d45c506cbf.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740649735737-ebea6826-a6d9-4dce-b1b0-2ca6488c09d5.png)
 7. 点击发布，这样我们在探索中就会多一个应用  
-![](../../images/2bf0eb2a1569bddd460f76699f0d7c0c.png)  
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740649853268-130d74ca-1463-456c-91d5-d1a114418590.png)  
 如果想让其他人也访问，点击右上角运行即可  
-![](../../images/98d1c8dbc2c8151bc80b7da18058f205.png)  
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740649911577-45c27f57-48c7-4a47-b487-a9ab25694448.png)  
 会自动打开一个新的窗口，这个窗口是所有人都可以访问的，不需要登录也可以访问。记得将ip换一下。至此我们就构建了一个基于个人知识库的大模型`应用聊天机器人`。  
 ![](../../images/66f43d4367ba7fe19f984ab0c3f85095.png)
 
@@ -198,12 +198,12 @@ for(int i = 1; i < weight.size(); i++) { // 遍历物品
 ## 大模型的选择
 1. [https://ollama.com/search](https://ollama.com/search)  
 这里面是ollama整理的一些模型  
-![](../../images/173ea1ba492ab9fd2a811870fa77e1d2.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740731114652-565a8f42-05ab-4a99-9617-4ca1c253eab7.png)
 2. 如何查看自己电脑的显存？
 
 任务管理器->性能->GPU 0->专用就是自己的显存大小，我的是12GB。
 
-![](../../images/27cd2d644b09cf1d7931ddd67b802d66.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740731789328-3fadaf14-a94c-4a0c-b5dc-28afa71c19cb.png)
 
 ## dify解除上传大小限制
 ```plain
@@ -220,7 +220,7 @@ docker compose up -d
 ```
 
 ## 参数介绍
-![](../../images/ca4abb74be39dcfcded423af0aa840ce.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1741010121666-c09e1283-216f-4980-b65d-50c594a0c3bc.png)
 
 ### 召回率
 [https://techcommunity.microsoft.com/blog/azure-ai-services-blog/azure-ai-search-outperforming-vector-search-with-hybrid-retrieval-and-reranking/3929167](https://techcommunity.microsoft.com/blog/azure-ai-services-blog/azure-ai-search-outperforming-vector-search-with-hybrid-retrieval-and-reranking/3929167)
@@ -255,7 +255,7 @@ docker compose up -d
 ### 重新排序Rerank
 重新排序Rerank是一种根据查询Query和文档的相似性打分，并进行排序的技术，和上面提到的类似。但是不一样。这里是`Cross Encoder`,相比前面，这个更加精准，但是慢
 
-![](../../images/06ffd3d2b5f3689369cff57f6e187734.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1741011970234-b90e61a8-4ca3-42f4-8e46-09f74a7576a1.png)
 
 ## 如果只是单纯的用RAG我建议用RAGLOW
 # ollama的一些安全问题
@@ -266,9 +266,9 @@ docker compose up -d
 
 ## 漏洞利用
 ### ollama未授权
-1. 一般来说，访问默认端口11434。提示`Ollama is running` 可能存在漏洞![](../../images/a287e1f802384afdb7c386637e0e03f5.png)
+1. 一般来说，访问默认端口11434。提示`Ollama is running` 可能存在漏洞![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740729470953-d809e485-1fad-4a8c-be46-b0b6090b7615.png)
 2. 进一步验证，GET请求利用接口地址/api/tags。寻找合适的模型就可以了，这里看到一个32b的  
-![](../../images/8e28c88d8d03d9d7bf5012233288a835.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740729576626-b678539d-46e9-4c02-b757-16cd6218f590.png)
 3. 通过2.5.3-2如果可以添加成功，就说明存在漏洞，调用别人服务器上的大模型供自己使用，简称白嫖。
 4. 其他接口
 

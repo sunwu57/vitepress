@@ -104,7 +104,7 @@ export default defineConfig({
         // see option document below
         //path: 'docs',
         scanRootMdFiles: true,
-        titleFromFile: true,
+        titleFromFile: false,
         collapsed: true,
       })
     ]
