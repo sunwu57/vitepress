@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "fdbb7e109fd1a130",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e73f01655a94e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36437957ca3e7241",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d5432fe2cba6f13",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7315799ef2a202e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06e508b61e2d6a69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ecb7eadce9a4bff7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f07af9743086e681",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c4f4c5b7e35ae89",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2fdbf2a2dfb993e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26cba9b17f98b2c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "7cd9cffff1f02a47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/poc/Web应用漏洞/1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1 的出链列表"
+            }
+          },
+          {
+            "id": "02a7b32ffc793485",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "894ebb5af3688988",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false
+    }
+  },
+  "active": "36437957ca3e7241",
+  "lastOpenFiles": [
+    "docs/poc/开发框架漏洞/Apache OFBiz RMI Bypass RCE CVE-2021-29200.md",
+    "docs/poc/Web应用漏洞/1.md",
+    "docs/poc/开发框架漏洞/1.md",
+    "docs/poc/CMS漏洞/74cms v4.2.1 v4.2.129 后台getshell漏洞.md",
+    "docs/poc/操作系统漏洞/Shellshock 破壳漏洞 CVE-2014-6271.md",
+    "docs/poc/操作系统漏洞/Linux openvswitch 权限提升漏洞 CVE-2022-2639.md",
+    "docs/poc/操作系统漏洞/Linux sudo 权限提升漏洞 CVE-2021-3156.md",
+    "docs/漏洞复现/Vite 任意文件读取漏洞（CVE-2025-30208）.md"
+  ]
+}
