@@ -18,8 +18,13 @@ if "%note%"=="" (
 set message=%ymd%-%note%
 
 :: Git 操作
+pnpm run elog:sync-local
+git init
 git add .
 git commit -m "%message%"
-
+git remote set-url origin git@github.com:sunwu57/vitepress.git
+git branch -M main
+git config --global http.sslVerify "false"
+git push -u origin main --force
 :: 输出结果
-echo Commit 完成：%message%
+echo Commit 完成：%message% >> log.txt
