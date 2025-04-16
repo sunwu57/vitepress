@@ -1,0 +1,171 @@
+
+> yuque-vitepress@1.0.0 elog:sync-local E:\vitepress2\yuque-vitepress-master
+> elog sync -e .elog.env
+
+环境变量  已指定读取env文件为：E:\vitepress2\yuque-vitepress-master\.elog.env
+注意      正在使用插件/拓展点: ./elog.format.js，请遵循插件/拓展开发规范
+正在获取文档列表，请稍等...
+(node:23868) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+文档总数  22
+上次同步时 【本blog的搭建】 存在图片下载失败，本次将尝试重新同步
+上次同步时 【Typora】 存在图片下载失败，本次将尝试重新同步
+上次同步时 【markdown语法】 存在图片下载失败，本次将尝试重新同步
+跳过下载  payload
+跳过下载  Vite 任意文件读取漏洞（CVE-2025-30208）
+跳过下载  jwt爆破
+跳过下载  关于大模型DeepSeek构建个人知识库的搭建(RAG)
+跳过下载  cursor+deepseek编程
+跳过下载  语雀转vitepress示例代码
+跳过下载  echo命令在攻击中应用
+跳过下载  反弹SHell原理与检测思路
+跳过下载  文本处理
+跳过下载  代理抓包
+跳过下载  百分百进行new-bing聊天，跳过候补名单
+跳过下载  权限维持
+跳过下载  护网题库
+跳过下载  利用github搭建hexo博客
+跳过下载  免杀第一课
+跳过下载  使用chatGPT写论文方法
+跳过下载  typora+PicGo+LskyPro+Obsidian实现文章管理
+跳过下载  mysql安装
+跳过下载  hexo+语雀
+待下载数  3
+开始下载文档...
+下载文档 1/3   本blog的搭建
+下载文档 2/3   Typora
+下载文档 3/3   markdown语法
+已下载数  3
+开始处理图片...
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811080253-34219843-dfff-42a2-804a-56fb8fa8dd30.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811083945-3df6afcc-57b6-448d-90d1-0b778a512a36.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086862-58dedf8a-85c0-4950-8694-b048639a603c.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811084768-6aea703b-96b9-4e3e-9444-1eb72a27a9e7.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811089331-cd44b10e-31b7-47f1-b210-cd1f8520668c.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811084557-5bbc7601-f1c2-461b-905c-b202f9193cb7.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811082494-7435a1f7-cb3c-422e-a64a-79f11cecc7f3.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739810402414-30a10456-d000-4822-8864-32a8322642ea.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077083-88384555-4fff-439d-b8b6-f9a4fc91e4f7.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811081909-6a692599-14a5-4b72-a587-be52cb067e02.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811088708-7301372a-2603-4a52-a18c-3e0674056855.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086201-03973040-9b7e-40a3-821f-2d5a05b4fe77.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086163-a7cc5869-a25d-482c-9ce3-2880aa73c571.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811081168-e0d3ef01-32f5-4f32-9f3a-68d31d40cb67.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811089336-60e154b4-4f20-4b62-bb95-b0bc269d3982.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739810724053-1e102a50-6f0c-4f01-b864-9151d01bf691.png
+下载失败: basic-desc.png，getaddrinfo ENOTFOUND basic-desc.png, GET http://basic-desc.png -1 (connected: false, keepalive socket: false, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811087725-278d669a-732f-47c5-9c5d-4f0673b3be49.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811082845-edaeb43b-9ce5-452b-bab8-374e45a5dc93.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077715-1bb2f825-aa77-441c-882c-043be5cf9702.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739813239441-be707389-06bc-4efb-8eec-cf6a0340adc8.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739803976612-3af47b2e-5e9e-4e54-8354-e593e1a7bd46.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811079313-034ea56f-acde-4e82-8f13-5ab92cd07507.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811087801-ed46bcf8-e116-4c75-b6d5-bfea921dbe0b.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811090170-2fc9247c-16d1-4c28-b834-1ae121b964a2.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811089361-19f40e08-5b27-44a7-9825-f42dffc1572b.png
+下载成功  https://camo.githubusercontent.com/cbb81a9ba9c325fa12d2c693188237a5f410d5ef6f7e2f5f4609b00f66de1c8d/6874747073
+          3a2f2f696d6167652e313837342e636f6f6c2f313837342f3230323331313139303132323036302e706e67
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086111-8f851a80-e7e6-4707-9e83-edda13c743e1.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811078642-56a65af3-5bb8-4a2f-acab-8c827a607afb.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811087781-92c8e847-30f3-41a8-820b-0c62b97129df.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811083922-e49f1bd7-f359-4851-8a7c-c8e5384690f8.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811088309-e91928a1-8f81-4751-beaa-8af4282ee0a0.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077913-bc88173a-e87f-410e-9715-956babe22777.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077699-807f66b1-b841-43da-942b-78f81e79324a.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077921-011ca5af-e1a6-49f8-b706-1ff22c739c44.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811090735-cb4ab19c-acb4-42dc-863e-35d3f1b6083e.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811079301-709f6bc6-18d1-43e8-9ea7-eab85cedc5f5.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811078428-d086bf04-59bb-4924-80a2-3f0a1bb0e854.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1740639911083-2aaa409f-cff5-4b88-a8b3-181bd307bc9c.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739812572497-b3967772-4fc7-41b0-8d97-675cf5fc4306.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811090894-2b6e657d-88cb-4408-8dbd-f5b0a216cbe1.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739812383932-dd7c0556-d02c-4371-bfa1-c8178073b701.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739812295029-5dd70eae-fce9-40dd-9fad-8b3c15607b2f.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640600349-c8f9f3db-3210-4add-8c90-2499a2227d0d.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/gif/26698826/1739811085349-8c537688-ece0-445c-a8ab-bf06b140e8b1.gif
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640777195-ac5f5938-2e31-405e-807f-cde5af0556fb.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640556911-84b533fe-9404-4ab3-9a3b-fa53be4f0d95.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/gif/26698826/1739811084141-2ab8133c-54cc-44bf-8eb1-677df72bc61e.gif
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640521247-366f26b7-2d35-4f6b-9c72-42462fe95aad.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811080094-26e0947a-22ba-43e9-a007-23457f07df48.png
+下载成功  https://cdn.nlark.com/yuque/0/2025/gif/26698826/1739811081078-25b47778-d66c-4677-98c4-a85e90954d29.gif
+下载成功  https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811079290-db237a21-d438-4e71-8c1c-a09db0e542a4.png
+下载成功  https://camo.githubusercontent.com/cbb81a9ba9c325fa12d2c693188237a5f410d5ef6f7e2f5f4609b00f66de1c8d/6874747073
+          3a2f2f696d6167652e313837342e636f6f6c2f313837342f3230323331313139303132323036302e706e67
+下载失败: /basic/basic-desc.png，getaddrinfo ENOTFOUND basic, GET http:///basic/basic-desc.png -1 (connected: false, keepalive socket: false, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+图片替换  ../../images/5fa5f82087e9c84bdb4c584688b72b4f.png
+图片替换  ../../images/2a1771ce5f1f45f20c50f2d5b4f29a6d.png
+图片替换  ../../images/4c6f0f6411208c41b57add406c9eddba.png
+图片替换  ../../images/b0f0d196bb25a454b5eee44f2da6f1e3.png
+图片替换  ../../images/d27e98fbc3ffde49e1c19cdfd072cabd.png
+图片替换  ../../images/fed87a4a544f6199d6e6e1b279af525a.png
+图片替换  ../../images/e5d5540d0028ac3f6b02bcd9c885ddf5.png
+图片替换  ../../images/4cc4c0973c66e3dec86a2874aa05238d.png
+图片替换  ../../images/e38c3fe953234bbc897cc15bf840ceaa.png
+图片替换  ../../images/b2b64b9a3be6233391b97c24264108d1.png
+图片替换  ../../images/ff38e1cbcfa298db2821e1e22d1f3f96.png
+图片替换  ../../images/05633a8610627b5a9a4819773cb97878.png
+图片替换  ../../images/e90efb1f859247dd24869863508d6961.png
+图片替换  ../../images/8c7843cf20f363efd85ec87a51fdabb6.png
+图片替换  ../../images/b86b03f5923ca21a53134213283bdab3.png
+图片替换  ../../images/28816bd55b5acaec28dd60741b55c742.png
+图片替换  ../../images/ab16a751a1b30be698f0fb74c90828df.png
+图片替换  ../../images/f855417fbee04e07effe08d8eb5c20c5.gif
+图片替换  ../../images/0cc3f8dcc8efde329bb97bd863b44001.png
+图片替换  ../../images/a1f229f9bc63a52190e969f5ad47a627.png
+图片替换  ../../images/7865851da70c5a2b7fccbeb2e7858788.png
+图片替换  ../../images/292393dbd54c7e8c572165c68b88b5b2.png
+图片替换  ../../images/84dbae9cf8ea7833e62ff4e1ff56f9c4.png
+图片替换  ../../images/edf9bd4354764b064de8792199315148.png
+图片替换  ../../images/ab996deae6301f254090932bd287bab2.png
+图片替换  ../../images/e8aa86160abd935f8b2b65301bdd8e6a.gif
+图片替换  ../../images/393f430dc5349468a3c495ab8c0e3935.gif
+图片替换  ../../images/5efeed543ed4c7516f39524852567948.png
+图片替换  ../../images/d4876f439cf13c9a5971c6e18e6e0a63.png
+图片替换  ../../images/073b9e24bbc2f4da28305eec248ed665.png
+图片替换  ../../images/7fef33d6b4d3d5a1aba1afd86468c47d.png
+图片替换  ../../images/2ceb3d2643c5007adaba482a0b717dbe.png
+图片替换  ../../images/4037fe81d0d075a305b3da4a600a7f74.png
+图片替换  ../../images/b75ae1c6c07b6e9bc49a01410781d32d.png
+图片替换  ../../images/41ed5a4932dfc188c718717a6ff6b25a.png
+图片替换  ../../images/bc35e5e1135dafd98c152f26e8a4a2b2.png
+图片替换  ../../images/1f01b8144979dc889024142209cb503d.png
+图片替换  ../../images/266e5f49658ce1cbfdb1fd10b68836fb.png
+图片替换  ../../images/feda21b87784ce8b4831b847465f48f3.png
+图片替换  ../../images/f69e246cb8268b40e721cf9588566e0d.png
+图片替换  ../../images/bff15747c80422f60d790b0e99c0907c.png
+图片替换  ../../images/a3a5afc64145b9b9a142e4a974991091.png
+图片替换  ../../images/3262d4fee014e5f89e2faed3296f5522.png
+图片替换  ../../images/eabb3bebbfc5de266ddefd7648e940f0.png
+图片替换  ../../images/8152d3bb1f516c980f2b040066ee500e.png
+图片替换  ../../images/71bd21dfb0721db9320534e9d097d6ae.png
+图片替换  ../../images/da797a164d3bde5484fd00fffbf19d25.png
+图片替换  ../../images/acfb6c9dddc727c68bdeeb9797dc8364.png
+图片替换  ../../images/0a3199ed6d025824b89fb9045c592a71.png
+图片替换  ../../images/b01d66cf29075b5e1478b503d697bcd7.png
+图片替换  ../../images/a8f03b2d56e5056bceaf75c0927c0b49.png
+下载失败: 图片路径，getaddrinfo ENOTFOUND xn--wcs41rxlqf8z, GET http://图片路径 -1 (connected: false, keepalive socket: false, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+Typora 存在获取图片类型失败，跳过：图片路径
+下载失败: C:\Users\asus\Pictures\Saved Pictures\Snipaste_2020-09-03_13-19-11.png，getaddrinfo ENOTFOUND c, GET http://C:\Users\asus\Pictures\Saved Pictures\Snipaste_2020-09-03_13-19-11.png -1 (connected: false, keepalive socket: false, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+下载成功  https://gw.alipayobjects.com/os/lib/twemoji/11.2.0/2/svg/1f622.svg
+下载成功  https://gw.alipayobjects.com/os/lib/twemoji/11.2.0/2/svg/1f468.svg
+图片替换  ../../images/98d2756adea4d1178361732702439bea.svg
+图片替换  ../../images/1d3fbac9b644717796b92914e2935088.svg
+下载失败: 图片路径，getaddrinfo ENOTFOUND xn--wcs41rxlqf8z, GET http://图片路径 -1 (connected: false, keepalive socket: false, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+markdown语法 存在获取图片类型失败，跳过：图片路径
+下载失败: 图片路径，getaddrinfo ENOTFOUND xn--wcs41rxlqf8z, GET http://图片路径 -1 (connected: false, keepalive socket: false, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+markdown语法 存在获取图片类型失败，跳过：图片路径
+下载失败: C:\Users\asus\Pictures\Saved Pictures\Snipaste_2020-09-03_13-19-11.png，getaddrinfo ENOTFOUND c, GET http://C:\Users\asus\Pictures\Saved Pictures\Snipaste_2020-09-03_13-19-11.png -1 (connected: false, keepalive socket: false, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+下载失败: C:\Users\asus\Pictures\Saved Pictures\Snipaste_2020-09-03_13-19-11.png，getaddrinfo ENOTFOUND c, GET http://C:\Users\asus\Pictures\Saved Pictures\Snipaste_2020-09-03_13-19-11.png -1 (connected: false, keepalive socket: false, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+生成文档  本blog的搭建.md
+生成文档  Typora.md
+生成文档  markdown语法.md
+任务结束  同步成功！

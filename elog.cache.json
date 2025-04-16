@@ -453,14 +453,14 @@
     {
       "id": 213109662,
       "doc_id": "xcoymleeumz4vges",
-      "updated": 1744771220000,
+      "updated": 1744772530000,
       "properties": {
-        "title": "payload2",
+        "title": "payload",
         "urlname": "xcoymleeumz4vges",
         "date": "2025-03-31 08:47:29",
-        "updated": "2025-04-16 10:40:20",
+        "updated": "2025-04-16 11:02:10",
         "author": "孙武",
-        "description": "\"-prompt(1)-\" \";prompt(1);// \"&gt;1   \"&gt;"
+        "description": "GitHub - sunwu57/ziye-security-wordlists: ziye的专属字典 \"-prompt(1)-\" \";prompt(1);// \"&gt;1 "
       },
       "catalog": [
         {
@@ -468,8 +468,8 @@
           "doc_id": "xcoymleeumz4vges"
         }
       ],
-      "realName": "payload2",
-      "relativePath": "\\关于\\payload2.md",
+      "realName": "payload",
+      "relativePath": "\\关于\\payload.md",
       "docPath": "docs\\docs\\关于"
     },
     {
@@ -553,7 +553,7 @@
     {
       "uuid": "Xm5i103eDxIMFbXL",
       "type": "DOC",
-      "title": "payload2",
+      "title": "payload",
       "url": "xcoymleeumz4vges",
       "slug": "xcoymleeumz4vges",
       "id": 213109662,
