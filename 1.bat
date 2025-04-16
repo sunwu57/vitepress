@@ -1,1 +1,1 @@
-D:\env\git\Git\usr\bin\bash.exe ./1.sh
+D:\env\git\Git\git-bash.exe ./1.sh
