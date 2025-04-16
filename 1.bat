@@ -1,0 +1,1 @@
+D:\env\git\Git\usr\bin\bash.exe ./1.sh
