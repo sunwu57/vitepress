@@ -427,7 +427,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-![](../../images/ab16a751a1b30be698f0fb74c90828df.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811081168-e0d3ef01-32f5-4f32-9f3a-68d31d40cb67.png)
 
 ##### <font style="color:rgb(51, 51, 51);">搜索效果展示</font>
 ![](https://cdn.nlark.com/yuque/0/2025/gif/26698826/1739811081078-25b47778-d66c-4677-98c4-a85e90954d29.gif)
