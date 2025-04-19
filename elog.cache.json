@@ -73,12 +73,12 @@
     {
       "id": 206488350,
       "doc_id": "odihxemydqo73zpz",
-      "updated": 1741103859000,
+      "updated": 1744955379000,
       "properties": {
         "title": "cursor+deepseek编程",
         "urlname": "odihxemydqo73zpz",
         "date": "2025-02-18 21:50:42",
-        "updated": "2025-03-04 23:57:39",
+        "updated": "2025-04-18 13:49:39",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1739887077637-4c521a76-99ff-4728-b5a5-753c208acbcc.png",
         "description": "1. cursor是什么?cursor是openAi合作伙伴推出的，内置GPT-4的编辑器，能更好的为开发者服务。关键是是他是免费的。cursor不用梯子也能用，支持多种语言：python，java，C#等等语言，也同样支持在多平台安装。可以用于聊天，辅助写代码，辅助写作等等功能。相信你试用了..."
@@ -453,12 +453,12 @@
     {
       "id": 213109662,
       "doc_id": "xcoymleeumz4vges",
-      "updated": 1744772530000,
+      "updated": 1744963608000,
       "properties": {
         "title": "payload",
         "urlname": "xcoymleeumz4vges",
         "date": "2025-03-31 08:47:29",
-        "updated": "2025-04-16 11:02:10",
+        "updated": "2025-04-18 16:06:48",
         "author": "孙武",
         "description": "GitHub - sunwu57/ziye-security-wordlists: ziye的专属字典 \"-prompt(1)-\" \";prompt(1);// \"&gt;1 "
       },
@@ -493,9 +493,231 @@
       "realName": "Vite 任意文件读取漏洞（CVE-2025-30208）",
       "relativePath": "\\漏洞复现\\Vite 任意文件读取漏洞（CVE-2025-30208）.md",
       "docPath": "docs\\docs\\漏洞复现"
+    },
+    {
+      "id": 216100147,
+      "doc_id": "ukfwlotq4ue1qog6",
+      "updated": 1745035131000,
+      "properties": {
+        "title": "源计划泽丽(4.19)",
+        "urlname": "ukfwlotq4ue1qog6",
+        "date": "2025-04-19 11:42:09",
+        "updated": "2025-04-19 11:58:51",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1745034233805-3ef5fe1f-1401-48d9-8a48-ade277932f5f.png",
+        "description": "建议有源计划装备全息弓+脉冲时再玩，泽丽刚需一个羊刀，不建议双羊刀"
+      },
+      "catalog": [
+        {
+          "title": "S14-赛博城市",
+          "doc_id": "ukfwlotq4ue1qog6"
+        }
+      ],
+      "realName": "源计划泽丽(4.19)",
+      "relativePath": "\\S14-赛博城市\\源计划泽丽(4.19).md",
+      "docPath": "docs\\docs\\S14-赛博城市"
+    },
+    {
+      "id": 216100531,
+      "doc_id": "gxpw987m3gapczy2",
+      "updated": 1745035131000,
+      "properties": {
+        "title": "火爆双C(4.19)",
+        "urlname": "gxpw987m3gapczy2",
+        "date": "2025-04-19 11:48:11",
+        "updated": "2025-04-19 11:58:51",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1745034539596-18895224-a5be-42f7-a41c-d6afbd558c41.png",
+        "description": "火男建议1启动2输出建议3战力海克斯"
+      },
+      "catalog": [
+        {
+          "title": "S14-赛博城市",
+          "doc_id": "gxpw987m3gapczy2"
+        }
+      ],
+      "realName": "火爆双C(4.19)",
+      "relativePath": "\\S14-赛博城市\\火爆双C(4.19).md",
+      "docPath": "docs\\docs\\S14-赛博城市"
+    },
+    {
+      "id": 216100959,
+      "doc_id": "ngvgq2vqdt00bmom",
+      "updated": 1745035131000,
+      "properties": {
+        "title": "斗士稻草人(4.19)",
+        "urlname": "ngvgq2vqdt00bmom",
+        "date": "2025-04-19 11:54:55",
+        "updated": "2025-04-19 11:58:51",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1745034905486-4f80f2ae-89b3-4d5d-8e14-44d20f6cbac3.png",
+        "description": "7级d牌稻草人适配神器枯萎宝珠在螃蟹2之前，不建议开4战地，优先挂盖伦，扎克，等优质五费"
+      },
+      "catalog": [
+        {
+          "title": "S14-赛博城市",
+          "doc_id": "ngvgq2vqdt00bmom"
+        }
+      ],
+      "realName": "斗士稻草人(4.19)",
+      "relativePath": "\\S14-赛博城市\\斗士稻草人(4.19).md",
+      "docPath": "docs\\docs\\S14-赛博城市"
+    },
+    {
+      "id": 216099997,
+      "doc_id": "gz7r77dwiitp81lf",
+      "updated": 1745035131000,
+      "properties": {
+        "title": "杀手福牛皇子(4.19)",
+        "urlname": "gz7r77dwiitp81lf",
+        "date": "2025-04-19 11:39:35",
+        "updated": "2025-04-19 11:58:51",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1745034086382-85cda310-f1de-43f7-acbe-598e8bb03db1.png"
+      },
+      "catalog": [
+        {
+          "title": "S14-赛博城市",
+          "doc_id": "gz7r77dwiitp81lf"
+        }
+      ],
+      "realName": "杀手福牛皇子(4.19)",
+      "relativePath": "\\S14-赛博城市\\杀手福牛皇子(4.19).md",
+      "docPath": "docs\\docs\\S14-赛博城市"
+    },
+    {
+      "id": 216098546,
+      "doc_id": "tg24bfe9nlv7vgmg",
+      "updated": 1745035131000,
+      "properties": {
+        "title": "登龙九五(4.19)",
+        "urlname": "tg24bfe9nlv7vgmg",
+        "date": "2025-04-19 11:22:07",
+        "updated": "2025-04-19 11:58:51",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1745032993392-6d89cdeb-242f-4150-b8df-7e7fe02fc9f8.png",
+        "description": "阵容构筑8人口9人口场下拉一个厄加特运营思路野怪环节最好3-魔装机神，看情况拉人口，7极小d，往8人口阵容构建，8级不d，速9.9人口来阿萝拉前蜘蛛主C,烬副C，铁男主坦，猪副坦装备选择阿萝拉(头盔-大天使-鬼书),前期蜘蛛戴装备打工，需要做一个电刀豹女(偷偷)-&gt;厄加特龙女/铁男(冰甲,狂徒..."
+      },
+      "catalog": [
+        {
+          "title": "S14-赛博城市",
+          "doc_id": "tg24bfe9nlv7vgmg"
+        }
+      ],
+      "realName": "登龙九五(4.19)",
+      "relativePath": "\\S14-赛博城市\\登龙九五(4.19).md",
+      "docPath": "docs\\docs\\S14-赛博城市"
     }
   ],
   "catalog": [
+    {
+      "uuid": "N4XIjJ62S1XFDYNT",
+      "type": "TITLE",
+      "title": "S14-赛博城市",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 0,
+      "depth": 1,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "",
+      "sibling_uuid": "ei-2gwma3II87RtG",
+      "child_uuid": "Vli28yBQI9HYwO5y",
+      "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "Vli28yBQI9HYwO5y",
+      "type": "DOC",
+      "title": "登龙九五(4.19)",
+      "url": "tg24bfe9nlv7vgmg",
+      "slug": "tg24bfe9nlv7vgmg",
+      "id": 216098546,
+      "doc_id": 216098546,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "N4XIjJ62S1XFDYNT",
+      "sibling_uuid": "Nj1SON_7n0ex01tv",
+      "child_uuid": "",
+      "parent_uuid": "N4XIjJ62S1XFDYNT",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "Nj1SON_7n0ex01tv",
+      "type": "DOC",
+      "title": "杀手福牛皇子(4.19)",
+      "url": "gz7r77dwiitp81lf",
+      "slug": "gz7r77dwiitp81lf",
+      "id": 216099997,
+      "doc_id": 216099997,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "Vli28yBQI9HYwO5y",
+      "sibling_uuid": "dS3FODBYVmAfEFpC",
+      "child_uuid": "",
+      "parent_uuid": "N4XIjJ62S1XFDYNT",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "dS3FODBYVmAfEFpC",
+      "type": "DOC",
+      "title": "源计划泽丽(4.19)",
+      "url": "ukfwlotq4ue1qog6",
+      "slug": "ukfwlotq4ue1qog6",
+      "id": 216100147,
+      "doc_id": 216100147,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "Nj1SON_7n0ex01tv",
+      "sibling_uuid": "_nTU5WIdnfy3nmzW",
+      "child_uuid": "",
+      "parent_uuid": "N4XIjJ62S1XFDYNT",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "_nTU5WIdnfy3nmzW",
+      "type": "DOC",
+      "title": "火爆双C(4.19)",
+      "url": "gxpw987m3gapczy2",
+      "slug": "gxpw987m3gapczy2",
+      "id": 216100531,
+      "doc_id": 216100531,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "dS3FODBYVmAfEFpC",
+      "sibling_uuid": "fcLFy8mUGZN3OG7G",
+      "child_uuid": "",
+      "parent_uuid": "N4XIjJ62S1XFDYNT",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "fcLFy8mUGZN3OG7G",
+      "type": "DOC",
+      "title": "斗士稻草人(4.19)",
+      "url": "ngvgq2vqdt00bmom",
+      "slug": "ngvgq2vqdt00bmom",
+      "id": 216100959,
+      "doc_id": 216100959,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "_nTU5WIdnfy3nmzW",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "N4XIjJ62S1XFDYNT",
+      "_serializer": "v2.toc_item"
+    },
     {
       "uuid": "ei-2gwma3II87RtG",
       "type": "TITLE",
@@ -508,7 +730,7 @@
       "depth": 1,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "",
+      "prev_uuid": "N4XIjJ62S1XFDYNT",
       "sibling_uuid": "GxObxeQiBqbu0XuS",
       "child_uuid": "8vhjyqm8blsdrbuA",
       "parent_uuid": "",

@@ -198,5 +198,17 @@ mirrorNewWebsitePathParams = func(isHttps /*bool*/, url /*string*/, req /*[]byte
 1. ds写yakit插件代码还是有些不尽人意，建议先自己学会手写yakit插件，再用大模型帮忙写，否则出了bug不好解决。
 2. 大模型写yakit插件，个人觉得还是写`nuclei yaml`插件最好用，剩下的次之。
 
+## 补充
+### 自动生成`<font style="color:rgb(28, 25, 23);">.cursorrules</font>`
+[https://cursorrules.agnt.one/chat](https://cursorrules.agnt.one/chat)
 
+`<font style="color:rgb(28, 25, 23);">.cursorrules</font>`<font style="color:rgb(28, 25, 23);">仓库</font>
+
+[https://github.com/PatrickJS/awesome-cursorrules/tree/main/rules-new](https://github.com/PatrickJS/awesome-cursorrules/tree/main/rules-new)
+
+```plain
+Always respond in中
+文件和文件夹名称全都用小写
+你是一名经验非常丰富的架构师,同时也是一名全栈开发工程师,可以根据需求设计出合理的架构和编程语言。 你会分析需求,必要时可向使用者提问以获取更多信息,比如需求的细节和未来发展的计划,以保证设计出架构的合理性。
+```
 
