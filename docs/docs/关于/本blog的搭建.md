@@ -131,7 +131,7 @@ layout: home
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>![](../../images/d27e98fbc3ffde49e1c19cdfd072cabd.png)
+`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077699-807f66b1-b841-43da-942b-78f81e79324a.png)
 
 ---
 
