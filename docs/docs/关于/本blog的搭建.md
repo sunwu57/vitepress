@@ -3,7 +3,7 @@
 
 [子夜旅馆](http://sunwu.world)
 
-![](../../images/5fa5f82087e9c84bdb4c584688b72b4f.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739803976612-3af47b2e-5e9e-4e54-8354-e593e1a7bd46.png)
 
 # 部署
 ## VitePress
@@ -905,7 +905,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086111-8f851a80-e7e6-4707-9e83-edda13c743e1.png)
+![](../../images/5efeed543ed4c7516f39524852567948.png)
 
 ### <font style="color:rgb(51, 51, 51);">右侧边栏</font>
 <font style="color:rgb(119, 119, 119);">右侧边栏是大纲中显示的标题导航块</font>
@@ -1115,7 +1115,7 @@ next:
 ```
 
 #### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](../../images/bc35e5e1135dafd98c152f26e8a4a2b2.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811088708-7301372a-2603-4a52-a18c-3e0674056855.png)
 
 ### <font style="color:rgb(51, 51, 51);">配置项目 head</font>
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">head</font>`<font style="color:rgb(51, 51, 51);"> 模块配置的内容会添加在项目的 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">head</font>`<font style="color:rgb(51, 51, 51);"> 标签中，在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">config</font>`<font style="color:rgb(51, 51, 51);"> 中配置</font>
@@ -1142,7 +1142,7 @@ export default defineConfig({
 })
 ```
 
-![](../../images/1f01b8144979dc889024142209cb503d.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811089336-60e154b4-4f20-4b62-bb95-b0bc269d3982.png)
 
 #### <font style="color:rgb(51, 51, 51);">添加字体</font>
 ```plain
