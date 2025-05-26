@@ -453,12 +453,12 @@
     {
       "id": 213109662,
       "doc_id": "xcoymleeumz4vges",
-      "updated": 1744963608000,
+      "updated": 1747219026000,
       "properties": {
         "title": "payload",
         "urlname": "xcoymleeumz4vges",
         "date": "2025-03-31 08:47:29",
-        "updated": "2025-04-18 16:06:48",
+        "updated": "2025-05-14 18:37:06",
         "author": "孙武",
         "description": "GitHub - sunwu57/ziye-security-wordlists: ziye的专属字典 \"-prompt(1)-\" \";prompt(1);// \"&gt;1 "
       },
@@ -519,7 +519,6 @@
       ],
       "realName": "源计划泽丽(4.18)",
       "relativePath": "\\云顶之奕\\S14-赛博城市\\源计划泽丽(4.18).md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\云顶之奕\\S14-赛博城市"
     },
     {
@@ -600,18 +599,17 @@
       ],
       "realName": "杀手福牛皇子(4.18)",
       "relativePath": "\\云顶之奕\\S14-赛博城市\\杀手福牛皇子(4.18).md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\云顶之奕\\S14-赛博城市"
     },
     {
       "id": 216098546,
       "doc_id": "tg24bfe9nlv7vgmg",
-      "updated": 1745398743000,
+      "updated": 1745766416000,
       "properties": {
         "title": "登龙九五(4.18)",
         "urlname": "tg24bfe9nlv7vgmg",
         "date": "2025-04-19 11:22:07",
-        "updated": "2025-04-23 16:59:03",
+        "updated": "2025-04-27 23:06:56",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1745032993392-6d89cdeb-242f-4150-b8df-7e7fe02fc9f8.png",
         "description": "阵容构筑8人口9人口场下拉一个厄加特运营思路野怪环节最好3-魔装机神，看情况拉人口，7极小d，往8人口阵容构建，8级不d，速9.9人口来阿萝拉前蜘蛛主C,烬副C，铁男主坦，猪副坦装备选择阿萝拉(头盔-大天使-鬼书),前期蜘蛛戴装备打工，需要做一个电刀豹女(偷偷)-&gt;厄加特龙女/铁男(冰甲,狂徒..."
@@ -628,7 +626,6 @@
       ],
       "realName": "登龙九五(4.18)",
       "relativePath": "\\云顶之奕\\S14-赛博城市\\登龙九五(4.18).md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\云顶之奕\\S14-赛博城市"
     },
     {
@@ -709,9 +706,117 @@
       "realName": "登龙烬丽(4.20)",
       "relativePath": "\\云顶之奕\\S14-赛博城市\\登龙烬丽(4.20).md",
       "docPath": "docs\\docs\\云顶之奕\\S14-赛博城市"
+    },
+    {
+      "id": 218757152,
+      "doc_id": "zp3bx1x905kbdk2e",
+      "updated": 1746709955000,
+      "properties": {
+        "title": "白加黑挖掘",
+        "urlname": "zp3bx1x905kbdk2e",
+        "date": "2025-05-08 21:04:18",
+        "updated": "2025-05-08 21:12:35",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1746709479503-bea23c7c-2aa8-457e-a7e2-b9fc4fa6f740.png"
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "zp3bx1x905kbdk2e"
+        }
+      ],
+      "realName": "白加黑挖掘",
+      "relativePath": "\\关于\\白加黑挖掘.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 220926953,
+      "doc_id": "zbb86ofg1p1pl6y1",
+      "updated": 1748272750000,
+      "properties": {
+        "title": "yakit-热加载",
+        "urlname": "zbb86ofg1p1pl6y1",
+        "date": "2025-05-23 17:23:49",
+        "updated": "2025-05-26 23:19:10",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1748104619467-f35fdf92-a493-496e-a3f3-a68316cc4810.png",
+        "description": "1. 环境Yakit v1.4.1-0508场景一CSRF-token保护php   session_start();  // 如果是AJAX请求获取token if (isset($_SERVER['HTTP_X_REQUESTED_WITH']) &amp;&amp; $_SERVER['HTTP_X..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "zbb86ofg1p1pl6y1"
+        }
+      ],
+      "realName": "yakit-热加载",
+      "relativePath": "\\关于\\yakit-热加载.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 217841162,
+      "doc_id": "lz7tg4sstgeuvovz",
+      "updated": 1747992222000,
+      "properties": {
+        "title": "JSRPC",
+        "urlname": "lz7tg4sstgeuvovz",
+        "date": "2025-04-30 20:33:35",
+        "updated": "2025-05-23 17:23:42",
+        "author": "孙武",
+        "description": "1. 环境1.1. 靶场http://39.98.108.20:8085https://github.com/jxhczhl/JsRpchttps://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&amp;mid=2247512825&amp;idx=1&amp;sn=83296..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "lz7tg4sstgeuvovz"
+        }
+      ],
+      "realName": "JSRPC",
+      "relativePath": "\\关于\\JSRPC.md",
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 216837685,
+      "doc_id": "ohqoxsoggu7pww3x",
+      "updated": 1746016367000,
+      "properties": {
+        "title": "文件上传-xss",
+        "urlname": "ohqoxsoggu7pww3x",
+        "date": "2025-04-24 08:33:55",
+        "updated": "2025-04-30 20:32:47",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1745454997843-52a104d6-656a-43fc-b0a4-b9294790f9ec.png",
+        "description": "方式一-svg-xss表单数据编码格式置为 multipart/form-data 类型          alert('XSS Attack!');xml version=\"1.0\" standalone=\"no..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "ohqoxsoggu7pww3x"
+        }
+      ],
+      "realName": "文件上传-xss",
+      "relativePath": "\\关于\\文件上传-xss.md",
+      "docPath": "docs\\docs\\关于"
     }
   ],
   "catalog": [
+    {
+      "uuid": "yZEQ9PhhoW_1eff3",
+      "type": "TITLE",
+      "title": "web手册",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 0,
+      "depth": 1,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "",
+      "sibling_uuid": "Dhd74Lwp6zhStPmG",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
     {
       "uuid": "Dhd74Lwp6zhStPmG",
       "type": "TITLE",
@@ -724,7 +829,7 @@
       "depth": 1,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "",
+      "prev_uuid": "yZEQ9PhhoW_1eff3",
       "sibling_uuid": "ei-2gwma3II87RtG",
       "child_uuid": "N4XIjJ62S1XFDYNT",
       "parent_uuid": "",
@@ -942,8 +1047,80 @@
       "visible": 1,
       "prev_uuid": "ei-2gwma3II87RtG",
       "sibling_uuid": "",
-      "child_uuid": "Xm5i103eDxIMFbXL",
+      "child_uuid": "EV1UDIYLTlXIsHgp",
       "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "EV1UDIYLTlXIsHgp",
+      "type": "DOC",
+      "title": "yakit-热加载",
+      "url": "zbb86ofg1p1pl6y1",
+      "slug": "zbb86ofg1p1pl6y1",
+      "id": 220926953,
+      "doc_id": 220926953,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "sibling_uuid": "GbQfn2W0iZ9vtQZO",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "GbQfn2W0iZ9vtQZO",
+      "type": "DOC",
+      "title": "白加黑挖掘",
+      "url": "zp3bx1x905kbdk2e",
+      "slug": "zp3bx1x905kbdk2e",
+      "id": 218757152,
+      "doc_id": 218757152,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "EV1UDIYLTlXIsHgp",
+      "sibling_uuid": "GNlna-kJzTJXzj78",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "GNlna-kJzTJXzj78",
+      "type": "DOC",
+      "title": "JSRPC",
+      "url": "lz7tg4sstgeuvovz",
+      "slug": "lz7tg4sstgeuvovz",
+      "id": 217841162,
+      "doc_id": 217841162,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "GbQfn2W0iZ9vtQZO",
+      "sibling_uuid": "__OUGZAZrFR6EUeL",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "__OUGZAZrFR6EUeL",
+      "type": "DOC",
+      "title": "文件上传-xss",
+      "url": "ohqoxsoggu7pww3x",
+      "slug": "ohqoxsoggu7pww3x",
+      "id": 216837685,
+      "doc_id": 216837685,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "GNlna-kJzTJXzj78",
+      "sibling_uuid": "Xm5i103eDxIMFbXL",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
       "_serializer": "v2.toc_item"
     },
     {
@@ -958,7 +1135,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "prev_uuid": "__OUGZAZrFR6EUeL",
       "sibling_uuid": "ANwb_V9L0jxW2U4j",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",
