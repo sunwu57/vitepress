@@ -172,9 +172,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <font style="color:rgba(0, 0, 0, 0.85);">任意输入账号密码之后，使用 yakit 的 MITM 模块拦截登录请求，我们可以看到请求如下： </font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1748106292164-d29659b0-6af9-4706-8960-a9d30b2713ff.png)
+![](../../images/7258dd78db5d60ce5349aed9897a0421.png)
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1748106307370-e728d8ae-5b9f-48ed-b194-3e52395d4c0e.png)
+![](../../images/546c11c80e29aec5098409ca3591ef9d.png)
 
 <font style="color:rgba(0, 0, 0, 0.85);">注意到除了用户和密码之外，还存在一个token的post参数，这是一个csrf token，它主要是用来防止CSRF攻击的，但是这也给我们的爆破增加了一定的难度，因为每次爆破都需要使用一个新的token。那么在这种情况下我们应该如何爆破呢？</font>
 
@@ -208,7 +208,7 @@ req = poc.ReplaceHTTPPacketHeader(req, "X-CSRF-Token", csrf_token)//替换数据
 }
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1748272564031-1e19f4ac-4f25-4443-8369-fb50e45bf6ab.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1748272582128-e88e5030-4afd-488e-9b40-24f0725554fb.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1748272611962-1fd3a1e8-10b6-40e5-a69b-6b8ed1bedb78.png)
+![](../../images/96bc2b1992a90275a40d41d78bfb6dc3.png)![](../../images/53961fa785babd2d9baae92ac775f5ec.png)![](../../images/5ed76cbe26c3de3a6fde7986cea67644.png)
 
 可以发现使用热加载写完代码，会自动修改"X-CSRF-Token",相对比较方便
 
