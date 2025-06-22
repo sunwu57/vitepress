@@ -63,3 +63,8 @@ alert(/618/);
 <?xml-stylesheet type="text/xsl" href="1.xml的路径"?>
 ```
 
+```plain
+<svg style="background-image: url('javascript:alert(1)');">
+<svg style="width: expression(alert(1));"> <!-- IE特有的CSS表达式攻击 -->
+```
+

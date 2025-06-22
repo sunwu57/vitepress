@@ -453,12 +453,12 @@
     {
       "id": 213109662,
       "doc_id": "xcoymleeumz4vges",
-      "updated": 1747219026000,
+      "updated": 1750564654000,
       "properties": {
         "title": "payload",
         "urlname": "xcoymleeumz4vges",
         "date": "2025-03-31 08:47:29",
-        "updated": "2025-05-14 18:37:06",
+        "updated": "2025-06-22 11:57:34",
         "author": "孙武",
         "description": "GitHub - sunwu57/ziye-security-wordlists: ziye的专属字典 \"-prompt(1)-\" \";prompt(1);// \"&gt;1 "
       },
@@ -710,12 +710,12 @@
     {
       "id": 218757152,
       "doc_id": "zp3bx1x905kbdk2e",
-      "updated": 1746709955000,
+      "updated": 1748631600000,
       "properties": {
         "title": "白加黑挖掘",
         "urlname": "zp3bx1x905kbdk2e",
         "date": "2025-05-08 21:04:18",
-        "updated": "2025-05-08 21:12:35",
+        "updated": "2025-05-31 03:00:00",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1746709479503-bea23c7c-2aa8-457e-a7e2-b9fc4fa6f740.png"
       },
@@ -727,17 +727,18 @@
       ],
       "realName": "白加黑挖掘",
       "relativePath": "\\关于\\白加黑挖掘.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\关于"
     },
     {
       "id": 220926953,
       "doc_id": "zbb86ofg1p1pl6y1",
-      "updated": 1748272750000,
+      "updated": 1748920229000,
       "properties": {
         "title": "yakit-热加载",
         "urlname": "zbb86ofg1p1pl6y1",
         "date": "2025-05-23 17:23:49",
-        "updated": "2025-05-26 23:19:10",
+        "updated": "2025-06-03 11:10:29",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1748104619467-f35fdf92-a493-496e-a3f3-a68316cc4810.png",
         "description": "1. 环境Yakit v1.4.1-0508场景一CSRF-token保护php   session_start();  // 如果是AJAX请求获取token if (isset($_SERVER['HTTP_X_REQUESTED_WITH']) &amp;&amp; $_SERVER['HTTP_X..."
@@ -750,6 +751,7 @@
       ],
       "realName": "yakit-热加载",
       "relativePath": "\\关于\\yakit-热加载.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\关于"
     },
     {
@@ -777,12 +779,12 @@
     {
       "id": 216837685,
       "doc_id": "ohqoxsoggu7pww3x",
-      "updated": 1746016367000,
+      "updated": 1749806983000,
       "properties": {
         "title": "文件上传-xss",
         "urlname": "ohqoxsoggu7pww3x",
         "date": "2025-04-24 08:33:55",
-        "updated": "2025-04-30 20:32:47",
+        "updated": "2025-06-13 17:29:43",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1745454997843-52a104d6-656a-43fc-b0a4-b9294790f9ec.png",
         "description": "方式一-svg-xss表单数据编码格式置为 multipart/form-data 类型          alert('XSS Attack!');xml version=\"1.0\" standalone=\"no..."
@@ -796,9 +798,116 @@
       "realName": "文件上传-xss",
       "relativePath": "\\关于\\文件上传-xss.md",
       "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 224858514,
+      "doc_id": "gipg849azz4y7w3u",
+      "updated": 1750565081000,
+      "properties": {
+        "title": "从图片 URL 到 存储桶完全控制权：10 分钟拆解某企业云存储桶的致命配置漏洞",
+        "urlname": "gipg849azz4y7w3u",
+        "date": "2025-06-22 11:57:33",
+        "updated": "2025-06-22 12:04:41",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564706053-6f550184-bee3-4658-b4d4-1b7f0dd8c77f.webp",
+        "description": "该漏洞点发生在一个小程序中，这个小程序没什么功能点，普通人一看可能就马上走了。我看了一眼也马上想走了，为啥？因为没功能点啊，没功能点打个锤子哦      但是我这个人有个习惯，在每次渗透测试前我都会打开一个burpsuit抓包工具中的小开关。就是因为以下这个小细节助我拿下了这个高危以上的云存储..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "gipg849azz4y7w3u"
+        }
+      ],
+      "realName": "从图片 URL 到 存储桶完全控制权：10 分钟拆解某企业云存储桶的致命配置漏洞",
+      "relativePath": "\\关于\\从图片 URL 到 存储桶完全控制权：10 分钟拆解某企业云存储桶的致命配置漏洞.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 224859144,
+      "doc_id": "up7k5z5xbir8ezoo",
+      "updated": 1750565600000,
+      "properties": {
+        "title": "Webpack反编译源码",
+        "urlname": "up7k5z5xbir8ezoo",
+        "date": "2025-06-22 12:10:44",
+        "updated": "2025-06-22 12:13:20",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565557463-b055fe5d-44d3-48bf-bfd2-d10ab2b01c76.webp",
+        "description": "1. Webpack源码信息泄露漏洞url：https://xxx.xxx.cn/xxx/xxx/js/app.12d1f8c9.js.map登录地址：https://xxx.xxx.cn/#/home扫码抓包发现很多js文件存在js.map泄露访问https://xxx.xxx.xxx.cn..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "up7k5z5xbir8ezoo"
+        }
+      ],
+      "realName": "Webpack反编译源码",
+      "relativePath": "\\关于\\Webpack反编译源码.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 221752233,
+      "doc_id": "cc6u8f2txkpkblag",
+      "updated": 1748631575000,
+      "properties": {
+        "title": "鸿蒙",
+        "urlname": "cc6u8f2txkpkblag",
+        "date": "2025-05-29 18:43:03",
+        "updated": "2025-05-31 02:59:35",
+        "author": "孙武",
+        "description": "https://developer.huawei.com/consumer/cn/download/"
+      },
+      "catalog": [],
+      "realName": "鸿蒙",
+      "relativePath": "\\鸿蒙.md",
+      "docPath": "docs\\docs"
+    },
+    {
+      "id": 224191720,
+      "doc_id": "gp57ywxy81m5vq3f",
+      "updated": 1750563290000,
+      "properties": {
+        "title": "免杀基础总结",
+        "urlname": "gp57ywxy81m5vq3f",
+        "date": "2025-06-17 14:01:27",
+        "updated": "2025-06-22 11:34:50",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750140092937-fd7900f3-7f9f-4951-b70a-27f73c6cc331.webp",
+        "description": "前言这是这段时间入门免杀的一些尝试，集合了我觉得目前还算比较有用的一些方法，也算可供师傅们入门免杀的时候的一些思路，如有不当之处，望指正。0.零散知识0x00 添加图标：尝试了几种大众方法，感觉还是这篇文章的方法好用https://www.sqlsec.com/2020/10/csexe.ht..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "gp57ywxy81m5vq3f"
+        }
+      ],
+      "realName": "免杀基础总结",
+      "relativePath": "\\关于\\免杀基础总结.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\关于"
     }
   ],
   "catalog": [
+    {
+      "uuid": "XkO3T4-vV1r-qME5",
+      "type": "DOC",
+      "title": "鸿蒙",
+      "url": "cc6u8f2txkpkblag",
+      "slug": "cc6u8f2txkpkblag",
+      "id": 221752233,
+      "doc_id": 221752233,
+      "level": 0,
+      "depth": 1,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "",
+      "sibling_uuid": "yZEQ9PhhoW_1eff3",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
     {
       "uuid": "yZEQ9PhhoW_1eff3",
       "type": "TITLE",
@@ -811,7 +920,7 @@
       "depth": 1,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "",
+      "prev_uuid": "XkO3T4-vV1r-qME5",
       "sibling_uuid": "Dhd74Lwp6zhStPmG",
       "child_uuid": "",
       "parent_uuid": "",
@@ -1047,8 +1156,80 @@
       "visible": 1,
       "prev_uuid": "ei-2gwma3II87RtG",
       "sibling_uuid": "",
-      "child_uuid": "EV1UDIYLTlXIsHgp",
+      "child_uuid": "NYix3izhqmYPCZhK",
       "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "NYix3izhqmYPCZhK",
+      "type": "DOC",
+      "title": "无标题文档",
+      "url": "dhyakwycffycd1yv",
+      "slug": "dhyakwycffycd1yv",
+      "id": 224859262,
+      "doc_id": 224859262,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 0,
+      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "sibling_uuid": "GeKBHKue2AzGS6P2",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "GeKBHKue2AzGS6P2",
+      "type": "DOC",
+      "title": "Webpack反编译源码",
+      "url": "up7k5z5xbir8ezoo",
+      "slug": "up7k5z5xbir8ezoo",
+      "id": 224859144,
+      "doc_id": 224859144,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "NYix3izhqmYPCZhK",
+      "sibling_uuid": "SNXCCry8ZJjF65Zj",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "SNXCCry8ZJjF65Zj",
+      "type": "DOC",
+      "title": "从图片 URL 到 存储桶完全控制权：10 分钟拆解某企业云存储桶的致命配置漏洞",
+      "url": "gipg849azz4y7w3u",
+      "slug": "gipg849azz4y7w3u",
+      "id": 224858514,
+      "doc_id": 224858514,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "GeKBHKue2AzGS6P2",
+      "sibling_uuid": "uFT4AmMJWeU4-Kb7",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "uFT4AmMJWeU4-Kb7",
+      "type": "DOC",
+      "title": "免杀基础总结",
+      "url": "gp57ywxy81m5vq3f",
+      "slug": "gp57ywxy81m5vq3f",
+      "id": 224191720,
+      "doc_id": 224191720,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "SNXCCry8ZJjF65Zj",
+      "sibling_uuid": "EV1UDIYLTlXIsHgp",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
       "_serializer": "v2.toc_item"
     },
     {
@@ -1063,7 +1244,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "prev_uuid": "uFT4AmMJWeU4-Kb7",
       "sibling_uuid": "GbQfn2W0iZ9vtQZO",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",
