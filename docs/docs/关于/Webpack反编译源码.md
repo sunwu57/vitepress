@@ -26,11 +26,11 @@ http://www.luckysec.cn/posts/531d91e3.html
 
 **<font style="color:rgb(51, 51, 51);">sourcemap安装/还原命令（js.map所在当前目录下）</font>**
 
-<font style="color:rgb(51, 51, 51);background-color:rgba(0, 0, 0, 0.03);">npm install --global reverse-sourcemapreverse-sourcemap -v app.12d1f8c9.js.map -o hbut</font>
+`<font style="color:rgb(51, 51, 51);background-color:rgba(0, 0, 0, 0.03);">npm install --global reverse-sourcemapreverse-sourcemap -v app.12d1f8c9.js.map -o hbut</font>`
 
 **<font style="color:rgb(0, 0, 0) !important;">作用</font>**<font style="color:rgba(0, 0, 0, 0.85);">：通过 npm（Node.js 包管理器）全局安装</font>`<font style="color:rgba(0, 0, 0, 0.85);">reverse-sourcemap</font>`<font style="color:rgba(0, 0, 0, 0.85);">工具，该工具可将编译后的 JavaScript 文件及其对应的 sourcemap 文件还原为原始源代码。</font>
 
-+ `<font style="color:rgb(0, 0, 0);">-o hbut</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;">：将还原的源代码输出到名为</font>`<font style="color:rgb(0, 0, 0);">hbut</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;">的目录中（可自行命名）。</font>
+`<font style="color:rgb(0, 0, 0);">-o hbut</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;">：将还原的源代码输出到名为</font>`<font style="color:rgb(0, 0, 0);">hbut</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;">的目录中（可自行命名）。</font>
 
 ![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565557462-fa4e18e2-c287-4017-9bbf-56e487b39a58.webp)
 

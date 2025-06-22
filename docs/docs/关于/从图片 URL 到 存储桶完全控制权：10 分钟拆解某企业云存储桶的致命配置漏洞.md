@@ -114,7 +114,7 @@ Content-Length: 288
 # <font style="color:rgba(0, 0, 0, 0.9);">再次L</font><font style="color:rgb(28, 31, 35);">ist Objects（列出根目录下的所有对象）</font>
 **<font style="color:rgba(0, 0, 0, 0.9) !important;">现在就能列出根目录桶下的所有<key></key>值，</font>****<font style="color:rgba(0, 0, 0, 0.9) !important;">最后想再扩大危害到最大的话可以再找一些敏感信息。</font>**
 
-![](../../images/54fffc7b8aa8e2faed0dc2cac7cc2706.webp)
+![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564711043-6fea03c6-d070-4f2e-9c32-cf91b704d001.webp)
 
 # 最后路径中有minio，顺便打一下minio的信息泄露
 `/minio/bootstrap/v1/verify`成功获取敏感数据

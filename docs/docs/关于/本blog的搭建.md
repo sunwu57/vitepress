@@ -137,7 +137,7 @@ layout: home
 
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">doc</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>
 
-![](../../images/fed87a4a544f6199d6e6e1b279af525a.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077083-88384555-4fff-439d-b8b6-f9a4fc91e4f7.png)
 
 ---
 
@@ -214,7 +214,7 @@ hero:
 #### <font style="color:rgb(51, 51, 51);">Features</font>
 <font style="color:rgb(51, 51, 51);">可以在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Hero</font>`<font style="color:rgb(51, 51, 51);"> 部分之后列出任意数量的 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Feature</font>`
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811078428-d086bf04-59bb-4924-80a2-3f0a1bb0e854.png)
+![](../../images/b2b64b9a3be6233391b97c24264108d1.png)
 
 ##### <font style="color:rgb(51, 51, 51);">类型</font>
 ```plain
@@ -594,7 +594,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](../../images/7865851da70c5a2b7fccbeb2e7858788.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811082845-edaeb43b-9ce5-452b-bab8-374e45a5dc93.png)
 
 #### <font style="color:rgb(51, 51, 51);">明亮主题展示：appearance</font>
 `**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">appearance</font>**`**<font style="color:rgb(51, 51, 51);"> 配置不在 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig</font>**`**<font style="color:rgb(51, 51, 51);"> 字段里面，而是和 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig</font>**`**<font style="color:rgb(51, 51, 51);"> 同级</font>**![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811083922-e49f1bd7-f359-4851-8a7c-c8e5384690f8.png)
@@ -1058,7 +1058,7 @@ export default defineConfig({
 + `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">level</font>`<font style="color:rgb(51, 51, 51);">: </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">number | [number, number] | 'deep'</font>`<font style="color:rgb(51, 51, 51);">，是展示标题等级</font>
 + `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">label</font>`<font style="color:rgb(51, 51, 51);">: </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">string</font>`<font style="color:rgb(51, 51, 51);">，是 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">outline</font>`<font style="color:rgb(51, 51, 51);"> 的标题，替换 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">On this page</font>`<font style="color:rgb(51, 51, 51);"> 文案</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811087801-ed46bcf8-e116-4c75-b6d5-bfea921dbe0b.png)
+![](../../images/b75ae1c6c07b6e9bc49a01410781d32d.png)
 
 #### <font style="color:rgb(51, 51, 51);">在当前页面中覆盖 config.mts 中的配置</font>
 <font style="color:rgb(51, 51, 51);">在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">basic/index.md</font>`<font style="color:rgb(51, 51, 51);"> 文件顶部写入以下内容</font>
@@ -1236,7 +1236,7 @@ export default defineConfig({
 })
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811090170-2fc9247c-16d1-4c28-b834-1ae121b964a2.png)
+![](../../images/f69e246cb8268b40e721cf9588566e0d.png)
 
 ### <font style="color:rgb(51, 51, 51);">图片资源</font>
 #### <font style="color:rgb(51, 51, 51);">图片直接放在 public 文件夹中</font>
@@ -1285,7 +1285,7 @@ git push -u origin main --force
 ## <font style="color:rgb(31, 35, 40);">部署到 Vercel</font>
 <font style="color:rgb(31, 35, 40);">注册</font>[ Vercel](https://vercel.com/)<font style="color:rgb(31, 35, 40);"> 账号并绑定 Github，在 Vercel 导入 该项目，Vercel 会自动识别出该 VitePress 项目，不需要改动，直接选择 Deploy 部署。部署完成会有一个 Vercel 临时域名，你也可以绑定自己的域名。</font>
 
-![](../../images/3262d4fee014e5f89e2faed3296f5522.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739812295029-5dd70eae-fce9-40dd-9fad-8b3c15607b2f.png)
+![](../../images/3262d4fee014e5f89e2faed3296f5522.png)![](../../images/eabb3bebbfc5de266ddefd7648e940f0.png)
 
 ## 进行域名绑定
 Domains->Add  
