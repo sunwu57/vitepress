@@ -143,7 +143,7 @@ layout: home
 
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">page</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>
 
-![](../../images/e5d5540d0028ac3f6b02bcd9c885ddf5.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077715-1bb2f825-aa77-441c-882c-043be5cf9702.png)
 
 #### <font style="color:rgb(51, 51, 51);">Hero</font>
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">hero</font>`<font style="color:rgb(51, 51, 51);"> 部分位于主页顶部。</font>**<font style="color:rgb(51, 51, 51);">当 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">layout</font>**`**<font style="color:rgb(51, 51, 51);"> 设置为 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>**`**<font style="color:rgb(51, 51, 51);"> 时，</font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">hero</font>**`**<font style="color:rgb(51, 51, 51);"> 配置才会生效</font>**<font style="color:rgb(51, 51, 51);">。</font>
@@ -1021,12 +1021,12 @@ export default defineConfig({
 })
 ```
 
-<font style="color:rgb(51, 51, 51);">只展示 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h3</font>`<font style="color:rgb(51, 51, 51);"> 标题</font>![](../../images/7fef33d6b4d3d5a1aba1afd86468c47d.png)
+<font style="color:rgb(51, 51, 51);">只展示 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h3</font>`<font style="color:rgb(51, 51, 51);"> 标题</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086862-58dedf8a-85c0-4950-8694-b048639a603c.png)
 
 ##### <font style="color:rgb(51, 51, 51);">deep 字段</font>
 <font style="color:rgb(51, 51, 51);">当为字符串时，只有 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">deep</font>`<font style="color:rgb(51, 51, 51);"> 一个字段，与 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">[2, 6]</font>`<font style="color:rgb(51, 51, 51);"> 相同，展示 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h2~h6</font>`<font style="color:rgb(51, 51, 51);"> 所有标题</font>
 
-![](../../images/2ceb3d2643c5007adaba482a0b717dbe.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811087725-278d669a-732f-47c5-9c5d-4f0673b3be49.png)
 
 ##### <font style="color:rgb(51, 51, 51);">数组形式</font>
 ```plain

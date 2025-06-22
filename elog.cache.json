@@ -864,12 +864,12 @@
     {
       "id": 224191720,
       "doc_id": "gp57ywxy81m5vq3f",
-      "updated": 1750563290000,
+      "updated": 1750571551000,
       "properties": {
         "title": "免杀基础总结",
         "urlname": "gp57ywxy81m5vq3f",
         "date": "2025-06-17 14:01:27",
-        "updated": "2025-06-22 11:34:50",
+        "updated": "2025-06-22 13:52:31",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750140092937-fd7900f3-7f9f-4951-b70a-27f73c6cc331.webp",
         "description": "前言这是这段时间入门免杀的一些尝试，集合了我觉得目前还算比较有用的一些方法，也算可供师傅们入门免杀的时候的一些思路，如有不当之处，望指正。0.零散知识0x00 添加图标：尝试了几种大众方法，感觉还是这篇文章的方法好用https://www.sqlsec.com/2020/10/csexe.ht..."
@@ -882,6 +882,7 @@
       ],
       "realName": "免杀基础总结",
       "relativePath": "\\关于\\免杀基础总结.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\关于"
     }
   ],
