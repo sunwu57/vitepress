@@ -8,7 +8,7 @@
 
 <font style="color:rgb(64, 64, 64);">扫码</font><font style="color:rgb(64, 64, 64);">抓包发现很多</font><font style="color:rgb(64, 64, 64);">js文件存在js.map泄露</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565557463-b055fe5d-44d3-48bf-bfd2-d10ab2b01c76.webp)
+![](../../images/aca4274602bd348b9ac547dd9e542328.webp)
 
 <font style="color:rgb(64, 64, 64);">访问</font>
 
@@ -28,9 +28,9 @@ http://www.luckysec.cn/posts/531d91e3.html
 npm install --global reverse-sourcemapreverse-sourcemap -v app.12d1f8c9.js.map -o hbut
 ```
 
-**<font style="color:rgb(0, 0, 0) !important;">作用</font>**<font style="color:rgba(0, 0, 0, 0.85);">：通过 npm（Node.js 包管理器）全局安装</font>`<font style="color:rgba(0, 0, 0, 0.85);">reverse-sourcemap</font>`<font style="color:rgba(0, 0, 0, 0.85);">工具，该工具可将编译后的 JavaScript 文件及其对应的 sourcemap 文件还原为原始源代码。</font>
+**<font style="color:rgb(0, 0, 0) !important;">作用</font>**<font style="color:rgba(0, 0, 0, 0.85);">：通过 npm（Node.js 包管理器）全局安装reverse-sourcemap工具，该工具可将编译后的 JavaScript 文件及其对应的 sourcemap 文件还原为原始源代码。</font>
 
-`<font style="color:rgb(0, 0, 0);">-o hbut</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;">：将还原的源代码输出到名为</font>`<font style="color:rgb(0, 0, 0);">hbut</font>`<font style="color:rgba(0, 0, 0, 0.85) !important;">的目录中（可自行命名）。</font>
+<font style="color:rgb(0, 0, 0);">-o hbut</font><font style="color:rgba(0, 0, 0, 0.85) !important;">：将还原的源代码输出到名为</font><font style="color:rgb(0, 0, 0);">hbut</font><font style="color:rgba(0, 0, 0, 0.85) !important;">的目录中（可自行命名）。</font>
 
 ![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565557462-fa4e18e2-c287-4017-9bbf-56e487b39a58.webp)
 
@@ -50,7 +50,7 @@ npm install --global reverse-sourcemapreverse-sourcemap -v app.12d1f8c9.js.map -
 
 **<font style="color:rgb(51, 51, 51);">发现华为云</font>****<font style="color:rgb(51, 51, 51);">AK</font>****<font style="color:rgb(51, 51, 51);">SK</font>****<font style="color:rgb(51, 51, 51);">泄露</font>**
 
-![](../../images/88cb5e291bb0bcf5e9049cdfb9544116.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1750565559944-53eca9e0-6c64-439a-899d-b8b68f2bb63d.png)
 
 **<font style="color:rgb(64, 64, 64);">2.华为云服务器接管</font>**
 
