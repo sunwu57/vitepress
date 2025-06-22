@@ -131,7 +131,7 @@ layout: home
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077699-807f66b1-b841-43da-942b-78f81e79324a.png)
+`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>![](../../images/d27e98fbc3ffde49e1c19cdfd072cabd.png)
 
 ---
 
@@ -148,7 +148,7 @@ layout: home
 #### <font style="color:rgb(51, 51, 51);">Hero</font>
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">hero</font>`<font style="color:rgb(51, 51, 51);"> 部分位于主页顶部。</font>**<font style="color:rgb(51, 51, 51);">当 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">layout</font>**`**<font style="color:rgb(51, 51, 51);"> 设置为 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>**`**<font style="color:rgb(51, 51, 51);"> 时，</font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">hero</font>**`**<font style="color:rgb(51, 51, 51);"> 配置才会生效</font>**<font style="color:rgb(51, 51, 51);">。</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077913-bc88173a-e87f-410e-9715-956babe22777.png)
+![](../../images/4cc4c0973c66e3dec86a2874aa05238d.png)
 
 ##### <font style="color:rgb(51, 51, 51);">类型</font>
 ```plain
@@ -283,7 +283,7 @@ features:
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-![](../../images/ff38e1cbcfa298db2821e1e22d1f3f96.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811078642-56a65af3-5bb8-4a2f-acab-8c827a607afb.png)
 
 #### <font style="color:rgb(51, 51, 51);">其他</font>
 <font style="color:rgb(51, 51, 51);">如果到这个时候你觉得在首页 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">md</font>`<font style="color:rgb(51, 51, 51);"> 文件中还没有满足你的其他需求，可以在分隔符下继续以 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">md</font>`<font style="color:rgb(51, 51, 51);"> 的格式开发新内容。</font>
@@ -435,7 +435,7 @@ export default defineConfig({
 #### <font style="color:rgb(51, 51, 51);">导航链接：nav</font>
 <font style="color:rgb(119, 119, 119);">可以定义 themeConfig.nav 选项以将链接添加到导航栏。</font>
 
-[<font style="color:rgb(65, 131, 196);">【Chrome浏览器插件开发实践指南】</font>](https://18055975947.github.io/extension/)<font style="color:rgb(51, 51, 51);"> 文档的 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Nav</font>`<font style="color:rgb(51, 51, 51);"> 导航</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811081909-6a692599-14a5-4b72-a587-be52cb067e02.png)<font style="color:rgb(51, 51, 51);">可以看到，不仅可以配置单个链接，也可以配置下拉列表，我们就按照上面的配置来重新在我们现在的项目中配一遍</font>
+[<font style="color:rgb(65, 131, 196);">【Chrome浏览器插件开发实践指南】</font>](https://18055975947.github.io/extension/)<font style="color:rgb(51, 51, 51);"> 文档的 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Nav</font>`<font style="color:rgb(51, 51, 51);"> 导航</font>![](../../images/0cc3f8dcc8efde329bb97bd863b44001.png)<font style="color:rgb(51, 51, 51);">可以看到，不仅可以配置单个链接，也可以配置下拉列表，我们就按照上面的配置来重新在我们现在的项目中配一遍</font>
 
 ##### <font style="color:rgb(51, 51, 51);">创建对应的文件夹和对应的 index.md 文件</font>
 <font style="color:rgb(51, 51, 51);">创建 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">basic</font>`<font style="color:rgb(51, 51, 51);">、</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">api</font>`<font style="color:rgb(51, 51, 51);">、</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">core</font>`<font style="color:rgb(51, 51, 51);">、</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">summarize</font>`<font style="color:rgb(51, 51, 51);">、</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">teach</font>`<font style="color:rgb(51, 51, 51);">、</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">team</font>`<font style="color:rgb(51, 51, 51);"> 文件夹，并在其中创建 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">index.md</font>`<font style="color:rgb(51, 51, 51);"> 文件，如下：</font>
@@ -912,7 +912,7 @@ export default defineConfig({
 
 <font style="color:rgb(51, 51, 51);">配置 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">outline</font>`<font style="color:rgb(51, 51, 51);"> 字段可以设置渲染大纲层级</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086201-03973040-9b7e-40a3-821f-2d5a05b4fe77.png)
+![](../../images/d4876f439cf13c9a5971c6e18e6e0a63.png)
 
 #### <font style="color:rgb(51, 51, 51);">在 basic 中的 index.md 写入以下内容</font>
 ```plain
@@ -1396,7 +1396,7 @@ GITHUB_REPO=仓库名字
 
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740639911083-2aaa409f-cff5-4b88-a8b3-181bd307bc9c.png)
+![](../../images/da797a164d3bde5484fd00fffbf19d25.png)
 
 ### github的token获取
 ![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640521247-366f26b7-2d35-4f6b-9c72-42462fe95aad.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640600349-c8f9f3db-3210-4add-8c90-2499a2227d0d.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640556911-84b533fe-9404-4ab3-9a3b-fa53be4f0d95.png)

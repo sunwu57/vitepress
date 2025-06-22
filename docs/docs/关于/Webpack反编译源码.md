@@ -24,7 +24,9 @@ http://www.luckysec.cn/posts/531d91e3.html
 
 **<font style="color:rgb(51, 51, 51);">sourcemap安装/还原命令（js.map所在当前目录下）</font>**
 
-`<font style="color:rgb(51, 51, 51);background-color:rgba(0, 0, 0, 0.03);">npm install --global reverse-sourcemapreverse-sourcemap -v app.12d1f8c9.js.map -o hbut</font>`
+```plain
+npm install --global reverse-sourcemapreverse-sourcemap -v app.12d1f8c9.js.map -o hbut
+```
 
 **<font style="color:rgb(0, 0, 0) !important;">作用</font>**<font style="color:rgba(0, 0, 0, 0.85);">：通过 npm（Node.js 包管理器）全局安装</font>`<font style="color:rgba(0, 0, 0, 0.85);">reverse-sourcemap</font>`<font style="color:rgba(0, 0, 0, 0.85);">工具，该工具可将编译后的 JavaScript 文件及其对应的 sourcemap 文件还原为原始源代码。</font>
 
@@ -48,7 +50,7 @@ http://www.luckysec.cn/posts/531d91e3.html
 
 **<font style="color:rgb(51, 51, 51);">发现华为云</font>****<font style="color:rgb(51, 51, 51);">AK</font>****<font style="color:rgb(51, 51, 51);">SK</font>****<font style="color:rgb(51, 51, 51);">泄露</font>**
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1750565559944-53eca9e0-6c64-439a-899d-b8b68f2bb63d.png)
+![](../../images/88cb5e291bb0bcf5e9049cdfb9544116.png)
 
 **<font style="color:rgb(64, 64, 64);">2.华为云服务器接管</font>**
 
@@ -82,7 +84,7 @@ http://www.luckysec.cn/posts/531d91e3.html
 
 <font style="color:rgb(51, 51, 51);">登录成功</font>
 
-![](../../images/bfdf1faa44362d6a7c4e9be5b3f0f5ae.webp)
+![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565562893-0d866073-a410-4633-b4b4-5f613ab78da6.webp)
 
 ![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565562836-3afaef9a-8dca-4afe-9191-ee74dacbd510.webp)
 
@@ -92,7 +94,7 @@ http://www.luckysec.cn/posts/531d91e3.html
 
 ![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565562936-3bfd3962-cc9d-44f6-8538-e2ce81008eb8.webp)
 
-![](../../images/298ed75b9b39eb65ee7bb4ac9c627002.webp)
+![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565565223-ec2238bc-cb53-4d84-8fc5-294392afbf2a.webp)
 
 **<font style="color:rgb(64, 64, 64);">3.</font>****<font style="color:rgb(64, 64, 64);">云上服务器命令行执行命令</font>**
 
