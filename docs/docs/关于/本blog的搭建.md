@@ -214,7 +214,7 @@ hero:
 #### <font style="color:rgb(51, 51, 51);">Features</font>
 <font style="color:rgb(51, 51, 51);">可以在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Hero</font>`<font style="color:rgb(51, 51, 51);"> 部分之后列出任意数量的 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Feature</font>`
 
-![](../../images/b2b64b9a3be6233391b97c24264108d1.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811078428-d086bf04-59bb-4924-80a2-3f0a1bb0e854.png)
 
 ##### <font style="color:rgb(51, 51, 51);">类型</font>
 ```plain
@@ -283,7 +283,7 @@ features:
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811078642-56a65af3-5bb8-4a2f-acab-8c827a607afb.png)
+![](../../images/ff38e1cbcfa298db2821e1e22d1f3f96.png)
 
 #### <font style="color:rgb(51, 51, 51);">其他</font>
 <font style="color:rgb(51, 51, 51);">如果到这个时候你觉得在首页 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">md</font>`<font style="color:rgb(51, 51, 51);"> 文件中还没有满足你的其他需求，可以在分隔符下继续以 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">md</font>`<font style="color:rgb(51, 51, 51);"> 的格式开发新内容。</font>
@@ -1058,7 +1058,7 @@ export default defineConfig({
 + `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">level</font>`<font style="color:rgb(51, 51, 51);">: </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">number | [number, number] | 'deep'</font>`<font style="color:rgb(51, 51, 51);">，是展示标题等级</font>
 + `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">label</font>`<font style="color:rgb(51, 51, 51);">: </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">string</font>`<font style="color:rgb(51, 51, 51);">，是 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">outline</font>`<font style="color:rgb(51, 51, 51);"> 的标题，替换 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">On this page</font>`<font style="color:rgb(51, 51, 51);"> 文案</font>
 
-![](../../images/b75ae1c6c07b6e9bc49a01410781d32d.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811087801-ed46bcf8-e116-4c75-b6d5-bfea921dbe0b.png)
 
 #### <font style="color:rgb(51, 51, 51);">在当前页面中覆盖 config.mts 中的配置</font>
 <font style="color:rgb(51, 51, 51);">在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">basic/index.md</font>`<font style="color:rgb(51, 51, 51);"> 文件顶部写入以下内容</font>
@@ -1236,7 +1236,7 @@ export default defineConfig({
 })
 ```
 
-![](../../images/f69e246cb8268b40e721cf9588566e0d.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811090170-2fc9247c-16d1-4c28-b834-1ae121b964a2.png)
 
 ### <font style="color:rgb(51, 51, 51);">图片资源</font>
 #### <font style="color:rgb(51, 51, 51);">图片直接放在 public 文件夹中</font>
@@ -1285,7 +1285,7 @@ git push -u origin main --force
 ## <font style="color:rgb(31, 35, 40);">部署到 Vercel</font>
 <font style="color:rgb(31, 35, 40);">注册</font>[ Vercel](https://vercel.com/)<font style="color:rgb(31, 35, 40);"> 账号并绑定 Github，在 Vercel 导入 该项目，Vercel 会自动识别出该 VitePress 项目，不需要改动，直接选择 Deploy 部署。部署完成会有一个 Vercel 临时域名，你也可以绑定自己的域名。</font>
 
-![](../../images/3262d4fee014e5f89e2faed3296f5522.png)![](../../images/eabb3bebbfc5de266ddefd7648e940f0.png)
+![](../../images/3262d4fee014e5f89e2faed3296f5522.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739812295029-5dd70eae-fce9-40dd-9fad-8b3c15607b2f.png)
 
 ## 进行域名绑定
 Domains->Add  

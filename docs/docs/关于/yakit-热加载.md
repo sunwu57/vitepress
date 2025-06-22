@@ -208,7 +208,7 @@ req = poc.ReplaceHTTPPacketHeader(req, "X-CSRF-Token", csrf_token)//替换数据
 }
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1748272564031-1e19f4ac-4f25-4443-8369-fb50e45bf6ab.png)![](../../images/53961fa785babd2d9baae92ac775f5ec.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1748272611962-1fd3a1e8-10b6-40e5-a69b-6b8ed1bedb78.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1748272564031-1e19f4ac-4f25-4443-8369-fb50e45bf6ab.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1748272582128-e88e5030-4afd-488e-9b40-24f0725554fb.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1748272611962-1fd3a1e8-10b6-40e5-a69b-6b8ed1bedb78.png)
 
 可以发现使用热加载写完代码，会自动修改"X-CSRF-Token",相对比较方便
 

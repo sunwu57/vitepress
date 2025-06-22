@@ -826,12 +826,12 @@
     {
       "id": 224859144,
       "doc_id": "up7k5z5xbir8ezoo",
-      "updated": 1750569475000,
+      "updated": 1750569900000,
       "properties": {
         "title": "Webpack反编译源码",
         "urlname": "up7k5z5xbir8ezoo",
         "date": "2025-06-22 12:10:44",
-        "updated": "2025-06-22 13:17:55",
+        "updated": "2025-06-22 13:25:00",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565557463-b055fe5d-44d3-48bf-bfd2-d10ab2b01c76.webp",
         "description": "1. Webpack源码信息泄露漏洞url：https://xxx.xxx.cn/xxx/xxx/js/app.12d1f8c9.js.map登录地址：https://xxx.xxx.cn/#/home扫码抓包发现很多js文件存在js.map泄露访问https://xxx.xxx.xxx.cn..."

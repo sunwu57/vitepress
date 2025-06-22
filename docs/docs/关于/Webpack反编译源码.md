@@ -14,8 +14,6 @@
 
 <font style="color:rgb(64, 64, 64);">https://xxx.xxx.xxx.cn/xxx/xxx/js/app.12d1f8c9.js.map下载</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565557615-0c7295a3-d73e-48cb-b4e5-53c75540e464.webp)
-
 **<font style="color:rgb(51, 51, 51);">下载后使用</font>****<font style="color:rgb(51, 51, 51);">sourcemap工具进行反编译寻找源代码敏感信息</font>**
 
 **<font style="color:rgb(51, 51, 51);">参考链接：</font>**
@@ -84,7 +82,7 @@ http://www.luckysec.cn/posts/531d91e3.html
 
 <font style="color:rgb(51, 51, 51);">登录成功</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565562893-0d866073-a410-4633-b4b4-5f613ab78da6.webp)
+![](../../images/bfdf1faa44362d6a7c4e9be5b3f0f5ae.webp)
 
 ![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565562836-3afaef9a-8dca-4afe-9191-ee74dacbd510.webp)
 
@@ -94,7 +92,7 @@ http://www.luckysec.cn/posts/531d91e3.html
 
 ![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565562936-3bfd3962-cc9d-44f6-8538-e2ce81008eb8.webp)
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750565565223-ec2238bc-cb53-4d84-8fc5-294392afbf2a.webp)
+![](../../images/298ed75b9b39eb65ee7bb4ac9c627002.webp)
 
 **<font style="color:rgb(64, 64, 64);">3.</font>****<font style="color:rgb(64, 64, 64);">云上服务器命令行执行命令</font>**
 
