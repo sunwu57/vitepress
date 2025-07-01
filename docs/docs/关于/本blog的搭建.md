@@ -51,7 +51,7 @@ YUQUE_LOGIN=获取的login
 YUQUE_REPO=获取的repo
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739810402414-30a10456-d000-4822-8864-32a8322642ea.png)
+![](../../images/2a1771ce5f1f45f20c50f2d5b4f29a6d.png)
 
 ### <font style="color:rgb(31, 35, 40);">本地调试</font>
 <font style="color:rgb(31, 35, 40);">在项目根目录运行同步命令，将语雀repo对应库中的文档进行拉取到本地</font>
@@ -427,7 +427,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811081168-e0d3ef01-32f5-4f32-9f3a-68d31d40cb67.png)
+![](../../images/ab16a751a1b30be698f0fb74c90828df.png)
 
 ##### <font style="color:rgb(51, 51, 51);">搜索效果展示</font>
 ![](https://cdn.nlark.com/yuque/0/2025/gif/26698826/1739811081078-25b47778-d66c-4677-98c4-a85e90954d29.gif)
@@ -594,7 +594,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811082845-edaeb43b-9ce5-452b-bab8-374e45a5dc93.png)
+![](../../images/7865851da70c5a2b7fccbeb2e7858788.png)
 
 #### <font style="color:rgb(51, 51, 51);">明亮主题展示：appearance</font>
 `**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">appearance</font>**`**<font style="color:rgb(51, 51, 51);"> 配置不在 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig</font>**`**<font style="color:rgb(51, 51, 51);"> 字段里面，而是和 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig</font>**`**<font style="color:rgb(51, 51, 51);"> 同级</font>**![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811083922-e49f1bd7-f359-4851-8a7c-c8e5384690f8.png)
@@ -654,7 +654,7 @@ export default defineConfig({
 ### <font style="color:rgb(51, 51, 51);">左侧边栏</font>
 <font style="color:rgb(119, 119, 119);">左侧边栏是文档的主要导航块。</font>
 
-<font style="color:rgb(51, 51, 51);">在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig.sidebar</font>`<font style="color:rgb(51, 51, 51);"> 中配置左侧边栏菜单</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811084768-6aea703b-96b9-4e3e-9444-1eb72a27a9e7.png)
+<font style="color:rgb(51, 51, 51);">在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig.sidebar</font>`<font style="color:rgb(51, 51, 51);"> 中配置左侧边栏菜单</font>![](../../images/ab996deae6301f254090932bd287bab2.png)
 
 #### <font style="color:rgb(51, 51, 51);">左侧边栏基础配置</font>
 ##### <font style="color:rgb(51, 51, 51);">创建 md 文件</font>
@@ -1115,7 +1115,7 @@ next:
 ```
 
 #### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811088708-7301372a-2603-4a52-a18c-3e0674056855.png)
+![](../../images/bc35e5e1135dafd98c152f26e8a4a2b2.png)
 
 ### <font style="color:rgb(51, 51, 51);">配置项目 head</font>
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">head</font>`<font style="color:rgb(51, 51, 51);"> 模块配置的内容会添加在项目的 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">head</font>`<font style="color:rgb(51, 51, 51);"> 标签中，在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">config</font>`<font style="color:rgb(51, 51, 51);"> 中配置</font>
@@ -1261,7 +1261,7 @@ docs/public/basic
 ##### <font style="color:rgb(51, 51, 51);">build 项目</font>
 `npm run docs:build`
 
-<font style="color:rgb(51, 51, 51);">当你辛辛苦苦开发完成，</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">build</font>`<font style="color:rgb(51, 51, 51);"> 项目时，发现报错了…</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811090894-2b6e657d-88cb-4408-8dbd-f5b0a216cbe1.png)<font style="color:rgb(51, 51, 51);">所以你不能直接写图片名称，哪怕它能正确显示</font>
+<font style="color:rgb(51, 51, 51);">当你辛辛苦苦开发完成，</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">build</font>`<font style="color:rgb(51, 51, 51);"> 项目时，发现报错了…</font>![](../../images/a3a5afc64145b9b9a142e4a974991091.png)<font style="color:rgb(51, 51, 51);">所以你不能直接写图片名称，哪怕它能正确显示</font>
 
 ##### <font style="color:rgb(51, 51, 51);">正确引入图片</font><font style="color:rgb(51, 51, 51);">✅</font>
 <font style="color:rgb(51, 51, 51);">要把文件夹的名称加上</font>
@@ -1396,10 +1396,10 @@ GITHUB_REPO=仓库名字
 
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740639911083-2aaa409f-cff5-4b88-a8b3-181bd307bc9c.png)
+![](../../images/da797a164d3bde5484fd00fffbf19d25.png)
 
 ### github的token获取
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640521247-366f26b7-2d35-4f6b-9c72-42462fe95aad.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640600349-c8f9f3db-3210-4add-8c90-2499a2227d0d.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640556911-84b533fe-9404-4ab3-9a3b-fa53be4f0d95.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640521247-366f26b7-2d35-4f6b-9c72-42462fe95aad.png)![](../../images/0a3199ed6d025824b89fb9045c592a71.png)![](../../images/b01d66cf29075b5e1478b503d697bcd7.png)
 
 ### 在项目根目录执行同步命令即可
 ```yaml

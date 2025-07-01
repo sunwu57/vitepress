@@ -3,12 +3,12 @@
     {
       "id": 206320978,
       "doc_id": "on578p3peeqksucw",
-      "updated": 1742824532000,
+      "updated": 1751352680000,
       "properties": {
         "title": "本blog的搭建",
         "urlname": "on578p3peeqksucw",
         "date": "2025-02-17 22:34:56",
-        "updated": "2025-03-24 21:55:32",
+        "updated": "2025-07-01 14:51:20",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1739803976612-3af47b2e-5e9e-4e54-8354-e593e1a7bd46.png",
         "description": "1.  博客介绍使用vitepress框架+github存储+Elog+语雀写作+vercel部署+自定义域名子夜旅馆2. 部署2.1. VitePressVitePress 官网：VitePress 中文版2.1.1. 什么是 VitePressVitePress 是一个静态站点生成器 (S..."
@@ -453,12 +453,12 @@
     {
       "id": 213109662,
       "doc_id": "xcoymleeumz4vges",
-      "updated": 1750564654000,
+      "updated": 1750586784000,
       "properties": {
         "title": "payload",
         "urlname": "xcoymleeumz4vges",
         "date": "2025-03-31 08:47:29",
-        "updated": "2025-06-22 11:57:34",
+        "updated": "2025-06-22 18:06:24",
         "author": "孙武",
         "description": "GitHub - sunwu57/ziye-security-wordlists: ziye的专属字典 \"-prompt(1)-\" \";prompt(1);// \"&gt;1 "
       },
@@ -884,6 +884,54 @@
       "relativePath": "\\关于\\免杀基础总结.md",
       "needUpdate": 1,
       "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 224859262,
+      "doc_id": "dhyakwycffycd1yv",
+      "updated": 1750723114000,
+      "properties": {
+        "title": "普元eos-RCE",
+        "urlname": "dhyakwycffycd1yv",
+        "date": "2025-06-22 12:13:19",
+        "updated": "2025-06-24 07:58:34",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1750599167527-6cea554f-b462-4f92-a276-075a08b32f72.png",
+        "description": "/workspace/frame/permission/common/eos.jmx /default/.jmx .jmx .remove .download /java -jar ysoserial-0.0.6-SNAPSHOT-all.jar CommonsBeanutils1 \"calc..."
+      },
+      "catalog": [
+        {
+          "title": "漏洞复现",
+          "doc_id": "dhyakwycffycd1yv"
+        }
+      ],
+      "realName": "普元eos-RCE",
+      "relativePath": "\\漏洞复现\\普元eos-RCE.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\漏洞复现"
+    },
+    {
+      "id": 225923585,
+      "doc_id": "gxo351t9r8gw3trg",
+      "updated": 1751253939000,
+      "properties": {
+        "title": "CORS",
+        "urlname": "gxo351t9r8gw3trg",
+        "date": "2025-06-30 11:23:44",
+        "updated": "2025-06-30 11:25:39",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1751253851115-cc0d184c-d0fb-497d-bfb6-00b0e126341e.png",
+        "description": "(async () =&gt; {   try {     const res = await fetch(\"http://xxxx/download\", {       method: \"POST\",       credentials: \"include\",       headers: { \"..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "gxo351t9r8gw3trg"
+        }
+      ],
+      "realName": "CORS",
+      "relativePath": "\\关于\\CORS.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\关于"
     }
   ],
   "catalog": [
@@ -1134,6 +1182,24 @@
       "open_window": 1,
       "visible": 1,
       "prev_uuid": "ei-2gwma3II87RtG",
+      "sibling_uuid": "NYix3izhqmYPCZhK",
+      "child_uuid": "",
+      "parent_uuid": "ei-2gwma3II87RtG",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "NYix3izhqmYPCZhK",
+      "type": "DOC",
+      "title": "普元eos-RCE",
+      "url": "dhyakwycffycd1yv",
+      "slug": "dhyakwycffycd1yv",
+      "id": 224859262,
+      "doc_id": 224859262,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "8vhjyqm8blsdrbuA",
       "sibling_uuid": "",
       "child_uuid": "",
       "parent_uuid": "ei-2gwma3II87RtG",
@@ -1153,22 +1219,22 @@
       "visible": 1,
       "prev_uuid": "ei-2gwma3II87RtG",
       "sibling_uuid": "",
-      "child_uuid": "NYix3izhqmYPCZhK",
+      "child_uuid": "1h-E1yW67j00orkm",
       "parent_uuid": "",
       "_serializer": "v2.toc_item"
     },
     {
-      "uuid": "NYix3izhqmYPCZhK",
+      "uuid": "1h-E1yW67j00orkm",
       "type": "DOC",
-      "title": "无标题文档",
-      "url": "dhyakwycffycd1yv",
-      "slug": "dhyakwycffycd1yv",
-      "id": 224859262,
-      "doc_id": 224859262,
+      "title": "CORS",
+      "url": "gxo351t9r8gw3trg",
+      "slug": "gxo351t9r8gw3trg",
+      "id": 225923585,
+      "doc_id": 225923585,
       "level": 1,
       "depth": 2,
       "open_window": 1,
-      "visible": 0,
+      "visible": 1,
       "prev_uuid": "GxObxeQiBqbu0XuS",
       "sibling_uuid": "GeKBHKue2AzGS6P2",
       "child_uuid": "",
@@ -1187,7 +1253,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "NYix3izhqmYPCZhK",
+      "prev_uuid": "1h-E1yW67j00orkm",
       "sibling_uuid": "SNXCCry8ZJjF65Zj",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",

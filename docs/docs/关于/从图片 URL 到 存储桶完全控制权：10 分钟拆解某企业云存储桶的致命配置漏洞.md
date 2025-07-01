@@ -47,22 +47,22 @@ https://minio-xxx.qiye.com/img-uploads/1a2b3c-1a2b3c-1a2b3c-1a2b3c-1a2b3c.jpg
 # PUT Object（向桶（Bucket）中上传或存储对象）
     测试是否能匿名用户PUT任意文件上传覆盖，发现可以，返回状态码200表示上传成功。
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564710250-efc3a329-d1d0-4def-96ea-bd721836614b.webp)
+![](../../images/7a1ac3eee1288c51f101f3db97b166e0.webp)
 
     访问上传内容为1的/1文件验证是否上传成功，访问成功下载，证明已经上传成功，可进行任意文件上传覆盖。
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564710289-b749e2a0-5e7d-41a5-9d8d-09ae971cf025.webp)
+![](../../images/3b462a8c9423c16978b3777445dbb4c9.webp)
 
 打开查看内容为1
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564710315-e153de0c-d417-45f9-8a9f-ee80e0c6b204.webp)
+![](../../images/f474477b258283e4c868d98416933892.webp)
 
     到这其实就已经高危了，加上大量的身份证信息甚至发展到严重漏洞。
 
 信息越多，危害越大。危害越大，评级越高。低、中、高和严重都有可能。
 
 # PUT Policy（控制上传权限）
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564710396-907543e4-9a6a-4981-8274-4d07d08abf52.webp)
+![](../../images/0c6571706e9f6e074c0e316dbd65b1c2.webp)
 
 PUT上传构造好的身份的访问控制（IAM）策略，将权限给到根目录下（"arn:aws:s3:::*/*"），以及授予所有人权限访问（"Principal": "*"），这里也可以设置单独授权自己的id进行访问、上传等操作。
 
@@ -114,7 +114,7 @@ Content-Length: 288
 # 再次List Objects（列出根目录下的所有对象）
 现在就能列出根目录桶下的所有<key></key>值，最后想再扩大危害到最大的话可以再找一些敏感信息。
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564711043-6fea03c6-d070-4f2e-9c32-cf91b704d001.webp)
+![](../../images/54fffc7b8aa8e2faed0dc2cac7cc2706.webp)
 
 # 最后路径中有minio，顺便打一下minio的信息泄露
 `/minio/bootstrap/v1/verify`成功获取敏感数据

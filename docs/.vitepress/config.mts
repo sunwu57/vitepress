@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import { genYuqueSideBar } from "../../utils/route";
 import { YuQueSVG } from "../../utils/assists";
 import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar';
-
+import sidebar from './sidebar'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -27,19 +27,19 @@ export default defineConfig({
       //{ text: '关于文库', link: '/' },
       {  text: '漏洞相关2',
       items: [
-        { text: '数据库漏洞', link: encodeURI('/docs/poc/数据库漏洞/1') },
-        { text: '网络设备漏洞', link: encodeURI('/docs/poc/网络设备漏洞/1') },
-        { text: 'OA产品漏洞', link: encodeURI('/docs/poc/OA产品漏洞/1') },
-        { text: 'CMS漏洞', link: encodeURI('/docs/poc/CMS漏洞/1') },
-        { text: '操作系统漏洞', link: encodeURI('/docs/poc/操作系统漏洞/1') },
-        { text: '开发语言漏洞', link: encodeURI('/docs/poc/开发语言漏洞/1') },
-        { text: '开发框架漏洞', link: encodeURI('/docs/poc/开发框架漏洞/1') },
-        { text: '其他漏洞', link: encodeURI('/docs/poc/其他漏洞/1') },
-        { text: '人工智能漏洞', link: encodeURI('/docs/poc/人工智能漏洞/1') },
-        { text: '云安全漏洞', link: encodeURI('/docs/poc/云安全漏洞/1') },
-        { text: '中间件漏洞', link: encodeURI('/docs/poc/中间件漏洞/1') },
-        { text: 'base', link: encodeURI('/docs/poc/base/1') },
-        { text: 'web应用漏洞', link: encodeURI('/docs/poc/Web应用漏洞/1') },
+        { text: '数据库漏洞', link: encodeURI('/docs/poc/数据库漏洞/Apache CouchDB 垂直权限绕过漏洞 CVE-2017-12635.md') },
+        { text: '网络设备漏洞', link: encodeURI('/docs/poc/网络设备漏洞/安恒 明御安全网关 命令执行 任意文件读取漏洞.md') },
+        { text: 'OA产品漏洞', link: encodeURI('/docs/poc/OA产品漏洞/帆软报表 2012 信息泄露漏洞.md') },
+        { text: 'CMS漏洞', link: encodeURI('/docs/poc/CMS漏洞/74cms v4.2.1 v4.2.129 后台getshell漏洞.md') },
+        { text: '操作系统漏洞', link: encodeURI('/docs/poc/操作系统漏洞/Linux DirtyPipe 权限提升漏洞 CVE-2022-0847.md') },
+        { text: '开发语言漏洞', link: encodeURI('/docs/poc/开发语言漏洞/Java RMI Registry 反序列化漏洞(=jdk8u111).md') },
+        { text: '开发框架漏洞', link: encodeURI('/docs/poc/开发框架漏洞/Apache Commons Configuration 远程命令执行漏洞 CVE-2022-33980') },
+        { text: '其他漏洞', link: encodeURI('/docs/poc/其他漏洞/腾讯 企业微信 agentinfo 信息泄漏漏洞.md') },
+        { text: '人工智能漏洞', link: encodeURI('/docs/poc/人工智能漏洞/Ollama 目录遍历致代码执行漏洞 CVE-2024-37032.md') },
+        { text: '云安全漏洞', link: encodeURI('/docs/poc/云安全漏洞/Docker daemon api 未授权访问漏洞 RCE.md') },
+        { text: '中间件漏洞', link: encodeURI('/docs/poc/中间件漏洞/ACME Mini_httpd 任意文件读取漏洞 CVE-2018-18778.md') },
+        { text: 'base', link: encodeURI('/docs/poc/base/test.md') },
+        { text: 'web应用漏洞', link: encodeURI('/docs/poc/Web应用漏洞/1Panel loadfile 后台文件读取漏洞.md') },
       ] },
       //{ text: 'CTF', link: '/' },
       //{ text: '工具', link: '/' },
@@ -53,10 +53,7 @@ export default defineConfig({
       { text: '云顶之奕', link: '/docs/云顶之奕/S14-赛博城市/登龙九五(4.18)'}
       // { text: '短路由模式', link: '/docs-shorturl/ssuhngw0yb3dgkkg', activeMatch: '/docs-shorturl/' }
     ],
-    // sidebar: {
-    //   //"/docs/": await genYuqueSideBar('/docs'),
-    //   // "/docs-shorturl/": await genYuqueSideBarWithShortUrl('/docs-shorturl')
-    // },
+    sidebar,
     docFooter: {
       prev: '上一篇',
       next: '下一篇'
@@ -100,14 +97,14 @@ export default defineConfig({
     plugins: [
 
       // add plugin
-      AutoSidebar({
-        // You can also set options to adjust sidebar data
-        // see option document below
-        //path: 'docs',
-        scanRootMdFiles: true,
-        titleFromFile: false,
-        collapsed: true,
-      })
+      // AutoSidebar({
+      //   // You can also set options to adjust sidebar data
+      //   // see option document below
+      //   //path: 'docs',
+      //   scanRootMdFiles: true,
+      //   titleFromFile: false,
+      //   collapsed: true,
+      // })
     ]
   },
   markdown: {
@@ -131,6 +128,6 @@ export default defineConfig({
     breaks: true,
     linkify: true,
     // 添加安全的标签白名单
-    allowedTags: ['a', 'abbr', 'b', 'code', 'em', 'img', 'li', 'ol', 'p', 'strong', 'ul']
+   // allowedTags: ['a', 'abbr', 'b', 'code', 'em', 'img', 'li', 'ol', 'p', 'strong', 'ul']
   }
 })

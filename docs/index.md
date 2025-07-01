@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: 最近的文章
-      link: /docs/关于/222
+      link: /docs/关于/白加黑挖掘
     - theme: brand
-      text: 短路由示例
-      link: /docs-shorturl/ssuhngw0yb3dgkkg
+      # text: 短路由示例
+      # link: /docs-shorturl/ssuhngw0yb3dgkkg
     - theme: alt
       text: GitHub
       link: https://github.com/elog-x/yuque-vitepress
