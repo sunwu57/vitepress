@@ -2,13 +2,13 @@
 
       但是我这个人有个习惯，在每次渗透测试前我都会打开一个burpsuit抓包工具中的小开关。就是因为以下这个小细节助我拿下了这个高危以上的云存储桶接管漏洞。大伙可以看需求是否开启这个开关哈
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564706053-6f550184-bee3-4658-b4d4-1b7f0dd8c77f.webp)
+![](../../images/ac4c36474903efa8ef32c3718dbdbdb4.webp)
 
       没错！就是这个图片开关，默认是关闭状态，将其打开就能看到页面上所加载的图片链接。
 
       这里我们需要知道一个知识，网页上每一个页面的图像要想显示出来被我们电脑所看到，它就得被我们有网络的电脑所加载，不然我们肯定就看不到这张图片对吧？
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564706134-e709e134-aa83-4da0-8f3c-cf8d37f75d27.webp)
+![](../../images/2612be9444349255d8b588e4a3e39395.webp)
 
 漏洞实战过程复现
 
@@ -20,29 +20,29 @@ https://minio-xxx.qiye.com/img-uploads/1a2b3c-1a2b3c-1a2b3c-1a2b3c-1a2b3c.jpg
 
 记住，看到minio那肯定和云存储有点关系了。
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564707228-3bb35650-abcc-4d3d-b442-d46b15ace49d.webp)
+![](../../images/256a0d9cda0ea3aa87f1df8d6acb40ea.webp)
 
 # List Objects（列出桶内该目录下所有对象）
     复制图片放入浏览器加载，删除最后图片路径，从后往前一级一级目录删，有可能在某级目录就会列桶，发现访问https://minio-xxx.qiye.com/img-uploads/成功列桶！！这时候还不是在根目录下列出，危害还不是最大化。
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564707360-76daa0e5-e2f6-4b93-81bb-d296be4ac1fe.webp)
+![](../../images/8f3922cf595a2925102d3ac37f520e14.webp)
 
 # GET Objects（从桶（Bucket）中获取对象（Object）数据）
     复制列出的<key>xxxxxx.xslx</key>值拼接到目录后面发现直接可以获取下载
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564708107-d5b750f4-685f-4563-9a74-9e9da7fd754f.webp)
+![](../../images/137e054c50044fefb6b781c5c805e457.webp)
 
     经过多次测试发现大量身份证文件，其中一个xlsx文档中涵盖所有用户身份证。
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564708085-34388ab8-6f6d-4a8e-9662-9d6b2b25af9c.webp)
+![](../../images/ee381c518afb11490a053cd4302762e7.webp)
 
 这里我直接用OSS云存储桶遍历工具（OSSFileBrowse）直接查看寻找身份证等敏感信息相对一个一个下载比较的方便
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564709088-58c1f54d-e752-4fab-b52a-03ff6a4c487e.webp)
+![](../../images/f91bab7506d1857899bc435226c691cc.webp)
 
 发现身份证敏感信息后就可以访问下载下来
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1750564710011-eddf191e-6c81-4019-be53-e3b2bfe16328.webp)
+![](../../images/0bba3b20eb11fb1513d92f61b83833d5.webp)
 
 # PUT Object（向桶（Bucket）中上传或存储对象）
     测试是否能匿名用户PUT任意文件上传覆盖，发现可以，返回状态码200表示上传成功。
