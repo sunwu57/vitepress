@@ -1399,7 +1399,7 @@ GITHUB_REPO=仓库名字
 ![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740639911083-2aaa409f-cff5-4b88-a8b3-181bd307bc9c.png)
 
 ### github的token获取
-![](../../images/acfb6c9dddc727c68bdeeb9797dc8364.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640600349-c8f9f3db-3210-4add-8c90-2499a2227d0d.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640556911-84b533fe-9404-4ab3-9a3b-fa53be4f0d95.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640521247-366f26b7-2d35-4f6b-9c72-42462fe95aad.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640600349-c8f9f3db-3210-4add-8c90-2499a2227d0d.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640556911-84b533fe-9404-4ab3-9a3b-fa53be4f0d95.png)
 
 ### 在项目根目录执行同步命令即可
 ```yaml

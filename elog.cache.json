@@ -453,12 +453,12 @@
     {
       "id": 213109662,
       "doc_id": "xcoymleeumz4vges",
-      "updated": 1751536734000,
+      "updated": 1751537055000,
       "properties": {
         "title": "payload",
         "urlname": "xcoymleeumz4vges",
         "date": "2025-03-31 08:47:29",
-        "updated": "2025-07-03 17:58:54",
+        "updated": "2025-07-03 18:04:15",
         "author": "孙武",
         "description": "GitHub - sunwu57/ziye-security-wordlists: ziye的专属字典 \"-prompt(1)-\" \";prompt(1);// \"&gt;1 "
       },
@@ -1009,6 +1009,30 @@
       "realName": "格斗迅捷射(t0.5)",
       "relativePath": "\\云顶之奕\\龙神回归\\格斗迅捷射(t0.5).md",
       "docPath": "docs\\docs\\云顶之奕\\龙神回归"
+    },
+    {
+      "id": 226558258,
+      "doc_id": "eum9gg3xl0rf7ufg",
+      "updated": 1751592294000,
+      "properties": {
+        "title": "Jeecg-boot常见漏洞汇总",
+        "urlname": "eum9gg3xl0rf7ufg",
+        "date": "2025-07-04 08:38:03",
+        "updated": "2025-07-04 09:24:54",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589515301-e1aa383a-53ab-4d1c-b146-0633a5f9bd71.webp",
+        "description": "前言jeecg-boot漏洞笔记记录一下，大佬勿喷。小白可以直接收藏下来学习一下很多poc我都直接给出来了，基本就是我的笔记。如果，有不对的可以指正一下，一起学习。jeecg-boot介绍JeecgBoot是一款集成AI应用的，基于BPM流程的低代码平台，旨在帮助企业快速实现低代码开发和构建个..."
+      },
+      "catalog": [
+        {
+          "title": "漏洞复现",
+          "doc_id": "eum9gg3xl0rf7ufg"
+        }
+      ],
+      "realName": "Jeecg-boot常见漏洞汇总",
+      "relativePath": "\\漏洞复现\\Jeecg-boot常见漏洞汇总.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\漏洞复现"
     }
   ],
   "catalog": [
@@ -1296,8 +1320,26 @@
       "visible": 1,
       "prev_uuid": "Dhd74Lwp6zhStPmG",
       "sibling_uuid": "GxObxeQiBqbu0XuS",
-      "child_uuid": "8vhjyqm8blsdrbuA",
+      "child_uuid": "JmzELftO_iZ9dCF8",
       "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "JmzELftO_iZ9dCF8",
+      "type": "DOC",
+      "title": "Jeecg-boot常见漏洞汇总",
+      "url": "eum9gg3xl0rf7ufg",
+      "slug": "eum9gg3xl0rf7ufg",
+      "id": 226558258,
+      "doc_id": 226558258,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "ei-2gwma3II87RtG",
+      "sibling_uuid": "8vhjyqm8blsdrbuA",
+      "child_uuid": "",
+      "parent_uuid": "ei-2gwma3II87RtG",
       "_serializer": "v2.toc_item"
     },
     {
@@ -1312,7 +1354,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "ei-2gwma3II87RtG",
+      "prev_uuid": "JmzELftO_iZ9dCF8",
       "sibling_uuid": "NYix3izhqmYPCZhK",
       "child_uuid": "",
       "parent_uuid": "ei-2gwma3II87RtG",
