@@ -53,7 +53,7 @@ export default defineConfig({
       { text: '在线画板', link: 'http://pan.sunwu.world:5000/' },
       { text: '爱发电', link: 'https://afdian.com/dashboard/stats' },
       { text: '云顶之奕', link: '/docs/云顶之奕/S14-赛博城市/登龙九五(4.18)'},
-      { text: '红细胞站', link: 'https://redcellsec.cn' },
+      { text: '红细胞安全实验室', link: 'https://redcellsec.cn' },
       // { text: '短路由模式', link: '/docs-shorturl/ssuhngw0yb3dgkkg', activeMatch: '/docs-shorturl/' }
     ],
     sidebar,
