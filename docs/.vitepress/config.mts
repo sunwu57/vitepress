@@ -55,7 +55,7 @@ export default defineConfig({
       next: '下一篇'
     },
     socialLinks: [      
-      { icon: { svg: YuQueSVG }, link: "https://www.yuque.com/sunwu-pbywz" },
+      //{ icon: { svg: YuQueSVG }, link: "https://www.yuque.com/sunwu-pbywz" },
       { icon: 'github', link: 'https://github.com/sunwu57' }
     ],
     footer: {

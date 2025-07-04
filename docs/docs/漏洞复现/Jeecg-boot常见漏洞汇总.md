@@ -612,7 +612,7 @@
 
 <font style="color:rgb(51, 51, 51);background-color:rgb(248, 248, 248);">数据库中</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(248, 248, 248);">password</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(248, 248, 248);">字段是加密的，通过查看源码发现密码使用PBE进行加密，关键是用明文密码作为对称加密key的一个环节，所以没办法直接逆向解密，但是可以离线爆破。</font>
 
-![](../../images/12757e871dba8bfb87672a8ec0685ec9.webp)
+![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589516971-466797ae-c2f6-4654-a576-99a59274e830.webp)
 
 ![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589517284-2d22399d-f3f9-45b5-8ead-76d123304b29.webp)
 
