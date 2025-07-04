@@ -88,7 +88,7 @@ export default Theme
 本文档默认是按照文档目录渲染站点 URL，可能会存在中文路由，如果想要短路由模式，即站点路由全英文，可前往[进阶配置](https://yuque-vitepress.vercel.app/docs/%E8%BF%9B%E9%98%B6%E9%85%8D%E7%BD%AE/VitePress%E7%9F%AD%E8%B7%AF%E7%94%B1%E6%A8%A1%E5%BC%8F) 中阅读
 
 ### 目录结构
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739810724053-1e102a50-6f0c-4f01-b864-9151d01bf691.png)
+![](../../images/b0f0d196bb25a454b5eee44f2da6f1e3.png)
 
 ### <font style="color:rgb(79, 79, 79);">项目文件结构</font>
 :::info
@@ -295,7 +295,7 @@ features:
 MD 文件
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811079313-034ea56f-acde-4e82-8f13-5ab92cd07507.png)
+![](../../images/05633a8610627b5a9a4819773cb97878.png)
 
 ##### <font style="color:rgb(51, 51, 51);">引入 MD 文件</font>
 ###### <font style="color:rgb(119, 119, 119);">新建 MD 文件</font>
@@ -335,7 +335,7 @@ article>img{
 ```
 
 ###### <font style="color:rgb(119, 119, 119);">页面展示</font>
-1. <font style="color:rgb(51, 51, 51);">引入 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">MD</font>`<font style="color:rgb(51, 51, 51);"> 文件展示</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811079301-709f6bc6-18d1-43e8-9ea7-eab85cedc5f5.png)
+1. <font style="color:rgb(51, 51, 51);">引入 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">MD</font>`<font style="color:rgb(51, 51, 51);"> 文件展示</font>![](../../images/e90efb1f859247dd24869863508d6961.png)
 2. `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Style</font>`<font style="color:rgb(51, 51, 51);"> 标签样式展示</font>
 
 ![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811079290-db237a21-d438-4e71-8c1c-a09db0e542a4.png)
