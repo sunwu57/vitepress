@@ -627,7 +627,7 @@
 
 <font style="color:rgb(51, 51, 51);">先取出对应的数据，放到根目录下的</font>`<font style="color:rgb(51, 51, 51);">data.json</font>`<font style="color:rgb(51, 51, 51);">，然后准备一个字典，放到根目录下的</font>`<font style="color:rgb(51, 51, 51);">pass.txt</font>`
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589517520-644b7387-1c1b-440c-b9e6-bfac6e6b2b7f.webp)
+![](../../images/5d24fed0fd135ba42fcfbcd203acbd4a.webp)
 
 ![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589517859-06a4d70d-5ab6-4705-9ba8-6c9394d7956b.webp)
 
