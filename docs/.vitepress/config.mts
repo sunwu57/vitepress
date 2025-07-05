@@ -36,7 +36,7 @@ export default defineConfig({
        //{ text: '红细胞安全实验室', link: 'https://redcellsec.cn' },
       ] },
       { text: '爱发电', link: 'https://afdian.com/dashboard/stats' },
-      { text: '云顶之奕', link: '/docs/云顶之奕/S14-赛博城市/登龙九五(4.18)'},
+      { text: '云顶之奕', link: '/docs/云顶之奕/索引'},
       {  text: '工具',
       items: [
         { text: '子夜网盘', link: 'https://pan.sunwu.world:5244/' },
