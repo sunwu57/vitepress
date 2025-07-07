@@ -1108,12 +1108,12 @@
     {
       "id": 226817117,
       "doc_id": "qflabl20psezz0sh",
-      "updated": 1751789562000,
+      "updated": 1751855542000,
       "properties": {
         "title": "Windows痕迹清除",
         "urlname": "qflabl20psezz0sh",
         "date": "2025-07-06 16:11:38",
-        "updated": "2025-07-06 16:12:42",
+        "updated": "2025-07-07 10:32:22",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2023/png/26698826/1675307155340-611a9cf1-28ca-4c3d-9bb0-ea042313a24e.png",
         "description": "Windows痕迹清除日志Windows的日志文件分为3类核心日志，分别是系统日志，程序日志，和安全日志系统日志(SysEvent)：记录操作系统产生的事件，如设备驱动无法正常启动或停止，系统进程崩溃等# 默认位置:%SystemRoot%\\System32\\Winevt\\Logs\\Syste..."
@@ -1130,17 +1130,18 @@
       ],
       "realName": "Windows痕迹清除",
       "relativePath": "\\安全学习手册\\后渗透\\Windows痕迹清除.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\后渗透"
     },
     {
       "id": 226816456,
       "doc_id": "tln619yyqwry7rbs",
-      "updated": 1751789371000,
+      "updated": 1751855547000,
       "properties": {
         "title": "swagger接口泄露",
         "urlname": "tln619yyqwry7rbs",
         "date": "2025-07-06 16:05:56",
-        "updated": "2025-07-06 16:09:31",
+        "updated": "2025-07-07 10:32:27",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751789263397-694e4559-e9e5-44ee-a9c5-469fbe1cb6bf.webp",
         "description": "swagger接口泄露在进行渗透测试中发现，存在以下接口特征，对于这种/api/v1或者/api/v2或者/api、/apis等API开头的接口前缀，是很容易出现swagger、actuator、druid泄露等，当然在我们课程中都是经常讲，也经常遇到的。对“https://www.xxxte..."
@@ -1157,6 +1158,7 @@
       ],
       "realName": "swagger接口泄露",
       "relativePath": "\\安全学习手册\\打点入门\\swagger接口泄露.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\打点入门"
     }
   ],
