@@ -131,7 +131,7 @@ layout: home
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077699-807f66b1-b841-43da-942b-78f81e79324a.png)
+`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>![](../../images/d27e98fbc3ffde49e1c19cdfd072cabd.png)
 
 ---
 
@@ -614,7 +614,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](../../images/84dbae9cf8ea7833e62ff4e1ff56f9c4.png)<font style="color:rgb(51, 51, 51);">当我们设置为 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">false</font>`<font style="color:rgb(51, 51, 51);"> 的时候，就没有 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">switch</font>`<font style="color:rgb(51, 51, 51);"> 按钮了</font>
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811083945-3df6afcc-57b6-448d-90d1-0b778a512a36.png)<font style="color:rgb(51, 51, 51);">当我们设置为 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">false</font>`<font style="color:rgb(51, 51, 51);"> 的时候，就没有 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">switch</font>`<font style="color:rgb(51, 51, 51);"> 按钮了</font>
 
 ### <font style="color:rgb(51, 51, 51);">页脚</font>
 <font style="color:rgb(51, 51, 51);">页脚面配置是 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig.footer</font>`<font style="color:rgb(51, 51, 51);"> 字段</font>
@@ -1026,7 +1026,7 @@ export default defineConfig({
 ##### <font style="color:rgb(51, 51, 51);">deep 字段</font>
 <font style="color:rgb(51, 51, 51);">当为字符串时，只有 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">deep</font>`<font style="color:rgb(51, 51, 51);"> 一个字段，与 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">[2, 6]</font>`<font style="color:rgb(51, 51, 51);"> 相同，展示 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h2~h6</font>`<font style="color:rgb(51, 51, 51);"> 所有标题</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811087725-278d669a-732f-47c5-9c5d-4f0673b3be49.png)
+![](../../images/2ceb3d2643c5007adaba482a0b717dbe.png)
 
 ##### <font style="color:rgb(51, 51, 51);">数组形式</font>
 ```plain
@@ -1218,7 +1218,7 @@ export default defineConfig({
 })
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811089331-cd44b10e-31b7-47f1-b210-cd1f8520668c.png)
+![](../../images/266e5f49658ce1cbfdb1fd10b68836fb.png)
 
 #### <font style="color:rgb(51, 51, 51);">最终渲染</font>
 ![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811089361-19f40e08-5b27-44a7-9825-f42dffc1572b.png)
@@ -1261,7 +1261,7 @@ docs/public/basic
 ##### <font style="color:rgb(51, 51, 51);">build 项目</font>
 `npm run docs:build`
 
-<font style="color:rgb(51, 51, 51);">当你辛辛苦苦开发完成，</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">build</font>`<font style="color:rgb(51, 51, 51);"> 项目时，发现报错了…</font>![](../../images/a3a5afc64145b9b9a142e4a974991091.png)<font style="color:rgb(51, 51, 51);">所以你不能直接写图片名称，哪怕它能正确显示</font>
+<font style="color:rgb(51, 51, 51);">当你辛辛苦苦开发完成，</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">build</font>`<font style="color:rgb(51, 51, 51);"> 项目时，发现报错了…</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811090894-2b6e657d-88cb-4408-8dbd-f5b0a216cbe1.png)<font style="color:rgb(51, 51, 51);">所以你不能直接写图片名称，哪怕它能正确显示</font>
 
 ##### <font style="color:rgb(51, 51, 51);">正确引入图片</font><font style="color:rgb(51, 51, 51);">✅</font>
 <font style="color:rgb(51, 51, 51);">要把文件夹的名称加上</font>
@@ -1396,10 +1396,10 @@ GITHUB_REPO=仓库名字
 
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740639911083-2aaa409f-cff5-4b88-a8b3-181bd307bc9c.png)
+![](../../images/da797a164d3bde5484fd00fffbf19d25.png)
 
 ### github的token获取
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640521247-366f26b7-2d35-4f6b-9c72-42462fe95aad.png)![](../../images/0a3199ed6d025824b89fb9045c592a71.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640556911-84b533fe-9404-4ab3-9a3b-fa53be4f0d95.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640521247-366f26b7-2d35-4f6b-9c72-42462fe95aad.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640600349-c8f9f3db-3210-4add-8c90-2499a2227d0d.png)![](../../images/b01d66cf29075b5e1478b503d697bcd7.png)
 
 ### 在项目根目录执行同步命令即可
 ```yaml
@@ -1592,5 +1592,5 @@ nav: [
 ```
 
 即可实现目录分组功能  
-![](../../images/299eae86c1dc4f52684588820cb35869.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1751358857727-304e76a0-77a3-490e-9094-6977f5b85bda.png)
 
