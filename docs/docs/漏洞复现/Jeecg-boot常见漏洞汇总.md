@@ -17,7 +17,7 @@
 
 <font style="color:rgb(51, 51, 51);background-color:rgb(248, 248, 248);">https://github.com/zhangdaiscott/jeecg-boot</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589515301-e1aa383a-53ab-4d1c-b146-0633a5f9bd71.webp)
+![](../../images/be2da0fd902ad3b3252e76003019191b.webp)
 
 ## <font style="color:rgba(0, 0, 0, 0.85);">资产测绘</font>
 <font style="color:rgb(51, 51, 51);background-color:rgb(248, 248, 248);">fofa:</font>
@@ -34,11 +34,11 @@
 ## <font style="color:rgba(0, 0, 0, 0.85);">常见情况</font>
 <font style="color:rgb(51, 51, 51);">加载动画</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589515192-61597db7-a17b-4cfc-b363-8ddcfdda1816.webp)
+![](../../images/d0bb6cbcf719d879686abfa225596bc4.webp)
 
 ![](../../images/69225411d68cae0a154bba0d9c33a35b.webp)
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589515419-1fdd9c2d-8862-46a0-aadc-2d85dd6df815.webp)
+![](../../images/f6c2543a31f59e92efe13b968e208cd8.webp)
 
 <font style="color:rgb(51, 51, 51);">出现一下这几种情况基本可以确定是jeecg-boot,也可以通过接口或者图标等信息进行判定。</font>
 
@@ -57,7 +57,7 @@
 
 <font style="color:rgb(51, 51, 51);background-color:rgb(248, 248, 248);">guest/guest</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589516853-20de1f3b-d865-4bd9-be9a-d2468c05d082.webp)
+![](../../images/c104c10153b563f985d1ef9c568dfe23.webp)
 
 ## <font style="color:rgba(0, 0, 0, 0.85);">JeecgBoot passwordChange接口任意用户密码重置</font>
 <font style="color:rgb(51, 51, 51);background-color:rgb(248, 248, 248);">GET /jeecg-boot/sys/user/passwordChange?username=admin&password=admin&smscode=&phone= HTTP/1.1</font><font style="color:rgb(51, 51, 51);background-color:rgb(248, 248, 248);">  
@@ -602,7 +602,7 @@
 
 <font style="color:rgb(51, 51, 51);background-color:rgb(248, 248, 248);">jeecg-boot-v2 AviatorScript表达式注入漏洞</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589516945-acedefee-bbb6-4159-9b8b-ec70d937a26f.webp)
+![](../../images/0fcb7c1678a18f260e0fbeef9b17206c.webp)
 
 <font style="color:rgb(51, 51, 51);">有时候我们检测到了sql注入漏洞但是无法getshell，可以另辟蹊径，直接读取密码文件然后进行解密。</font>
 
@@ -612,11 +612,11 @@
 
 <font style="color:rgb(51, 51, 51);background-color:rgb(248, 248, 248);">数据库中</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(248, 248, 248);">password</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(248, 248, 248);">字段是加密的，通过查看源码发现密码使用PBE进行加密，关键是用明文密码作为对称加密key的一个环节，所以没办法直接逆向解密，但是可以离线爆破。</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589516971-466797ae-c2f6-4654-a576-99a59274e830.webp)
+![](../../images/12757e871dba8bfb87672a8ec0685ec9.webp)
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589517284-2d22399d-f3f9-45b5-8ead-76d123304b29.webp)
+![](../../images/1b69724c8d481acbc68d163ff4f3241c.webp)
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589517266-3f55250c-6645-41d5-9cf1-15267d606c1f.webp)
+![](../../images/54f85bc6fcf7ee51672f9e967c087bdf.webp)
 
 <font style="color:rgb(51, 51, 51);">实现过程</font>
 
@@ -627,13 +627,13 @@
 
 <font style="color:rgb(51, 51, 51);">先取出对应的数据，放到根目录下的</font>`<font style="color:rgb(51, 51, 51);">data.json</font>`<font style="color:rgb(51, 51, 51);">，然后准备一个字典，放到根目录下的</font>`<font style="color:rgb(51, 51, 51);">pass.txt</font>`
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589517520-644b7387-1c1b-440c-b9e6-bfac6e6b2b7f.webp)
+![](../../images/5d24fed0fd135ba42fcfbcd203acbd4a.webp)
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589517859-06a4d70d-5ab6-4705-9ba8-6c9394d7956b.webp)
+![](../../images/6452bb3df01640f6556fa05812e6e8bd.webp)
 
 ```plain
 java -jar JeecgBoot-offline-brute.jar
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589517817-118605bf-e7c5-4887-a1e5-5bbe7c96ecec.webp)
+![](../../images/978be8fc2d0b29d580dd196118ddc9e9.webp)
 

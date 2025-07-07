@@ -11,7 +11,7 @@ mkdir .ssh
 ```
 
 # 闯关流程
-1. [http://192.168.147.130/app1/robots.txt](http://192.168.147.130/app1/robots.txt)![](https://cdn.nlark.com/yuque/0/2023/png/26698826/1704030544042-1d07cc6c-df71-4526-a593-2f20e537cf60.png)获得备份文件
+1. [http://192.168.147.130/app1/robots.txt](http://192.168.147.130/app1/robots.txt)![](../../../../images/29b1e1dd75ed7c5c92afafaa0fe94227.png)获得备份文件
 2. 下载文件，查看  
 
 
@@ -48,7 +48,7 @@ dict://localhost:6378/save
 
     1. 第四步木马，需要进行hex编码，然后每两个字符进行`\x`处理
 
-![](https://cdn.nlark.com/yuque/0/2023/png/26698826/1704032188524-4f93e8e2-d3e9-4cca-ad3b-2b204f111c43.png)
+![](../../../../images/ab2bd5702cd9d4ef8c7abb778a665e3e.png)
 
 5. 1
 
@@ -56,7 +56,7 @@ dict://localhost:6378/save
 cd /var/spool/cron   找到第三个flag
 ```
 
-![](https://cdn.nlark.com/yuque/0/2023/png/26698826/1704032256182-43231132-78dd-46d5-974e-6d35c38a1f94.png)
+![](../../../../images/c3d152e6ae08b95b9003c39a45309636.png)
 
 # 使用公私钥
 本地没有ssh公私钥的ssh-keygen -t rsa用这个生成
@@ -75,9 +75,9 @@ ssh root@192.168.0.75
 
 # 航空公司
 ssrf+redis+文件包含(tp6.0.12)  
-![](https://cdn.nlark.com/yuque/0/2024/png/26698826/1704100803880-861ce6d0-1a13-43d2-8ace-bbda9af4e7b6.png)
+![](../../../../images/de2e8f8e4a09f66a1e417eb38db35cf8.png)
 
-![](https://cdn.nlark.com/yuque/0/2024/png/26698826/1704101193721-e514ad59-6c1e-4525-b0ce-1f7620d043b1.png)
+![](../../../../images/401c88decd66bf2b40073fa9b79d1256.png)
 
 ```plain
 config:set:dir:/var/spool/cron

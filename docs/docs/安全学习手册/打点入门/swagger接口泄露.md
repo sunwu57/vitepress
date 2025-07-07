@@ -12,7 +12,7 @@
 https://github.com/AabyssZG/SpringBoot-Scan
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751789263397-694e4559-e9e5-44ee-a9c5-469fbe1cb6bf.webp)<font style="color:rgba(0, 0, 0, 0.9);">swagger存在两个可利用路径</font>
+![](../../../images/3aaef43e37e2d8be2f0bab11b4cc54f5.webp)<font style="color:rgba(0, 0, 0, 0.9);">swagger存在两个可利用路径</font>
 
 <font style="color:rgba(0, 0, 0, 0.9);">比如：</font>
 

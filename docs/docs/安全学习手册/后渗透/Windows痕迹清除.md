@@ -36,7 +36,7 @@
 <font style="color:rgb(51, 51, 51);">svchost主要是用来实现服务进程数据共享,以此来减少系统资源消耗,很多系统程序和服务使用svchost运行。  
 </font><font style="color:rgb(51, 51, 51);">windows系统进程分为独立进程和共享进程两种，</font><font style="color:rgb(233, 30, 99) !important;background-color:rgb(246, 246, 246);">svchost.exe</font><font style="color:rgb(51, 51, 51);">文件存在于</font><font style="color:rgb(233, 30, 99) !important;background-color:rgb(246, 246, 246);">%systemroot%system32</font><font style="color:rgb(51, 51, 51);">目录下，它属于共享进程。  
 </font><font style="color:rgb(51, 51, 51);">随着windows系统服务不断增多，为了节省系统资源，微软把很多服务做成共享方式，交由svchost.exe进程来启动。但svchost进程只作为服务宿主，并不能实现任何服务功能，即它只能提供条件让其他服务在这里被启动，而它自己却不能给用户提供任何服务。这些系统服务是以动态链接库（dll）形式实现的，它们把可执行程序指向svchost，由svchost调用相应服务的动态链接库来启动服务。  
-</font>![](https://cdn.nlark.com/yuque/0/2023/png/26698826/1675307155340-611a9cf1-28ca-4c3d-9bb0-ea042313a24e.png)
+</font>![](../../../images/00834798c3963d9d68d33d38c294ac58.png)
 
 ### **<font style="color:rgb(51, 51, 51);">Event Log</font>**
 <font style="color:rgb(51, 51, 51);">Event Log主要是管理windows管理事件和事件日志。它支持日志记录事件、查询事件、订阅事件、归档事件日志以及管理事件元数据。它可以用 XML 和纯文本两种格式显示事件。  

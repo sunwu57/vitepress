@@ -1,4 +1,5 @@
 pnpm run elog:sync-local
+node generateSidebar.js
 git init
 git add .
 git commit -m "20250326-2"

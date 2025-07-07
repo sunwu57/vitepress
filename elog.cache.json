@@ -927,7 +927,6 @@
       ],
       "realName": "CORS",
       "relativePath": "\\关于\\CORS.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\关于"
     },
     {
@@ -955,7 +954,6 @@
       ],
       "realName": "法师瑞兹",
       "relativePath": "\\云顶之奕\\龙神回归\\法师瑞兹.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\云顶之奕\\龙神回归"
     },
     {
@@ -979,7 +977,6 @@
       ],
       "realName": "go程序调试",
       "relativePath": "\\关于\\go程序调试.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\关于"
     },
     {
@@ -1030,7 +1027,6 @@
       ],
       "realName": "Jeecg-boot常见漏洞汇总",
       "relativePath": "\\漏洞复现\\Jeecg-boot常见漏洞汇总.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\漏洞复现"
     },
     {
@@ -1080,7 +1076,6 @@
       ],
       "realName": "常规打点",
       "relativePath": "\\安全学习手册\\打点入门\\常规打点.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\打点入门"
     },
     {
@@ -1108,7 +1103,6 @@
       ],
       "realName": "龙神烈焰",
       "relativePath": "\\云顶之奕\\龙神回归\\龙神烈焰.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\云顶之奕\\龙神回归"
     },
     {
@@ -1136,7 +1130,6 @@
       ],
       "realName": "Windows痕迹清除",
       "relativePath": "\\安全学习手册\\后渗透\\Windows痕迹清除.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\后渗透"
     },
     {
@@ -1164,7 +1157,6 @@
       ],
       "realName": "swagger接口泄露",
       "relativePath": "\\安全学习手册\\打点入门\\swagger接口泄露.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\打点入门"
     },
     {
@@ -1196,18 +1188,17 @@
       ],
       "realName": "牙医(host头+XXE+suid提权)",
       "relativePath": "\\安全学习手册\\web漏洞\\2.12 XXE\\牙医(host头+XXE+suid提权).md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.12 XXE"
     },
     {
       "id": 226801867,
       "doc_id": "rxfd0nxflaz88ipb",
-      "updated": 1751854898973,
+      "updated": 1751854899000,
       "properties": {
         "title": "2.10.1 CORS介绍",
         "urlname": "rxfd0nxflaz88ipb",
         "date": "2025-07-06 12:40:59",
-        "updated": "2025-07-07 10:21:38",
+        "updated": "2025-07-07 10:21:39",
         "author": "孙武",
         "description": "阅读本文，你需要首先知道：1浏览器的同源策略2跨域问题3JSONP原理4cookie原理JSONP并不是一个好的跨域解决方案，它至少有着下面两个严重问题：1. 会打乱服务器的消息格式：JSONP要求服务器响应一段JS代码，但在非跨域的情况下，服务器又需要响应一个正常的JSON格式2. 只能完成..."
       },
@@ -1227,7 +1218,6 @@
       ],
       "realName": "2.10.1 CORS介绍",
       "relativePath": "\\安全学习手册\\web漏洞\\2.10 cors\\2.10.1 CORS介绍.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.10 cors"
     },
     {
@@ -1259,13 +1249,12 @@
       ],
       "realName": "2.11.1 php反序列化",
       "relativePath": "\\安全学习手册\\web漏洞\\2.11 反序列化\\2.11.1 php反序列化.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.11 反序列化"
     },
     {
       "id": 226801865,
       "doc_id": "avfkw0wu95gmohbz",
-      "updated": 1751854899298,
+      "updated": 1751854899000,
       "properties": {
         "title": "2.8.1 CSRF(跨站请求伪造)",
         "urlname": "avfkw0wu95gmohbz",
@@ -1290,7 +1279,6 @@
       ],
       "realName": "2.8.1 CSRF(跨站请求伪造)",
       "relativePath": "\\安全学习手册\\web漏洞\\2.8 csrf\\2.8.1 CSRF(跨站请求伪造).md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.8 csrf"
     },
     {
@@ -1322,7 +1310,6 @@
       ],
       "realName": "2.9.1 ssrf漏洞",
       "relativePath": "\\安全学习手册\\web漏洞\\2.9 ssrf\\2.9.1 ssrf漏洞.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.9 ssrf"
     },
     {
@@ -1354,7 +1341,6 @@
       ],
       "realName": "ssrf+redis",
       "relativePath": "\\安全学习手册\\web漏洞\\2.9 ssrf\\ssrf+redis.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.9 ssrf"
     },
     {
@@ -1386,7 +1372,6 @@
       ],
       "realName": "2.7.1 文件包含漏洞",
       "relativePath": "\\安全学习手册\\web漏洞\\2.7 文件包含\\2.7.1 文件包含漏洞.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.7 文件包含"
     },
     {
@@ -1514,12 +1499,12 @@
     {
       "id": 226801860,
       "doc_id": "igflx51787yin7rm",
-      "updated": 1751854900639,
+      "updated": 1751854901000,
       "properties": {
         "title": "2.5.1 文件上传（uploads）",
         "urlname": "igflx51787yin7rm",
         "date": "2025-07-06 12:40:58",
-        "updated": "2025-07-07 10:21:40",
+        "updated": "2025-07-07 10:21:41",
         "author": "孙武",
         "description": "什么是文件上传漏洞文件上传漏洞是指由于程序员在对用户文件上传部分的控制不足或者处理缺陷，而导致的用户可以越过其本身权限向服务器上上传可执行的动态脚本文件。这里上传的文件可以是木马，病毒，恶意脚本或者WebShell等。这种攻击方式是最为直接和有效的，“文件上传”本身没有问题，有问题的是文件上传..."
       },
@@ -1575,7 +1560,7 @@
     {
       "id": 226801853,
       "doc_id": "umqrpfk66dld64qw",
-      "updated": 1751854901253,
+      "updated": 1751854901000,
       "properties": {
         "title": "2.4.4 XSS绕WAF",
         "urlname": "umqrpfk66dld64qw",
@@ -1605,7 +1590,7 @@
     {
       "id": 226801852,
       "doc_id": "ylpg7g16efhy5xa5",
-      "updated": 1751854901318,
+      "updated": 1751854901000,
       "properties": {
         "title": "2.4.3 XSS修复",
         "urlname": "ylpg7g16efhy5xa5",
@@ -1701,7 +1686,7 @@
     {
       "id": 226801849,
       "doc_id": "my2m66fh7z99rbtr",
-      "updated": 1751854902389,
+      "updated": 1751854902000,
       "properties": {
         "title": "2.3.7 SQLmap绕过WAF",
         "urlname": "my2m66fh7z99rbtr",
@@ -1735,7 +1720,7 @@
     {
       "id": 226801850,
       "doc_id": "ntu6edu5fd6d37wf",
-      "updated": 1751854902171,
+      "updated": 1751854902000,
       "properties": {
         "title": "2.4.1 XSS跨站之原理及攻击手法",
         "urlname": "ntu6edu5fd6d37wf",
@@ -1765,12 +1750,12 @@
     {
       "id": 226801846,
       "doc_id": "xz8f2gxngel2gyd4",
-      "updated": 1751854902864,
+      "updated": 1751854903000,
       "properties": {
         "title": "2.3.6 Access注入",
         "urlname": "xz8f2gxngel2gyd4",
         "date": "2025-07-06 12:40:57",
-        "updated": "2025-07-07 10:21:42",
+        "updated": "2025-07-07 10:21:43",
         "author": "孙武",
         "description": "Access数据库特性Access数据库结构1&gt; Access数据库是单一数据库,因此没有库名,数据库中的结构为: 表--&gt;列--&gt;数据，myql的结构为:库--&gt;表--&gt;列--&gt;数据。2&gt; Access数据库没有像mysql里information_schema这样的库记录所有表的信息,因此..."
       },
@@ -1799,12 +1784,12 @@
     {
       "id": 226801845,
       "doc_id": "vp2xhcfn92k16rt2",
-      "updated": 1751854902989,
+      "updated": 1751854903000,
       "properties": {
         "title": "2.3.5 dnslog带外注入",
         "urlname": "vp2xhcfn92k16rt2",
         "date": "2025-07-06 12:40:57",
-        "updated": "2025-07-07 10:21:42",
+        "updated": "2025-07-07 10:21:43",
         "author": "孙武",
         "description": "1.dnslog简介Dnslog就是存储在DNS Server上的域名信息，它记录着用户对域名www.test.com、t00ls.com.等的访问信息。2.dnslog原理注册了一个为a.com的域名，我将他a记录解析到10.0.0.0上，这样就实现了无论我记录值填什么他都有解析，并且都指向..."
       },
@@ -1833,7 +1818,7 @@
     {
       "id": 226801842,
       "doc_id": "rflsrrxk4dmcqst4",
-      "updated": 1751854903403,
+      "updated": 1751854903000,
       "properties": {
         "title": "2.1.3 子域名、CDN、泛解析",
         "urlname": "rflsrrxk4dmcqst4",
@@ -1863,7 +1848,7 @@
     {
       "id": 226801844,
       "doc_id": "ce7o0ziaykp42ho8",
-      "updated": 1751854903495,
+      "updated": 1751854903000,
       "properties": {
         "title": "2.3.3 sqli-labs通关",
         "urlname": "ce7o0ziaykp42ho8",
@@ -1893,12 +1878,12 @@
     {
       "id": 226801841,
       "doc_id": "lt0uskrgb98d9kg6",
-      "updated": 1751854903710,
+      "updated": 1751854904000,
       "properties": {
         "title": "2.3.4 SQL注入的修复",
         "urlname": "lt0uskrgb98d9kg6",
         "date": "2025-07-06 12:40:57",
-        "updated": "2025-07-07 10:21:43",
+        "updated": "2025-07-07 10:21:44",
         "author": "孙武",
         "description": "SQL注入漏洞成因用户能控制传参SQL语句中拼接了用户传参的内容、拼接后的SQL语句必须等在数据库中方执行2.3.4.1 什么是预编译？ 普通的SQL语句执行过程: 客户端对SQL语句进行占位符替换得到完整的SQL语句 客户端发送完整SQL语句到MySQL服务端 MySQL服务端执行完整的SQ..."
       },
@@ -1918,7 +1903,6 @@
       ],
       "realName": "2.3.4 SQL注入的修复",
       "relativePath": "\\安全学习手册\\web漏洞\\2.3 SQL注入\\2.3.4 SQL注入的修复.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.3 SQL注入"
     },
     {
@@ -1950,7 +1934,6 @@
       ],
       "realName": "2.3.2 sql注入教程",
       "relativePath": "\\安全学习手册\\web漏洞\\2.3 SQL注入\\2.3.2 sql注入教程.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.3 SQL注入"
     },
     {
@@ -1982,7 +1965,6 @@
       ],
       "realName": "2.1.1 谷歌语法",
       "relativePath": "\\安全学习手册\\web漏洞\\2.1 信息收集\\2.1.1 谷歌语法.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.1 信息收集"
     },
     {
@@ -2014,13 +1996,12 @@
       ],
       "realName": "CNVD提交模板",
       "relativePath": "\\安全学习手册\\web漏洞\\2.2 弱口令CNVD挖掘\\CNVD提交模板.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.2 弱口令CNVD挖掘"
     },
     {
       "id": 226801838,
       "doc_id": "kt6lggft4yfckik5",
-      "updated": 1751854904399,
+      "updated": 1751854904000,
       "properties": {
         "title": "2.1.2 信息泄露",
         "urlname": "kt6lggft4yfckik5",
@@ -2076,7 +2057,6 @@
       ],
       "realName": "2.1.4 ARL灯塔",
       "relativePath": "\\安全学习手册\\web漏洞\\2.1 信息收集\\2.1.4 ARL灯塔.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.1 信息收集"
     },
     {
@@ -2112,13 +2092,12 @@
       ],
       "realName": "2.3.5 dnslog带外",
       "relativePath": "\\安全学习手册\\web漏洞\\2.3 SQL注入\\进阶\\2.3.5 dnslog带外.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.3 SQL注入\\进阶"
     },
     {
       "id": 226801835,
       "doc_id": "dmydqbervqaz65pw",
-      "updated": 1751854905040,
+      "updated": 1751854905000,
       "properties": {
         "title": "2.3.1 SQL注入基础",
         "urlname": "dmydqbervqaz65pw",
@@ -2143,7 +2122,6 @@
       ],
       "realName": "2.3.1 SQL注入基础",
       "relativePath": "\\安全学习手册\\web漏洞\\2.3 SQL注入\\2.3.1 SQL注入基础.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.3 SQL注入"
     }
   ],

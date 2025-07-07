@@ -1,4 +1,4 @@
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1751253851115-cc0d184c-d0fb-497d-bfb6-00b0e126341e.png)
+![](../../images/6f69320f839a0b3317880908ff9f17c9.png)
 
 ```plain
 (async () => {
