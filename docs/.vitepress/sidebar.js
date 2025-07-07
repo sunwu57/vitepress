@@ -208,6 +208,28 @@ export default {
       "text": "安全学习手册",
       "items": [
         {
+          "text": "web安全",
+          "items": [
+            {
+              "text": "序列化与反序列化",
+              "items": [
+                {
+                  "text": "java序列化与反序列化",
+                  "link": "/docs/安全学习手册/web安全/序列化与反序列化/java序列化与反序列化"
+                },
+                {
+                  "text": "php序列化与反序列化",
+                  "link": "/docs/安全学习手册/web安全/序列化与反序列化/php序列化与反序列化"
+                },
+                {
+                  "text": "python序列化与反序列化",
+                  "link": "/docs/安全学习手册/web安全/序列化与反序列化/python序列化与反序列化"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "text": "后渗透",
           "items": [
             {

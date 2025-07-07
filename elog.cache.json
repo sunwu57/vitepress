@@ -1158,6 +1158,98 @@
       "realName": "swagger接口泄露",
       "relativePath": "\\安全学习手册\\打点入门\\swagger接口泄露.md",
       "docPath": "docs\\docs\\安全学习手册\\打点入门"
+    },
+    {
+      "id": 226945355,
+      "doc_id": "kp37u978hqwbp1yh",
+      "updated": 1751873995000,
+      "properties": {
+        "title": "php序列化与反序列化",
+        "urlname": "kp37u978hqwbp1yh",
+        "date": "2025-07-07 14:46:02",
+        "updated": "2025-07-07 15:39:55",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1751873959920-aa65ab64-4320-498f-9201-7a4f020ef22e.png",
+        "description": "类⾥⾯所有的属性的值，都是可以⾃定义的（可以定义成任何\"对象\"：字符串、数组、函数、另⼀ 个类/对象） 利⽤pop链挖掘通法重复第⼀点__wakeup()  //使用unserialize时触发  ！！ __sleep()  //使用serialize时触发 __destruct()  //对..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "kp37u978hqwbp1yh"
+        },
+        {
+          "title": "web安全",
+          "doc_id": "kp37u978hqwbp1yh"
+        },
+        {
+          "title": "序列化与反序列化",
+          "doc_id": "kp37u978hqwbp1yh"
+        }
+      ],
+      "realName": "php序列化与反序列化",
+      "relativePath": "\\安全学习手册\\web安全\\序列化与反序列化\\php序列化与反序列化.md",
+      "docPath": "docs\\docs\\安全学习手册\\web安全\\序列化与反序列化"
+    },
+    {
+      "id": 226950909,
+      "doc_id": "ziw1xvhd07wh2ge8",
+      "updated": 1751872844000,
+      "properties": {
+        "title": "python序列化与反序列化",
+        "urlname": "ziw1xvhd07wh2ge8",
+        "date": "2025-07-07 15:10:29",
+        "updated": "2025-07-07 15:20:44",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1751872586913-bd56d099-c7d9-4a49-910c-29484043eb34.png",
+        "description": "Python提供两个模块来实现序列化:  cPickle和 pickle. 这两个模块功能是—样的,区别在于 cPickle是 C语言写的, 速度快;  pickle是纯 Python写的,速度慢.在Python3中已经没有cPickle模块，所以在现在这个环境下我们基本不用考虑cPickle..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "ziw1xvhd07wh2ge8"
+        },
+        {
+          "title": "web安全",
+          "doc_id": "ziw1xvhd07wh2ge8"
+        },
+        {
+          "title": "序列化与反序列化",
+          "doc_id": "ziw1xvhd07wh2ge8"
+        }
+      ],
+      "realName": "python序列化与反序列化",
+      "relativePath": "\\安全学习手册\\web安全\\序列化与反序列化\\python序列化与反序列化.md",
+      "docPath": "docs\\docs\\安全学习手册\\web安全\\序列化与反序列化"
+    },
+    {
+      "id": 226945392,
+      "doc_id": "bqad9c32a4ygdb6k",
+      "updated": 1751872103000,
+      "properties": {
+        "title": "java序列化与反序列化",
+        "urlname": "bqad9c32a4ygdb6k",
+        "date": "2025-07-07 14:46:17",
+        "updated": "2025-07-07 15:08:23",
+        "author": "孙武",
+        "description": "Java 中的序列化和反序列化当在 Java 中创建对象的时候，只要我们需要这个对象，它就会一直存在。但是一旦程序终止，它们也就不复存在了。如果我们想让对象能够在程序不运行的状态下仍然能够保存它们的信息，那就需要用到序列化机制。概述通常情况下，Java 中被创建的对象的声明周期不会比 JVM ..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "bqad9c32a4ygdb6k"
+        },
+        {
+          "title": "web安全",
+          "doc_id": "bqad9c32a4ygdb6k"
+        },
+        {
+          "title": "序列化与反序列化",
+          "doc_id": "bqad9c32a4ygdb6k"
+        }
+      ],
+      "realName": "java序列化与反序列化",
+      "relativePath": "\\安全学习手册\\web安全\\序列化与反序列化\\java序列化与反序列化.md",
+      "docPath": "docs\\docs\\安全学习手册\\web安全\\序列化与反序列化"
     }
   ],
   "catalog": [
@@ -1246,9 +1338,99 @@
       "open_window": 1,
       "visible": 1,
       "prev_uuid": "7-6ij5PWSHaClw6S",
-      "sibling_uuid": "O4Mm4r_D1gnze3vA",
+      "sibling_uuid": "2EH1CjIKL6lt4hLT",
       "child_uuid": "",
       "parent_uuid": "yZEQ9PhhoW_1eff3",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "2EH1CjIKL6lt4hLT",
+      "type": "TITLE",
+      "title": "web安全",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "_0ffQMQAzmgPe4mG",
+      "sibling_uuid": "O4Mm4r_D1gnze3vA",
+      "child_uuid": "_0hH13KPF11SMRoy",
+      "parent_uuid": "yZEQ9PhhoW_1eff3",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "_0hH13KPF11SMRoy",
+      "type": "TITLE",
+      "title": "序列化与反序列化",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "2EH1CjIKL6lt4hLT",
+      "sibling_uuid": "",
+      "child_uuid": "rgGZCbm_Z_sJ_Ng7",
+      "parent_uuid": "2EH1CjIKL6lt4hLT",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "rgGZCbm_Z_sJ_Ng7",
+      "type": "DOC",
+      "title": "java序列化与反序列化",
+      "url": "bqad9c32a4ygdb6k",
+      "slug": "bqad9c32a4ygdb6k",
+      "id": 226945392,
+      "doc_id": 226945392,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "_0hH13KPF11SMRoy",
+      "sibling_uuid": "n5KkTDV3f1L7OHC7",
+      "child_uuid": "",
+      "parent_uuid": "_0hH13KPF11SMRoy",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "n5KkTDV3f1L7OHC7",
+      "type": "DOC",
+      "title": "php序列化与反序列化",
+      "url": "kp37u978hqwbp1yh",
+      "slug": "kp37u978hqwbp1yh",
+      "id": 226945355,
+      "doc_id": 226945355,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "rgGZCbm_Z_sJ_Ng7",
+      "sibling_uuid": "i_DnfV3z1tEvTL-y",
+      "child_uuid": "",
+      "parent_uuid": "_0hH13KPF11SMRoy",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "i_DnfV3z1tEvTL-y",
+      "type": "DOC",
+      "title": "python序列化与反序列化",
+      "url": "ziw1xvhd07wh2ge8",
+      "slug": "ziw1xvhd07wh2ge8",
+      "id": 226950909,
+      "doc_id": 226950909,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "n5KkTDV3f1L7OHC7",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "_0hH13KPF11SMRoy",
       "_serializer": "v2.toc_item"
     },
     {
@@ -1263,7 +1445,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "_0ffQMQAzmgPe4mG",
+      "prev_uuid": "2EH1CjIKL6lt4hLT",
       "sibling_uuid": "wslkKrydaOUmHZ6q",
       "child_uuid": "0BHgn2mKmT7_LZw_",
       "parent_uuid": "yZEQ9PhhoW_1eff3",
