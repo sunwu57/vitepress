@@ -1130,7 +1130,6 @@
       ],
       "realName": "Windows痕迹清除",
       "relativePath": "\\安全学习手册\\后渗透\\Windows痕迹清除.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\后渗透"
     },
     {
@@ -1158,7 +1157,6 @@
       ],
       "realName": "swagger接口泄露",
       "relativePath": "\\安全学习手册\\打点入门\\swagger接口泄露.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\打点入门"
     }
   ],

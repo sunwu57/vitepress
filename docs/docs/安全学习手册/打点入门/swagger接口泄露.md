@@ -12,7 +12,7 @@ springboot-scan进行目录扫描。
 https://github.com/AabyssZG/SpringBoot-Scan
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751789263397-694e4559-e9e5-44ee-a9c5-469fbe1cb6bf.webp)swagger存在两个可利用路径
+![](../../../images/3aaef43e37e2d8be2f0bab11b4cc54f5.webp)swagger存在两个可利用路径
 
 比如：
 
@@ -41,5 +41,5 @@ https://xss.smarpo.com/test.json
 https://www.xxxtest.com/api/v1/swagger-ui.html?configUrl=https://xss.smarpo.com/test.json
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751789309991-8dcc3c6b-0041-4841-abb7-2732e927493a.webp)
+![](../../../images/dd8e14a79d616adc8ae5a8ca4f49243b.webp)
 
