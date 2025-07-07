@@ -131,7 +131,7 @@ layout: home
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>![](../../images/d27e98fbc3ffde49e1c19cdfd072cabd.png)
+`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077699-807f66b1-b841-43da-942b-78f81e79324a.png)
 
 ---
 
@@ -1218,7 +1218,7 @@ export default defineConfig({
 })
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811089331-cd44b10e-31b7-47f1-b210-cd1f8520668c.png)
+![](../../images/266e5f49658ce1cbfdb1fd10b68836fb.png)
 
 #### <font style="color:rgb(51, 51, 51);">最终渲染</font>
 ![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811089361-19f40e08-5b27-44a7-9825-f42dffc1572b.png)

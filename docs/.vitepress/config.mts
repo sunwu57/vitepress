@@ -33,7 +33,7 @@ export default defineConfig({
       { text: '漏洞库', link: 'https://github.com/Threekiii/Awesome-POC' },
        {  text: '安全学习入门',
       items: [
-       //{ text: '红细胞安全实验室', link: 'https://redcellsec.cn' },
+       { text: '安全学习手册', link: '/docs/安全学习手册/打点入门/常规打点' },
       ] },
       { text: '爱发电', link: 'https://afdian.com/dashboard/stats' },
       { text: '云顶之奕', link: '/docs/云顶之奕/索引'},
