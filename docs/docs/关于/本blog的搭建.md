@@ -3,7 +3,7 @@
 
 [子夜旅馆](http://sunwu.world)
 
-![](../../images/5fa5f82087e9c84bdb4c584688b72b4f.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739803976612-3af47b2e-5e9e-4e54-8354-e593e1a7bd46.png)
 
 # 部署
 ## VitePress
@@ -51,7 +51,7 @@ YUQUE_LOGIN=获取的login
 YUQUE_REPO=获取的repo
 ```
 
-![](../../images/2a1771ce5f1f45f20c50f2d5b4f29a6d.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739810402414-30a10456-d000-4822-8864-32a8322642ea.png)
 
 ### <font style="color:rgb(31, 35, 40);">本地调试</font>
 <font style="color:rgb(31, 35, 40);">在项目根目录运行同步命令，将语雀repo对应库中的文档进行拉取到本地</font>
@@ -76,7 +76,7 @@ export default Theme
 ```
 
 #### 在<font style="color:rgb(51, 51, 51);background-color:rgb(247, 247, 247);">.vitepress/config.mts</font>添加下面内容
-![](../../images/4c6f0f6411208c41b57add406c9eddba.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739813239441-be707389-06bc-4efb-8eec-cf6a0340adc8.png)
 
 ## <font style="color:rgb(31, 35, 40);">项目目录介绍</font>
 <font style="color:rgb(31, 35, 40);">根据</font><font style="color:rgb(31, 35, 40);"> </font>[VitePress](https://vitepress.dev/)<font style="color:rgb(31, 35, 40);"> </font><font style="color:rgb(31, 35, 40);">文档，配置你的文档站点直到你满意为止。</font>
@@ -88,7 +88,7 @@ export default Theme
 本文档默认是按照文档目录渲染站点 URL，可能会存在中文路由，如果想要短路由模式，即站点路由全英文，可前往[进阶配置](https://yuque-vitepress.vercel.app/docs/%E8%BF%9B%E9%98%B6%E9%85%8D%E7%BD%AE/VitePress%E7%9F%AD%E8%B7%AF%E7%94%B1%E6%A8%A1%E5%BC%8F) 中阅读
 
 ### 目录结构
-![](../../images/b0f0d196bb25a454b5eee44f2da6f1e3.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739810724053-1e102a50-6f0c-4f01-b864-9151d01bf691.png)
 
 ### <font style="color:rgb(79, 79, 79);">项目文件结构</font>
 :::info
@@ -131,24 +131,24 @@ layout: home
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>![](../../images/d27e98fbc3ffde49e1c19cdfd072cabd.png)
+`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077699-807f66b1-b841-43da-942b-78f81e79324a.png)
 
 ---
 
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">doc</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>
 
-![](../../images/fed87a4a544f6199d6e6e1b279af525a.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077083-88384555-4fff-439d-b8b6-f9a4fc91e4f7.png)
 
 ---
 
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">page</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>
 
-![](../../images/e5d5540d0028ac3f6b02bcd9c885ddf5.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077715-1bb2f825-aa77-441c-882c-043be5cf9702.png)
 
 #### <font style="color:rgb(51, 51, 51);">Hero</font>
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">hero</font>`<font style="color:rgb(51, 51, 51);"> 部分位于主页顶部。</font>**<font style="color:rgb(51, 51, 51);">当 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">layout</font>**`**<font style="color:rgb(51, 51, 51);"> 设置为 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>**`**<font style="color:rgb(51, 51, 51);"> 时，</font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">hero</font>**`**<font style="color:rgb(51, 51, 51);"> 配置才会生效</font>**<font style="color:rgb(51, 51, 51);">。</font>
 
-![](../../images/4cc4c0973c66e3dec86a2874aa05238d.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077913-bc88173a-e87f-410e-9715-956babe22777.png)
 
 ##### <font style="color:rgb(51, 51, 51);">类型</font>
 ```plain
@@ -209,12 +209,12 @@ hero:
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-![](../../images/e38c3fe953234bbc897cc15bf840ceaa.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077921-011ca5af-e1a6-49f8-b706-1ff22c739c44.png)
 
 #### <font style="color:rgb(51, 51, 51);">Features</font>
 <font style="color:rgb(51, 51, 51);">可以在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Hero</font>`<font style="color:rgb(51, 51, 51);"> 部分之后列出任意数量的 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Feature</font>`
 
-![](../../images/b2b64b9a3be6233391b97c24264108d1.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811078428-d086bf04-59bb-4924-80a2-3f0a1bb0e854.png)
 
 ##### <font style="color:rgb(51, 51, 51);">类型</font>
 ```plain
@@ -283,7 +283,7 @@ features:
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-![](../../images/ff38e1cbcfa298db2821e1e22d1f3f96.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811078642-56a65af3-5bb8-4a2f-acab-8c827a607afb.png)
 
 #### <font style="color:rgb(51, 51, 51);">其他</font>
 <font style="color:rgb(51, 51, 51);">如果到这个时候你觉得在首页 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">md</font>`<font style="color:rgb(51, 51, 51);"> 文件中还没有满足你的其他需求，可以在分隔符下继续以 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">md</font>`<font style="color:rgb(51, 51, 51);"> 的格式开发新内容。</font>
@@ -295,7 +295,7 @@ features:
 MD 文件
 ```
 
-![](../../images/05633a8610627b5a9a4819773cb97878.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811079313-034ea56f-acde-4e82-8f13-5ab92cd07507.png)
 
 ##### <font style="color:rgb(51, 51, 51);">引入 MD 文件</font>
 ###### <font style="color:rgb(119, 119, 119);">新建 MD 文件</font>
@@ -335,15 +335,15 @@ article>img{
 ```
 
 ###### <font style="color:rgb(119, 119, 119);">页面展示</font>
-1. <font style="color:rgb(51, 51, 51);">引入 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">MD</font>`<font style="color:rgb(51, 51, 51);"> 文件展示</font>![](../../images/e90efb1f859247dd24869863508d6961.png)
+1. <font style="color:rgb(51, 51, 51);">引入 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">MD</font>`<font style="color:rgb(51, 51, 51);"> 文件展示</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811079301-709f6bc6-18d1-43e8-9ea7-eab85cedc5f5.png)
 2. `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Style</font>`<font style="color:rgb(51, 51, 51);"> 标签样式展示</font>
 
-![](../../images/8c7843cf20f363efd85ec87a51fdabb6.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811079290-db237a21-d438-4e71-8c1c-a09db0e542a4.png)
 
 ### <font style="color:rgb(51, 51, 51);">导航栏</font>
 <font style="color:rgb(119, 119, 119);">Nav 是显示在页面顶部的导航栏。它包含站点标题、全局菜单链接等。</font>
 
-![](../../images/b86b03f5923ca21a53134213283bdab3.png)**<font style="color:rgb(51, 51, 51);">导航栏模块的配置是通过 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">docs/.vitepress/config.mts</font>**`**<font style="color:rgb(51, 51, 51);"> 文件配置的</font>**
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811080094-26e0947a-22ba-43e9-a007-23457f07df48.png)**<font style="color:rgb(51, 51, 51);">导航栏模块的配置是通过 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">docs/.vitepress/config.mts</font>**`**<font style="color:rgb(51, 51, 51);"> 文件配置的</font>**
 
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">config.mts</font>`<font style="color:rgb(51, 51, 51);"> 文件内容</font>
 
@@ -392,7 +392,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-![](../../images/28816bd55b5acaec28dd60741b55c742.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811080253-34219843-dfff-42a2-804a-56fb8fa8dd30.png)
 
 <font style="color:rgb(51, 51, 51);">可以看出 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">logo</font>`<font style="color:rgb(51, 51, 51);"> 已经加上了，而且 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">sitTitle</font>`<font style="color:rgb(51, 51, 51);"> 字段覆盖了 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">title</font>`<font style="color:rgb(51, 51, 51);"> 字段</font>
 
@@ -427,15 +427,15 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-![](../../images/ab16a751a1b30be698f0fb74c90828df.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811081168-e0d3ef01-32f5-4f32-9f3a-68d31d40cb67.png)
 
 ##### <font style="color:rgb(51, 51, 51);">搜索效果展示</font>
-![](../../images/f855417fbee04e07effe08d8eb5c20c5.gif)
+![](https://cdn.nlark.com/yuque/0/2025/gif/26698826/1739811081078-25b47778-d66c-4677-98c4-a85e90954d29.gif)
 
 #### <font style="color:rgb(51, 51, 51);">导航链接：nav</font>
 <font style="color:rgb(119, 119, 119);">可以定义 themeConfig.nav 选项以将链接添加到导航栏。</font>
 
-[<font style="color:rgb(65, 131, 196);">【Chrome浏览器插件开发实践指南】</font>](https://18055975947.github.io/extension/)<font style="color:rgb(51, 51, 51);"> 文档的 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Nav</font>`<font style="color:rgb(51, 51, 51);"> 导航</font>![](../../images/0cc3f8dcc8efde329bb97bd863b44001.png)<font style="color:rgb(51, 51, 51);">可以看到，不仅可以配置单个链接，也可以配置下拉列表，我们就按照上面的配置来重新在我们现在的项目中配一遍</font>
+[<font style="color:rgb(65, 131, 196);">【Chrome浏览器插件开发实践指南】</font>](https://18055975947.github.io/extension/)<font style="color:rgb(51, 51, 51);"> 文档的 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Nav</font>`<font style="color:rgb(51, 51, 51);"> 导航</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811081909-6a692599-14a5-4b72-a587-be52cb067e02.png)<font style="color:rgb(51, 51, 51);">可以看到，不仅可以配置单个链接，也可以配置下拉列表，我们就按照上面的配置来重新在我们现在的项目中配一遍</font>
 
 ##### <font style="color:rgb(51, 51, 51);">创建对应的文件夹和对应的 index.md 文件</font>
 <font style="color:rgb(51, 51, 51);">创建 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">basic</font>`<font style="color:rgb(51, 51, 51);">、</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">api</font>`<font style="color:rgb(51, 51, 51);">、</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">core</font>`<font style="color:rgb(51, 51, 51);">、</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">summarize</font>`<font style="color:rgb(51, 51, 51);">、</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">teach</font>`<font style="color:rgb(51, 51, 51);">、</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">team</font>`<font style="color:rgb(51, 51, 51);"> 文件夹，并在其中创建 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">index.md</font>`<font style="color:rgb(51, 51, 51);"> 文件，如下：</font>
@@ -547,7 +547,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](../../images/a1f229f9bc63a52190e969f5ad47a627.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811082494-7435a1f7-cb3c-422e-a64a-79f11cecc7f3.png)
 
 #### <font style="color:rgb(51, 51, 51);">社交账户链接：socialLinks</font>
 <font style="color:rgb(119, 119, 119);">可以定义此选项以在导航栏中展示带有图标的社交帐户链接。</font>
@@ -594,10 +594,10 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](../../images/7865851da70c5a2b7fccbeb2e7858788.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811082845-edaeb43b-9ce5-452b-bab8-374e45a5dc93.png)
 
 #### <font style="color:rgb(51, 51, 51);">明亮主题展示：appearance</font>
-`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">appearance</font>**`**<font style="color:rgb(51, 51, 51);"> 配置不在 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig</font>**`**<font style="color:rgb(51, 51, 51);"> 字段里面，而是和 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig</font>**`**<font style="color:rgb(51, 51, 51);"> 同级</font>**![](../../images/292393dbd54c7e8c572165c68b88b5b2.png)
+`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">appearance</font>**`**<font style="color:rgb(51, 51, 51);"> 配置不在 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig</font>**`**<font style="color:rgb(51, 51, 51);"> 字段里面，而是和 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig</font>**`**<font style="color:rgb(51, 51, 51);"> 同级</font>**![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811083922-e49f1bd7-f359-4851-8a7c-c8e5384690f8.png)
 
 ##### <font style="color:rgb(51, 51, 51);">数据类型</font>
 boolean | 'dark' | 'force-dark' |
@@ -649,12 +649,12 @@ export default defineConfig({
 ```
 
 #### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](../../images/edf9bd4354764b064de8792199315148.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811084557-5bbc7601-f1c2-461b-905c-b202f9193cb7.png)
 
 ### <font style="color:rgb(51, 51, 51);">左侧边栏</font>
 <font style="color:rgb(119, 119, 119);">左侧边栏是文档的主要导航块。</font>
 
-<font style="color:rgb(51, 51, 51);">在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig.sidebar</font>`<font style="color:rgb(51, 51, 51);"> 中配置左侧边栏菜单</font>![](../../images/ab996deae6301f254090932bd287bab2.png)
+<font style="color:rgb(51, 51, 51);">在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig.sidebar</font>`<font style="color:rgb(51, 51, 51);"> 中配置左侧边栏菜单</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811084768-6aea703b-96b9-4e3e-9444-1eb72a27a9e7.png)
 
 #### <font style="color:rgb(51, 51, 51);">左侧边栏基础配置</font>
 ##### <font style="color:rgb(51, 51, 51);">创建 md 文件</font>
@@ -753,7 +753,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](../../images/e8aa86160abd935f8b2b65301bdd8e6a.gif)
+![](https://cdn.nlark.com/yuque/0/2025/gif/26698826/1739811084141-2ab8133c-54cc-44bf-8eb1-677df72bc61e.gif)
 
 ##### <font style="color:rgb(51, 51, 51);">配置注意项</font>
 1. <font style="color:rgb(51, 51, 51);">基本用法是传入一个数组，</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">text</font>`<font style="color:rgb(51, 51, 51);"> 是侧边栏名词，</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">link</font>`<font style="color:rgb(51, 51, 51);"> 是链接</font>
@@ -862,7 +862,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](../../images/393f430dc5349468a3c495ab8c0e3935.gif)
+![](https://cdn.nlark.com/yuque/0/2025/gif/26698826/1739811085349-8c537688-ece0-445c-a8ab-bf06b140e8b1.gif)
 
 ##### <font style="color:rgb(51, 51, 51);">配置注意项</font>
 1. <font style="color:rgb(51, 51, 51);">多侧边栏配置时， </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">sidebar</font>`<font style="color:rgb(51, 51, 51);"> 为对象</font>
@@ -905,14 +905,14 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](../../images/5efeed543ed4c7516f39524852567948.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086111-8f851a80-e7e6-4707-9e83-edda13c743e1.png)
 
 ### <font style="color:rgb(51, 51, 51);">右侧边栏</font>
 <font style="color:rgb(119, 119, 119);">右侧边栏是大纲中显示的标题导航块</font>
 
 <font style="color:rgb(51, 51, 51);">配置 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">outline</font>`<font style="color:rgb(51, 51, 51);"> 字段可以设置渲染大纲层级</font>
 
-![](../../images/d4876f439cf13c9a5971c6e18e6e0a63.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086201-03973040-9b7e-40a3-821f-2d5a05b4fe77.png)
 
 #### <font style="color:rgb(51, 51, 51);">在 basic 中的 index.md 写入以下内容</font>
 ```plain
@@ -1003,7 +1003,7 @@ BASIC index page
 
 <font style="color:rgb(51, 51, 51);">右侧边栏效果展示</font>
 
-![](../../images/073b9e24bbc2f4da28305eec248ed665.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086163-a7cc5869-a25d-482c-9ce3-2880aa73c571.png)
 
 <font style="color:rgb(51, 51, 51);">可以看出只展示了 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h2</font>`<font style="color:rgb(51, 51, 51);"> 标题，</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">outline</font>`<font style="color:rgb(51, 51, 51);"> 的默认值为 2</font>
 
@@ -1021,12 +1021,12 @@ export default defineConfig({
 })
 ```
 
-<font style="color:rgb(51, 51, 51);">只展示 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h3</font>`<font style="color:rgb(51, 51, 51);"> 标题</font>![](../../images/7fef33d6b4d3d5a1aba1afd86468c47d.png)
+<font style="color:rgb(51, 51, 51);">只展示 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h3</font>`<font style="color:rgb(51, 51, 51);"> 标题</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086862-58dedf8a-85c0-4950-8694-b048639a603c.png)
 
 ##### <font style="color:rgb(51, 51, 51);">deep 字段</font>
 <font style="color:rgb(51, 51, 51);">当为字符串时，只有 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">deep</font>`<font style="color:rgb(51, 51, 51);"> 一个字段，与 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">[2, 6]</font>`<font style="color:rgb(51, 51, 51);"> 相同，展示 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h2~h6</font>`<font style="color:rgb(51, 51, 51);"> 所有标题</font>
 
-![](../../images/2ceb3d2643c5007adaba482a0b717dbe.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811087725-278d669a-732f-47c5-9c5d-4f0673b3be49.png)
 
 ##### <font style="color:rgb(51, 51, 51);">数组形式</font>
 ```plain
@@ -1038,7 +1038,7 @@ export default defineConfig({
 })
 ```
 
-<font style="color:rgb(51, 51, 51);">展示 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h2~h5</font>`<font style="color:rgb(51, 51, 51);"> 的标题</font>![](../../images/4037fe81d0d075a305b3da4a600a7f74.png)
+<font style="color:rgb(51, 51, 51);">展示 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h2~h5</font>`<font style="color:rgb(51, 51, 51);"> 的标题</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811087781-92c8e847-30f3-41a8-820b-0c62b97129df.png)
 
 ##### <font style="color:rgb(51, 51, 51);">对象形式</font>
 ```plain
@@ -1058,7 +1058,7 @@ export default defineConfig({
 + `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">level</font>`<font style="color:rgb(51, 51, 51);">: </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">number | [number, number] | 'deep'</font>`<font style="color:rgb(51, 51, 51);">，是展示标题等级</font>
 + `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">label</font>`<font style="color:rgb(51, 51, 51);">: </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">string</font>`<font style="color:rgb(51, 51, 51);">，是 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">outline</font>`<font style="color:rgb(51, 51, 51);"> 的标题，替换 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">On this page</font>`<font style="color:rgb(51, 51, 51);"> 文案</font>
 
-![](../../images/b75ae1c6c07b6e9bc49a01410781d32d.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811087801-ed46bcf8-e116-4c75-b6d5-bfea921dbe0b.png)
 
 #### <font style="color:rgb(51, 51, 51);">在当前页面中覆盖 config.mts 中的配置</font>
 <font style="color:rgb(51, 51, 51);">在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">basic/index.md</font>`<font style="color:rgb(51, 51, 51);"> 文件顶部写入以下内容</font>
@@ -1090,7 +1090,7 @@ aside: left
 ---
 ```
 
-![](../../images/41ed5a4932dfc188c718717a6ff6b25a.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811088309-e91928a1-8f81-4751-beaa-8af4282ee0a0.png)
 
 ### <font style="color:rgb(51, 51, 51);">上一页&下一页</font>
 <font style="color:rgb(119, 119, 119);">可以自定义上一页和下一页的文本和链接</font>
@@ -1115,7 +1115,7 @@ next:
 ```
 
 #### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](../../images/bc35e5e1135dafd98c152f26e8a4a2b2.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811088708-7301372a-2603-4a52-a18c-3e0674056855.png)
 
 ### <font style="color:rgb(51, 51, 51);">配置项目 head</font>
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">head</font>`<font style="color:rgb(51, 51, 51);"> 模块配置的内容会添加在项目的 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">head</font>`<font style="color:rgb(51, 51, 51);"> 标签中，在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">config</font>`<font style="color:rgb(51, 51, 51);"> 中配置</font>
@@ -1142,7 +1142,7 @@ export default defineConfig({
 })
 ```
 
-![](../../images/1f01b8144979dc889024142209cb503d.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811089336-60e154b4-4f20-4b62-bb95-b0bc269d3982.png)
 
 #### <font style="color:rgb(51, 51, 51);">添加字体</font>
 ```plain
@@ -1218,10 +1218,10 @@ export default defineConfig({
 })
 ```
 
-![](../../images/266e5f49658ce1cbfdb1fd10b68836fb.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811089331-cd44b10e-31b7-47f1-b210-cd1f8520668c.png)
 
 #### <font style="color:rgb(51, 51, 51);">最终渲染</font>
-![](../../images/feda21b87784ce8b4831b847465f48f3.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811089361-19f40e08-5b27-44a7-9825-f42dffc1572b.png)
 
 ### <font style="color:rgb(51, 51, 51);">删除 URL 中的 .html 后缀</font>
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">config</font>`<font style="color:rgb(51, 51, 51);"> 中配置 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">cleanUrls</font>`<font style="color:rgb(51, 51, 51);"> 为 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">true</font>`<font style="color:rgb(51, 51, 51);">类型：</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">boolean</font>`
@@ -1236,7 +1236,7 @@ export default defineConfig({
 })
 ```
 
-![](../../images/f69e246cb8268b40e721cf9588566e0d.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811090170-2fc9247c-16d1-4c28-b834-1ae121b964a2.png)
 
 ### <font style="color:rgb(51, 51, 51);">图片资源</font>
 #### <font style="color:rgb(51, 51, 51);">图片直接放在 public 文件夹中</font>
@@ -1254,7 +1254,7 @@ docs/public/basic
 ##### <font style="color:rgb(51, 51, 51);">开发引入图片 </font><font style="color:rgb(51, 51, 51);">❌</font>
 `![示例图片](basic-desc.png)`
 
-![](../../images/bff15747c80422f60d790b0e99c0907c.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811090735-cb4ab19c-acb4-42dc-863e-35d3f1b6083e.png)
 
 <font style="color:rgb(51, 51, 51);">在开发的时候，你发现直接写图片名称也可以显示图片，这个时候你很高兴</font>
 
@@ -1285,14 +1285,14 @@ git push -u origin main --force
 ## <font style="color:rgb(31, 35, 40);">部署到 Vercel</font>
 <font style="color:rgb(31, 35, 40);">注册</font>[ Vercel](https://vercel.com/)<font style="color:rgb(31, 35, 40);"> 账号并绑定 Github，在 Vercel 导入 该项目，Vercel 会自动识别出该 VitePress 项目，不需要改动，直接选择 Deploy 部署。部署完成会有一个 Vercel 临时域名，你也可以绑定自己的域名。</font>
 
-![](../../images/3262d4fee014e5f89e2faed3296f5522.png)![](../../images/eabb3bebbfc5de266ddefd7648e940f0.png)
+![](../../images/3262d4fee014e5f89e2faed3296f5522.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739812295029-5dd70eae-fce9-40dd-9fad-8b3c15607b2f.png)
 
 ## 进行域名绑定
 Domains->Add  
-![](../../images/8152d3bb1f516c980f2b040066ee500e.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739812383932-dd7c0556-d02c-4371-bfa1-c8178073b701.png)
 
 ## 添加dns解析(使国内用户不挂代理也可以访问)
-![](../../images/71bd21dfb0721db9320534e9d097d6ae.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739812572497-b3967772-4fc7-41b0-8d97-675cf5fc4306.png)
 
 # 优化(选做)
 ## 使用Github图床
@@ -1396,10 +1396,10 @@ GITHUB_REPO=仓库名字
 
 ```
 
-![](../../images/da797a164d3bde5484fd00fffbf19d25.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740639911083-2aaa409f-cff5-4b88-a8b3-181bd307bc9c.png)
 
 ### github的token获取
-![](../../images/acfb6c9dddc727c68bdeeb9797dc8364.png)![](../../images/0a3199ed6d025824b89fb9045c592a71.png)![](../../images/b01d66cf29075b5e1478b503d697bcd7.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640521247-366f26b7-2d35-4f6b-9c72-42462fe95aad.png)![](../../images/0a3199ed6d025824b89fb9045c592a71.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640556911-84b533fe-9404-4ab3-9a3b-fa53be4f0d95.png)
 
 ### 在项目根目录执行同步命令即可
 ```yaml
@@ -1407,7 +1407,7 @@ pnpm run elog:sync-local
 ```
 
 1. 如果如图报错，请检查`.elog.env`中添加的三个参数值是否正确  
-![](../../images/a8f03b2d56e5056bceaf75c0927c0b49.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640777195-ac5f5938-2e31-405e-807f-cde5af0556fb.png)
 2. 记得执行后续命令，将项目上传到github
 
 ```yaml
