@@ -933,12 +933,12 @@
     {
       "id": 226399016,
       "doc_id": "romkxt9k39klgwws",
-      "updated": 1751508149000,
+      "updated": 1751790028000,
       "properties": {
-        "title": "法师瑞兹(t1)",
+        "title": "法师瑞兹",
         "urlname": "romkxt9k39klgwws",
         "date": "2025-07-03 08:31:20",
-        "updated": "2025-07-03 10:02:29",
+        "updated": "2025-07-06 16:20:28",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1751507479239-542be6c7-c094-4f7a-988d-1af1b48cab39.png",
         "description": "本阵容只有在2-5前来瑞兹时才玩速拉7级，慢d瑞兹，瑞兹装备（青龙刀，巨杀，法暴），吸血鬼，娜美，卡经济就不用追，没啥用装备优先级，瑞兹&gt;塞拉斯&gt;俄洛伊&gt;剩下的偷偷就行如果开局海克斯来魔导师（t0），则无脑冲就行，开3法，d牌时上3星界龙，d完下掉，娜美和吸血鬼换琴女和冰鸟，如果塞拉斯三星，娜..."
@@ -953,8 +953,8 @@
           "doc_id": "romkxt9k39klgwws"
         }
       ],
-      "realName": "法师瑞兹(t1)",
-      "relativePath": "\\云顶之奕\\龙神回归\\法师瑞兹(t1).md",
+      "realName": "法师瑞兹",
+      "relativePath": "\\云顶之奕\\龙神回归\\法师瑞兹.md",
       "needUpdate": 1,
       "docPath": "docs\\docs\\云顶之奕\\龙神回归"
     },
@@ -985,12 +985,12 @@
     {
       "id": 226398913,
       "doc_id": "fe9db36eblx6d826",
-      "updated": 1751504515000,
+      "updated": 1751790031000,
       "properties": {
-        "title": "格斗迅捷射(t0.5)",
+        "title": "格斗迅捷射",
         "urlname": "fe9db36eblx6d826",
         "date": "2025-07-03 08:29:41",
-        "updated": "2025-07-03 09:01:55",
+        "updated": "2025-07-06 16:20:31",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1751502891665-b52b4cf3-b41a-4619-9e63-7f6ac6ed2344.png",
         "description": "龙神秘宝收25/50层，收小妮蔻，成装有专职优先迅捷或者格斗"
@@ -1005,8 +1005,8 @@
           "doc_id": "fe9db36eblx6d826"
         }
       ],
-      "realName": "格斗迅捷射(t0.5)",
-      "relativePath": "\\云顶之奕\\龙神回归\\格斗迅捷射(t0.5).md",
+      "realName": "格斗迅捷射",
+      "relativePath": "\\云顶之奕\\龙神回归\\格斗迅捷射.md",
       "docPath": "docs\\docs\\云顶之奕\\龙神回归"
     },
     {
@@ -1036,12 +1036,12 @@
     {
       "id": 226635094,
       "doc_id": "ypzeg65unbqh21ay",
-      "updated": 1751620500000,
+      "updated": 1751770532000,
       "properties": {
         "title": "索引",
         "urlname": "ypzeg65unbqh21ay",
         "date": "2025-07-04 17:13:43",
-        "updated": "2025-07-04 17:15:00",
+        "updated": "2025-07-06 10:55:32",
         "author": "孙武",
         "description": "龙神回归赛博城市"
       },
@@ -1054,27 +1054,1100 @@
       "realName": "索引",
       "relativePath": "\\云顶之奕\\索引.md",
       "docPath": "docs\\docs\\云顶之奕"
+    },
+    {
+      "id": 226888651,
+      "doc_id": "kv9oyshdc3ybszb6",
+      "updated": 1751854814000,
+      "properties": {
+        "title": "常规打点",
+        "urlname": "kv9oyshdc3ybszb6",
+        "date": "2025-07-07 08:41:17",
+        "updated": "2025-07-07 10:20:14",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1751849065772-b9e4961d-777c-4d5b-9ad3-fbd6b4d27b8f.png",
+        "description": "从最基础的登录框突破登录框作为hw出现场次最多的角色，也是最容易出洞的，下面介绍一些自己常用的测试方法登录爆破小技巧像这种系统的爆破我们有两种解决方法：分析前端加密算法，写脚本模拟对密码进行加密固定密码为123456 000000 使用常见的用户名作为字典进行爆破两种方法各有优劣，我更倾向于第..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "kv9oyshdc3ybszb6"
+        },
+        {
+          "title": "打点入门",
+          "doc_id": "kv9oyshdc3ybszb6"
+        }
+      ],
+      "realName": "常规打点",
+      "relativePath": "\\安全学习手册\\打点入门\\常规打点.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\打点入门"
+    },
+    {
+      "id": 226817606,
+      "doc_id": "nua2y9cxe3xgvgwb",
+      "updated": 1751846241000,
+      "properties": {
+        "title": "龙神烈焰",
+        "urlname": "nua2y9cxe3xgvgwb",
+        "date": "2025-07-06 16:15:25",
+        "updated": "2025-07-07 07:57:21",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1751789734155-5f466571-8de7-4a80-9498-3872e370b7e3.png",
+        "description": "前期阶段：连败开局：优先拿攻速、法强装，用1费格斗家（瑟庄妮）或法师（黑默丁格）过渡，保证经济。关键棋子：3-2升6级，D出2星崔丝塔娜+1星金克丝，搭配璐璐开3驯龙大师。中期阶段：速8策略：4-1升7级，小搜一波补强袭炮手（库奇）和魔导师（娑娜），保证3神龙烈焰+3强袭炮手。经济控制：若血量..."
+      },
+      "catalog": [
+        {
+          "title": "云顶之奕",
+          "doc_id": "nua2y9cxe3xgvgwb"
+        },
+        {
+          "title": "龙神回归",
+          "doc_id": "nua2y9cxe3xgvgwb"
+        }
+      ],
+      "realName": "龙神烈焰",
+      "relativePath": "\\云顶之奕\\龙神回归\\龙神烈焰.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\云顶之奕\\龙神回归"
+    },
+    {
+      "id": 226817117,
+      "doc_id": "qflabl20psezz0sh",
+      "updated": 1751789562000,
+      "properties": {
+        "title": "Windows痕迹清除",
+        "urlname": "qflabl20psezz0sh",
+        "date": "2025-07-06 16:11:38",
+        "updated": "2025-07-06 16:12:42",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2023/png/26698826/1675307155340-611a9cf1-28ca-4c3d-9bb0-ea042313a24e.png",
+        "description": "Windows痕迹清除日志Windows的日志文件分为3类核心日志，分别是系统日志，程序日志，和安全日志系统日志(SysEvent)：记录操作系统产生的事件，如设备驱动无法正常启动或停止，系统进程崩溃等# 默认位置:%SystemRoot%\\System32\\Winevt\\Logs\\Syste..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "qflabl20psezz0sh"
+        },
+        {
+          "title": "后渗透",
+          "doc_id": "qflabl20psezz0sh"
+        }
+      ],
+      "realName": "Windows痕迹清除",
+      "relativePath": "\\安全学习手册\\后渗透\\Windows痕迹清除.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\后渗透"
+    },
+    {
+      "id": 226816456,
+      "doc_id": "tln619yyqwry7rbs",
+      "updated": 1751789371000,
+      "properties": {
+        "title": "swagger接口泄露",
+        "urlname": "tln619yyqwry7rbs",
+        "date": "2025-07-06 16:05:56",
+        "updated": "2025-07-06 16:09:31",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751789263397-694e4559-e9e5-44ee-a9c5-469fbe1cb6bf.webp",
+        "description": "swagger接口泄露在进行渗透测试中发现，存在以下接口特征，对于这种/api/v1或者/api/v2或者/api、/apis等API开头的接口前缀，是很容易出现swagger、actuator、druid泄露等，当然在我们课程中都是经常讲，也经常遇到的。对“https://www.xxxte..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "tln619yyqwry7rbs"
+        },
+        {
+          "title": "打点入门",
+          "doc_id": "tln619yyqwry7rbs"
+        }
+      ],
+      "realName": "swagger接口泄露",
+      "relativePath": "\\安全学习手册\\打点入门\\swagger接口泄露.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\打点入门"
+    },
+    {
+      "id": 226801868,
+      "doc_id": "zya60ybexxfpa0ob",
+      "updated": 1751776859000,
+      "properties": {
+        "title": "牙医(host头+XXE+suid提权)",
+        "urlname": "zya60ybexxfpa0ob",
+        "date": "2025-07-06 12:40:59",
+        "updated": "2025-07-06 12:40:59",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/26698826/1704108928013-14fbfa1f-1265-4ae1-a6bc-2ca780db1382.png",
+        "description": "视频三前半段1:38:32环境su root                    密码xbw /etc/init.d/apache2 stop cd test/ceshi docker-compose up -d流程https证书查看    C:\\Windows\\System32\\drive..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "zya60ybexxfpa0ob"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "zya60ybexxfpa0ob"
+        },
+        {
+          "title": "2.12 XXE",
+          "doc_id": "zya60ybexxfpa0ob"
+        }
+      ],
+      "realName": "牙医(host头+XXE+suid提权)",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.12 XXE\\牙医(host头+XXE+suid提权).md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.12 XXE"
+    },
+    {
+      "id": 226801867,
+      "doc_id": "rxfd0nxflaz88ipb",
+      "updated": 1751854898973,
+      "properties": {
+        "title": "2.10.1 CORS介绍",
+        "urlname": "rxfd0nxflaz88ipb",
+        "date": "2025-07-06 12:40:59",
+        "updated": "2025-07-07 10:21:38",
+        "author": "孙武",
+        "description": "阅读本文，你需要首先知道：1浏览器的同源策略2跨域问题3JSONP原理4cookie原理JSONP并不是一个好的跨域解决方案，它至少有着下面两个严重问题：1. 会打乱服务器的消息格式：JSONP要求服务器响应一段JS代码，但在非跨域的情况下，服务器又需要响应一个正常的JSON格式2. 只能完成..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "rxfd0nxflaz88ipb"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "rxfd0nxflaz88ipb"
+        },
+        {
+          "title": "2.10 cors",
+          "doc_id": "rxfd0nxflaz88ipb"
+        }
+      ],
+      "realName": "2.10.1 CORS介绍",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.10 cors\\2.10.1 CORS介绍.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.10 cors"
+    },
+    {
+      "id": 226801866,
+      "doc_id": "gc3kic9dilxc7uz8",
+      "updated": 1751776859000,
+      "properties": {
+        "title": "2.11.1 php反序列化",
+        "urlname": "gc3kic9dilxc7uz8",
+        "date": "2025-07-06 12:40:59",
+        "updated": "2025-07-06 12:40:59",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2023/png/35491564/1687942388586-df9ce2de-8a1d-474c-916d-df5fe1c0648a.png",
+        "description": "https://www.freebuf.com/articles/web/167721.html0x00 php反序列化简介php 反序列化基本上是围绕着serialize()、unserialize()这两个函数展开的，还有PHAR协议用于解析 phar 文件、phar 文件的 meta-d..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "gc3kic9dilxc7uz8"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "gc3kic9dilxc7uz8"
+        },
+        {
+          "title": "2.11 反序列化",
+          "doc_id": "gc3kic9dilxc7uz8"
+        }
+      ],
+      "realName": "2.11.1 php反序列化",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.11 反序列化\\2.11.1 php反序列化.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.11 反序列化"
+    },
+    {
+      "id": 226801865,
+      "doc_id": "avfkw0wu95gmohbz",
+      "updated": 1751854899298,
+      "properties": {
+        "title": "2.8.1 CSRF(跨站请求伪造)",
+        "urlname": "avfkw0wu95gmohbz",
+        "date": "2025-07-06 12:40:59",
+        "updated": "2025-07-07 10:21:39",
+        "author": "孙武",
+        "description": "CSRF 危害：●修改个人信息/帐号密码●发送伪造的业务请求●关注他人的社交帐号,推送博文●在用户非自愿,不知情的情况下提交请求●获取信用卡等信息触发条件：①用户某一网站处于登陆状态（即身份验证状态暂未过期）②用户访问了一黑客精心构造的带有特殊url访问请求的网站③服务器无二次身份验证机制漏洞..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "avfkw0wu95gmohbz"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "avfkw0wu95gmohbz"
+        },
+        {
+          "title": "2.8 csrf",
+          "doc_id": "avfkw0wu95gmohbz"
+        }
+      ],
+      "realName": "2.8.1 CSRF(跨站请求伪造)",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.8 csrf\\2.8.1 CSRF(跨站请求伪造).md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.8 csrf"
+    },
+    {
+      "id": 226801863,
+      "doc_id": "zh5hy2rd3kkl5ck7",
+      "updated": 1751776859000,
+      "properties": {
+        "title": "2.9.1 ssrf漏洞",
+        "urlname": "zh5hy2rd3kkl5ck7",
+        "date": "2025-07-06 12:40:59",
+        "updated": "2025-07-06 12:40:59",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/26698826/1707585214667-44710a35-03a9-40a6-9247-23a8bff52ecf.png",
+        "description": "SSRF服务端请求伪造漏洞简介服务端请求伪造(Server-Side Request Forge,SSRF)，攻击者利用SSRF漏洞通过服务器发起伪造请求，这样就可以访问到内网的数据，进行内网信息探测或者内网漏洞利用。漏洞成因  SSRF漏洞形成的原因是因为应用程序存在可以从其他服务器获取数据..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "zh5hy2rd3kkl5ck7"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "zh5hy2rd3kkl5ck7"
+        },
+        {
+          "title": "2.9 ssrf",
+          "doc_id": "zh5hy2rd3kkl5ck7"
+        }
+      ],
+      "realName": "2.9.1 ssrf漏洞",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.9 ssrf\\2.9.1 ssrf漏洞.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.9 ssrf"
+    },
+    {
+      "id": 226801862,
+      "doc_id": "kmtouewgqygw7xq3",
+      "updated": 1751776859000,
+      "properties": {
+        "title": "ssrf+redis",
+        "urlname": "kmtouewgqygw7xq3",
+        "date": "2025-07-06 12:40:59",
+        "updated": "2025-07-06 12:40:59",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2023/png/26698826/1704030544042-1d07cc6c-df71-4526-a593-2f20e537cf60.png",
+        "description": "环境1. 密码hello 2. su root 密码 xbw cd ./redis-2.8.17/src ./redis-server ../redis.conf  如果想redis写公私钥，需要su root cd /root mkdir .ssh闯关流程http://192.168.147..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "kmtouewgqygw7xq3"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "kmtouewgqygw7xq3"
+        },
+        {
+          "title": "2.9 ssrf",
+          "doc_id": "kmtouewgqygw7xq3"
+        }
+      ],
+      "realName": "ssrf+redis",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.9 ssrf\\ssrf+redis.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.9 ssrf"
+    },
+    {
+      "id": 226801864,
+      "doc_id": "xl1vtggm3fvt6r3g",
+      "updated": 1751776859000,
+      "properties": {
+        "title": "2.7.1 文件包含漏洞",
+        "urlname": "xl1vtggm3fvt6r3g",
+        "date": "2025-07-06 12:40:59",
+        "updated": "2025-07-06 12:40:59",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/jpeg/26698826/1707565023675-49ef33c8-68ad-4bc0-82f3-c97de73e4509.jpeg",
+        "description": "#要实现远程文件包含需要allow_url_fopen和allow_url_include都开启 #读文件(需要开启 allow_url_fopen) ?filename=php://filter/read=convert.base64-encode/resource=xxx.php  ?fi..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "xl1vtggm3fvt6r3g"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "xl1vtggm3fvt6r3g"
+        },
+        {
+          "title": "2.7 文件包含",
+          "doc_id": "xl1vtggm3fvt6r3g"
+        }
+      ],
+      "realName": "2.7.1 文件包含漏洞",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.7 文件包含\\2.7.1 文件包含漏洞.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.7 文件包含"
+    },
+    {
+      "id": 226801861,
+      "doc_id": "fih377hgkuowefv5",
+      "updated": 1751776859000,
+      "properties": {
+        "title": "csrf-xss 弹cookie-poc",
+        "urlname": "fih377hgkuowefv5",
+        "date": "2025-07-06 12:40:58",
+        "updated": "2025-07-06 12:40:59",
+        "author": "孙武",
+        "description": "📎xss-csrf.html  "
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "fih377hgkuowefv5"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "fih377hgkuowefv5"
+        },
+        {
+          "title": "2.8 csrf",
+          "doc_id": "fih377hgkuowefv5"
+        }
+      ],
+      "realName": "csrf-xss 弹cookie-poc",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.8 csrf\\csrf-xss 弹cookie-poc.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.8 csrf"
+    },
+    {
+      "id": 226801858,
+      "doc_id": "pgea90ctlzvmmer6",
+      "updated": 1751776859000,
+      "properties": {
+        "title": "2.6.1 RCE远程代码执行",
+        "urlname": "pgea90ctlzvmmer6",
+        "date": "2025-07-06 12:40:58",
+        "updated": "2025-07-06 12:40:59",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/jpeg/26698826/1707549583809-ded60782-1312-414f-a501-46875e51dfa6.jpeg",
+        "description": "RCE漏洞原理 在一些WEB应用当中有些程序员为了考虑灵活性和简洁性，会在代码调用代码时用执行函数去处理，例如当调用一些能将字符串转化为代码的函数时，没有考虑对这个字符串做控制处理，从而导致代码执行漏洞，同样调用系统命令处理，将造成命令执行漏洞检测和判断RCE漏洞白盒_RCE漏洞判断如果是对于..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "pgea90ctlzvmmer6"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "pgea90ctlzvmmer6"
+        },
+        {
+          "title": "2.6 代码执行与命令执行",
+          "doc_id": "pgea90ctlzvmmer6"
+        }
+      ],
+      "realName": "2.6.1 RCE远程代码执行",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.6 代码执行与命令执行\\2.6.1 RCE远程代码执行.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.6 代码执行与命令执行"
+    },
+    {
+      "id": 226801859,
+      "doc_id": "ppnk8q1plendvpxc",
+      "updated": 1751776859000,
+      "properties": {
+        "title": "2.6.2 命令执行漏洞挖掘",
+        "urlname": "ppnk8q1plendvpxc",
+        "date": "2025-07-06 12:40:58",
+        "updated": "2025-07-06 12:40:59",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/26698826/1721653141530-b3a2b3dd-47f8-4028-b9bf-d939d5be3115.png",
+        "description": "1. RCE原理 远程代码执行(RCE)使攻击者能够通过注入攻击执行恶意代码。代码注入攻击与命令注入攻击不同。攻击者的成果取决于服 务器端的限制,在某些情况下，攻击者可能能够从代码注入升级为命令注入。远程代码攻击可能会完全破坏易受攻击的Web 应用程序以及Web服务器。需要注意的是，几乎每种编..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "ppnk8q1plendvpxc"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "ppnk8q1plendvpxc"
+        },
+        {
+          "title": "2.6 代码执行与命令执行",
+          "doc_id": "ppnk8q1plendvpxc"
+        }
+      ],
+      "realName": "2.6.2 命令执行漏洞挖掘",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.6 代码执行与命令执行\\2.6.2 命令执行漏洞挖掘.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.6 代码执行与命令执行"
+    },
+    {
+      "id": 226801857,
+      "doc_id": "vw2cxm41t9kdzsmb",
+      "updated": 1751776858000,
+      "properties": {
+        "title": "xss-payload",
+        "urlname": "vw2cxm41t9kdzsmb",
+        "date": "2025-07-06 12:40:58",
+        "updated": "2025-07-06 12:40:58",
+        "author": "孙武",
+        "description": "XSS 反射型xss(get)      "
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "vw2cxm41t9kdzsmb"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "vw2cxm41t9kdzsmb"
+        },
+        {
+          "title": "2.4 XSS注入",
+          "doc_id": "vw2cxm41t9kdzsmb"
+        }
+      ],
+      "realName": "xss-payload",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.4 XSS注入\\xss-payload.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.4 XSS注入"
+    },
+    {
+      "id": 226801860,
+      "doc_id": "igflx51787yin7rm",
+      "updated": 1751854900639,
+      "properties": {
+        "title": "2.5.1 文件上传（uploads）",
+        "urlname": "igflx51787yin7rm",
+        "date": "2025-07-06 12:40:58",
+        "updated": "2025-07-07 10:21:40",
+        "author": "孙武",
+        "description": "什么是文件上传漏洞文件上传漏洞是指由于程序员在对用户文件上传部分的控制不足或者处理缺陷，而导致的用户可以越过其本身权限向服务器上上传可执行的动态脚本文件。这里上传的文件可以是木马，病毒，恶意脚本或者WebShell等。这种攻击方式是最为直接和有效的，“文件上传”本身没有问题，有问题的是文件上传..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "igflx51787yin7rm"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "igflx51787yin7rm"
+        },
+        {
+          "title": "2.5 文件上传注入",
+          "doc_id": "igflx51787yin7rm"
+        }
+      ],
+      "realName": "2.5.1 文件上传（uploads）",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.5 文件上传注入\\2.5.1 文件上传（uploads）.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.5 文件上传注入"
+    },
+    {
+      "id": 226801854,
+      "doc_id": "lxh5i1fxlmgox6wp",
+      "updated": 1751776858000,
+      "properties": {
+        "title": "2.4.5 XSS弹cookie",
+        "urlname": "lxh5i1fxlmgox6wp",
+        "date": "2025-07-06 12:40:58",
+        "updated": "2025-07-06 12:40:58",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/26698826/1715152100328-20859f01-2898-456d-9148-cbdb266e1f0b.png",
+        "description": "1. xss平台的搭建将源码放到非中文网站目录中📎www.xssme.com.zip网站使用php7，apache，mysql5.7安装访问，即可http://127.0.0.1:82/install/step1.php2. 使用xss弹cookie2.1. 生成payload选第一个复制其..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "lxh5i1fxlmgox6wp"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "lxh5i1fxlmgox6wp"
+        },
+        {
+          "title": "2.4 XSS注入",
+          "doc_id": "lxh5i1fxlmgox6wp"
+        }
+      ],
+      "realName": "2.4.5 XSS弹cookie",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.4 XSS注入\\2.4.5 XSS弹cookie.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.4 XSS注入"
+    },
+    {
+      "id": 226801853,
+      "doc_id": "umqrpfk66dld64qw",
+      "updated": 1751854901253,
+      "properties": {
+        "title": "2.4.4 XSS绕WAF",
+        "urlname": "umqrpfk66dld64qw",
+        "date": "2025-07-06 12:40:58",
+        "updated": "2025-07-07 10:21:41",
+        "author": "孙武",
+        "description": "常规手工测试XSS绕过WAF1标签语法替换   原payload：，被WAF拦截，方式更换标签语法payload：，成功绕过WAF2特殊符号干扰原payload："
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "umqrpfk66dld64qw"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "umqrpfk66dld64qw"
+        },
+        {
+          "title": "2.4 XSS注入",
+          "doc_id": "umqrpfk66dld64qw"
+        }
+      ],
+      "realName": "2.4.4 XSS绕WAF",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.4 XSS注入\\2.4.4 XSS绕WAF.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.4 XSS注入"
+    },
+    {
+      "id": 226801852,
+      "doc_id": "ylpg7g16efhy5xa5",
+      "updated": 1751854901318,
+      "properties": {
+        "title": "2.4.3 XSS修复",
+        "urlname": "ylpg7g16efhy5xa5",
+        "date": "2025-07-06 12:40:58",
+        "updated": "2025-07-07 10:21:41",
+        "author": "孙武",
+        "description": "关于httponly HttpOnly是包含在http返回头Set-Cookie里面的一个附加的flag，所以它是后端服务器对cookie设置的一个附加的属性如果HTTP响应标头中包含HttpOnly标志（可选），客户端脚本将无法访问cookie（如果浏览器支持该标志的话），因此即使客户端存在..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "ylpg7g16efhy5xa5"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "ylpg7g16efhy5xa5"
+        },
+        {
+          "title": "2.4 XSS注入",
+          "doc_id": "ylpg7g16efhy5xa5"
+        }
+      ],
+      "realName": "2.4.3 XSS修复",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.4 XSS注入\\2.4.3 XSS修复.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.4 XSS注入"
+    },
+    {
+      "id": 226801851,
+      "doc_id": "gmgb1un77uel5n3m",
+      "updated": 1751776858000,
+      "properties": {
+        "title": "2.4.2 XSS-labs通过",
+        "urlname": "gmgb1un77uel5n3m",
+        "date": "2025-07-06 12:40:58",
+        "updated": "2025-07-06 12:40:58",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/26698826/1718366865624-64b8ea16-78b0-495b-9d11-faa27ed779e8.png",
+        "description": "xss-labs靶场-pass1观察url，发现页面传参test，并且页面中显示了testhttp://localhost/xss/level1.php?name=testxss漏洞是，用户输入的内容，服务器没有经过严格的过滤，直接放到了页面源码之中，并且产生了作用所导致的漏洞右键查看页面源代..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "gmgb1un77uel5n3m"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "gmgb1un77uel5n3m"
+        },
+        {
+          "title": "2.4 XSS注入",
+          "doc_id": "gmgb1un77uel5n3m"
+        }
+      ],
+      "realName": "2.4.2 XSS-labs通过",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.4 XSS注入\\2.4.2 XSS-labs通过.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.4 XSS注入"
+    },
+    {
+      "id": 226801848,
+      "doc_id": "ts0957b9ywkf2m3t",
+      "updated": 1751776858000,
+      "properties": {
+        "title": "2.3.8 分块传输",
+        "urlname": "ts0957b9ywkf2m3t",
+        "date": "2025-07-06 12:40:58",
+        "updated": "2025-07-06 12:40:58",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/26698826/1715237537242-0c935aa4-fc8e-42df-a7a6-da10823d322c.png",
+        "description": "一、什么是chunked编码？ 分块传输编码（Chunkedtransfer encoding）是只在 HTTP 协议 1.1版本（HTTP/1.1） 中提供的一种数据传送机制。以往HTTP的应答中数据是整个一起发送的，并在 应答头里Content-Length 字段标识了数据的长度，以便客户..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "ts0957b9ywkf2m3t"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "ts0957b9ywkf2m3t"
+        },
+        {
+          "title": "2.3 SQL注入",
+          "doc_id": "ts0957b9ywkf2m3t"
+        },
+        {
+          "title": "进阶",
+          "doc_id": "ts0957b9ywkf2m3t"
+        }
+      ],
+      "realName": "2.3.8 分块传输",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.3 SQL注入\\进阶\\2.3.8 分块传输.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.3 SQL注入\\进阶"
+    },
+    {
+      "id": 226801849,
+      "doc_id": "my2m66fh7z99rbtr",
+      "updated": 1751854902389,
+      "properties": {
+        "title": "2.3.7 SQLmap绕过WAF",
+        "urlname": "my2m66fh7z99rbtr",
+        "date": "2025-07-06 12:40:58",
+        "updated": "2025-07-07 10:21:42",
+        "author": "孙武",
+        "description": "\t\t\t\t\t\t\t \t\t前言在攻防实战中，往往需要掌握一些特性，比如服务器、数据库、应用层、WAF等，以便我们更灵活的去构造payload，从而可以和各种WAF进行对抗，甚至绕过安全防御措施进行漏洞利用。WAF绕过-SQL注入：■数据●大小写●加密解密●编码解码●等价函数●特殊符号●反序列化●注释..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "my2m66fh7z99rbtr"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "my2m66fh7z99rbtr"
+        },
+        {
+          "title": "2.3 SQL注入",
+          "doc_id": "my2m66fh7z99rbtr"
+        },
+        {
+          "title": "进阶",
+          "doc_id": "my2m66fh7z99rbtr"
+        }
+      ],
+      "realName": "2.3.7 SQLmap绕过WAF",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.3 SQL注入\\进阶\\2.3.7 SQLmap绕过WAF.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.3 SQL注入\\进阶"
+    },
+    {
+      "id": 226801850,
+      "doc_id": "ntu6edu5fd6d37wf",
+      "updated": 1751854902171,
+      "properties": {
+        "title": "2.4.1 XSS跨站之原理及攻击手法",
+        "urlname": "ntu6edu5fd6d37wf",
+        "date": "2025-07-06 12:40:58",
+        "updated": "2025-07-07 10:21:42",
+        "author": "孙武",
+        "description": "关于XSS产生原理和分类 XSS攻击通常指的是通过利用网页开发时留下的漏洞，通过巧妙的方法注入恶意指令代码到网页，使用户加载并执行攻击者恶意制造的网页程序。这些恶意网页程序通常是JavaScript，但实际上也可以包括Java、 VBScript、ActiveX、Flash 或者甚至是普通的H..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "ntu6edu5fd6d37wf"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "ntu6edu5fd6d37wf"
+        },
+        {
+          "title": "2.4 XSS注入",
+          "doc_id": "ntu6edu5fd6d37wf"
+        }
+      ],
+      "realName": "2.4.1 XSS跨站之原理及攻击手法",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.4 XSS注入\\2.4.1 XSS跨站之原理及攻击手法.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.4 XSS注入"
+    },
+    {
+      "id": 226801846,
+      "doc_id": "xz8f2gxngel2gyd4",
+      "updated": 1751854902864,
+      "properties": {
+        "title": "2.3.6 Access注入",
+        "urlname": "xz8f2gxngel2gyd4",
+        "date": "2025-07-06 12:40:57",
+        "updated": "2025-07-07 10:21:42",
+        "author": "孙武",
+        "description": "Access数据库特性Access数据库结构1&gt; Access数据库是单一数据库,因此没有库名,数据库中的结构为: 表--&gt;列--&gt;数据，myql的结构为:库--&gt;表--&gt;列--&gt;数据。2&gt; Access数据库没有像mysql里information_schema这样的库记录所有表的信息,因此..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "xz8f2gxngel2gyd4"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "xz8f2gxngel2gyd4"
+        },
+        {
+          "title": "2.3 SQL注入",
+          "doc_id": "xz8f2gxngel2gyd4"
+        },
+        {
+          "title": "进阶",
+          "doc_id": "xz8f2gxngel2gyd4"
+        }
+      ],
+      "realName": "2.3.6 Access注入",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.3 SQL注入\\进阶\\2.3.6 Access注入.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.3 SQL注入\\进阶"
+    },
+    {
+      "id": 226801845,
+      "doc_id": "vp2xhcfn92k16rt2",
+      "updated": 1751854902989,
+      "properties": {
+        "title": "2.3.5 dnslog带外注入",
+        "urlname": "vp2xhcfn92k16rt2",
+        "date": "2025-07-06 12:40:57",
+        "updated": "2025-07-07 10:21:42",
+        "author": "孙武",
+        "description": "1.dnslog简介Dnslog就是存储在DNS Server上的域名信息，它记录着用户对域名www.test.com、t00ls.com.等的访问信息。2.dnslog原理注册了一个为a.com的域名，我将他a记录解析到10.0.0.0上，这样就实现了无论我记录值填什么他都有解析，并且都指向..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "vp2xhcfn92k16rt2"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "vp2xhcfn92k16rt2"
+        },
+        {
+          "title": "2.3 SQL注入",
+          "doc_id": "vp2xhcfn92k16rt2"
+        },
+        {
+          "title": "进阶",
+          "doc_id": "vp2xhcfn92k16rt2"
+        }
+      ],
+      "realName": "2.3.5 dnslog带外注入",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.3 SQL注入\\进阶\\2.3.5 dnslog带外注入.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.3 SQL注入\\进阶"
+    },
+    {
+      "id": 226801842,
+      "doc_id": "rflsrrxk4dmcqst4",
+      "updated": 1751854903403,
+      "properties": {
+        "title": "2.1.3 子域名、CDN、泛解析",
+        "urlname": "rflsrrxk4dmcqst4",
+        "date": "2025-07-06 12:40:57",
+        "updated": "2025-07-07 10:21:43",
+        "author": "孙武",
+        "description": "子域名什么是子域名域名可以划分为各个子域，子域还可以继续划分为子域的子域，这样就形成了顶级域、主域名、子域名等。举例：“.com”是顶级域名（一级域名）；“aliyun.com”是主域名（二级域名）；“example.aliyun.com”是子域名（三级域名）；“www.example.ali..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "rflsrrxk4dmcqst4"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "rflsrrxk4dmcqst4"
+        },
+        {
+          "title": "2.1 信息收集",
+          "doc_id": "rflsrrxk4dmcqst4"
+        }
+      ],
+      "realName": "2.1.3 子域名、CDN、泛解析",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.1 信息收集\\2.1.3 子域名、CDN、泛解析.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.1 信息收集"
+    },
+    {
+      "id": 226801844,
+      "doc_id": "ce7o0ziaykp42ho8",
+      "updated": 1751854903495,
+      "properties": {
+        "title": "2.3.3 sqli-labs通关",
+        "urlname": "ce7o0ziaykp42ho8",
+        "date": "2025-07-06 12:40:57",
+        "updated": "2025-07-07 10:21:43",
+        "author": "孙武",
+        "description": "1.第一关('单引号注释)?id=1 ?id=999999               //id数过大，页面正常不存在 ?id=1'                   //页面数据库异常 ?id=1'-- -               //页面恢复正常 ?id=1'order by 1 -..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "ce7o0ziaykp42ho8"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "ce7o0ziaykp42ho8"
+        },
+        {
+          "title": "2.3 SQL注入",
+          "doc_id": "ce7o0ziaykp42ho8"
+        }
+      ],
+      "realName": "2.3.3 sqli-labs通关",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.3 SQL注入\\2.3.3 sqli-labs通关.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.3 SQL注入"
+    },
+    {
+      "id": 226801841,
+      "doc_id": "lt0uskrgb98d9kg6",
+      "updated": 1751854903710,
+      "properties": {
+        "title": "2.3.4 SQL注入的修复",
+        "urlname": "lt0uskrgb98d9kg6",
+        "date": "2025-07-06 12:40:57",
+        "updated": "2025-07-07 10:21:43",
+        "author": "孙武",
+        "description": "SQL注入漏洞成因用户能控制传参SQL语句中拼接了用户传参的内容、拼接后的SQL语句必须等在数据库中方执行2.3.4.1 什么是预编译？ 普通的SQL语句执行过程: 客户端对SQL语句进行占位符替换得到完整的SQL语句 客户端发送完整SQL语句到MySQL服务端 MySQL服务端执行完整的SQ..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "lt0uskrgb98d9kg6"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "lt0uskrgb98d9kg6"
+        },
+        {
+          "title": "2.3 SQL注入",
+          "doc_id": "lt0uskrgb98d9kg6"
+        }
+      ],
+      "realName": "2.3.4 SQL注入的修复",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.3 SQL注入\\2.3.4 SQL注入的修复.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.3 SQL注入"
+    },
+    {
+      "id": 226801840,
+      "doc_id": "sxst8n9xkhlroag2",
+      "updated": 1751776857000,
+      "properties": {
+        "title": "2.3.2 sql注入教程",
+        "urlname": "sxst8n9xkhlroag2",
+        "date": "2025-07-06 12:40:57",
+        "updated": "2025-07-06 12:40:57",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2023/png/26698826/1703648052314-9b40024d-bd15-4e3b-a2ca-764d16253f01.png",
+        "description": "mysql📎课件.zipinformation_schema:库表列                  schemata(schemata_name库名)              tables(table_schema表所属的库名,table_name表名)                ..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "sxst8n9xkhlroag2"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "sxst8n9xkhlroag2"
+        },
+        {
+          "title": "2.3 SQL注入",
+          "doc_id": "sxst8n9xkhlroag2"
+        }
+      ],
+      "realName": "2.3.2 sql注入教程",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.3 SQL注入\\2.3.2 sql注入教程.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.3 SQL注入"
+    },
+    {
+      "id": 226801839,
+      "doc_id": "yeekrfcueyimleqf",
+      "updated": 1751776857000,
+      "properties": {
+        "title": "2.1.1 谷歌语法",
+        "urlname": "yeekrfcueyimleqf",
+        "date": "2025-07-06 12:40:57",
+        "updated": "2025-07-06 12:40:57",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2022/png/26698826/1656859715522-05182f4d-0e39-4e0a-9db2-31da1941690b.png",
+        "description": "算  符含    义应用举例AND/空格所连接的关键词之间是“与”的关系;云计算 分布式计算OR/|所连接的关键词之间是“或”的关系图片 | 写真-所连接的关键词之间是“非”的关系神雕侠侣 -游戏（）在检索式中括号里的运算将优先进行电子商务 AND  (云计算 -分布式计算)“”“”英文双引号..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "yeekrfcueyimleqf"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "yeekrfcueyimleqf"
+        },
+        {
+          "title": "2.1 信息收集",
+          "doc_id": "yeekrfcueyimleqf"
+        }
+      ],
+      "realName": "2.1.1 谷歌语法",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.1 信息收集\\2.1.1 谷歌语法.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.1 信息收集"
+    },
+    {
+      "id": 226801837,
+      "doc_id": "subra19lkqvy13yp",
+      "updated": 1751776857000,
+      "properties": {
+        "title": "CNVD提交模板",
+        "urlname": "subra19lkqvy13yp",
+        "date": "2025-07-06 12:40:57",
+        "updated": "2025-07-06 12:40:57",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/26698826/1727448873555-ef5633f7-46c9-401f-8dc2-9f4d8d26ad7d.png",
+        "description": "1. CNVD提交地址https://www.cnvd.org.cn/user/mynews2. 报告编写恩碩科技股份有限公司ENS610EXT存在弱口令.docx用友时空-SQL注入漏洞3.docx2.1. 报告细节2.1.1. 报告命名2.1.1.1. xx公司存在xx漏洞.docx2.1..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "subra19lkqvy13yp"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "subra19lkqvy13yp"
+        },
+        {
+          "title": "2.2 弱口令CNVD挖掘",
+          "doc_id": "subra19lkqvy13yp"
+        }
+      ],
+      "realName": "CNVD提交模板",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.2 弱口令CNVD挖掘\\CNVD提交模板.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.2 弱口令CNVD挖掘"
+    },
+    {
+      "id": 226801838,
+      "doc_id": "kt6lggft4yfckik5",
+      "updated": 1751854904399,
+      "properties": {
+        "title": "2.1.2 信息泄露",
+        "urlname": "kt6lggft4yfckik5",
+        "date": "2025-07-06 12:40:57",
+        "updated": "2025-07-07 10:21:44",
+        "author": "孙武",
+        "description": "git源码泄露Git是一个开源的分布式版本控制系统，在执行git init初始化目录的时候，会在当前目录下自动创建一个.git目录，用来记录代码的变更记录等。发布代码的时候，如果没有把.git这个目录删除，就直接发布到了服务器上，攻击者就可以通过它来恢复源代码。漏洞利用工具：GitHackgi..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "kt6lggft4yfckik5"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "kt6lggft4yfckik5"
+        },
+        {
+          "title": "2.1 信息收集",
+          "doc_id": "kt6lggft4yfckik5"
+        }
+      ],
+      "realName": "2.1.2 信息泄露",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.1 信息收集\\2.1.2 信息泄露.md",
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.1 信息收集"
+    },
+    {
+      "id": 226801836,
+      "doc_id": "qkvr1rovk6arppgk",
+      "updated": 1751776857000,
+      "properties": {
+        "title": "2.1.4 ARL灯塔",
+        "urlname": "qkvr1rovk6arppgk",
+        "date": "2025-07-06 12:40:57",
+        "updated": "2025-07-06 12:40:57",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/26698826/1715333956526-3d172a9a-0bd8-49fd-b5be-c92e19583db2.png",
+        "description": "官网https://github.com/TophantTechnology/ARL安装准备一个centos7安装proxychainsyum install proxychains -y运行安装脚本set -e  echo \"cd /opt/\"  mkdir -p /opt/ cd /opt..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "qkvr1rovk6arppgk"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "qkvr1rovk6arppgk"
+        },
+        {
+          "title": "2.1 信息收集",
+          "doc_id": "qkvr1rovk6arppgk"
+        }
+      ],
+      "realName": "2.1.4 ARL灯塔",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.1 信息收集\\2.1.4 ARL灯塔.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.1 信息收集"
+    },
+    {
+      "id": 226801834,
+      "doc_id": "rti44kg76eogenm7",
+      "updated": 1751776857000,
+      "properties": {
+        "title": "2.3.5 dnslog带外",
+        "urlname": "rti44kg76eogenm7",
+        "date": "2025-07-06 12:40:57",
+        "updated": "2025-07-06 12:40:57",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/26698826/1721719080423-d67093f9-e9c6-4d8e-9142-143affcf8c01.png",
+        "description": "前提secure_file_prive=null ––限制mysqld 不允许导入导出secure_file_priv=/path/ – --限制mysqld的导入导出只能发生在默认的/path/目录下secure_file_priv=\"\" – --不对mysqld 的导入 导出做限制正式先点..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "rti44kg76eogenm7"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "rti44kg76eogenm7"
+        },
+        {
+          "title": "2.3 SQL注入",
+          "doc_id": "rti44kg76eogenm7"
+        },
+        {
+          "title": "进阶",
+          "doc_id": "rti44kg76eogenm7"
+        }
+      ],
+      "realName": "2.3.5 dnslog带外",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.3 SQL注入\\进阶\\2.3.5 dnslog带外.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.3 SQL注入\\进阶"
+    },
+    {
+      "id": 226801835,
+      "doc_id": "dmydqbervqaz65pw",
+      "updated": 1751854905040,
+      "properties": {
+        "title": "2.3.1 SQL注入基础",
+        "urlname": "dmydqbervqaz65pw",
+        "date": "2025-07-06 12:40:57",
+        "updated": "2025-07-07 10:21:45",
+        "author": "孙武",
+        "description": "2.3.1.1 sql注入原理 在数据交互中，前端的数据传⼊到后端处理时，由于后端没有对数据做严格的判断，导致其传⼊的\"数 据\"拼 接到SQL语句中后，被当作SQL语句的⼀部分执⾏。  2.3.1.2 sql注入基础打开mysql启动mysql打开此电脑，进入D:\\phpstudy_pro\\E..."
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "dmydqbervqaz65pw"
+        },
+        {
+          "title": "web漏洞",
+          "doc_id": "dmydqbervqaz65pw"
+        },
+        {
+          "title": "2.3 SQL注入",
+          "doc_id": "dmydqbervqaz65pw"
+        }
+      ],
+      "realName": "2.3.1 SQL注入基础",
+      "relativePath": "\\安全学习手册\\web漏洞\\2.3 SQL注入\\2.3.1 SQL注入基础.md",
+      "needUpdate": 1,
+      "docPath": "docs\\docs\\安全学习手册\\web漏洞\\2.3 SQL注入"
     }
   ],
   "catalog": [
-    {
-      "uuid": "m9hOk7qKanORcwAs",
-      "type": "TITLE",
-      "title": "安全",
-      "url": "",
-      "slug": "#",
-      "id": "",
-      "doc_id": "",
-      "level": 0,
-      "depth": 1,
-      "open_window": 1,
-      "visible": 1,
-      "prev_uuid": "",
-      "sibling_uuid": "XkO3T4-vV1r-qME5",
-      "child_uuid": "",
-      "parent_uuid": "",
-      "_serializer": "v2.toc_item"
-    },
     {
       "uuid": "XkO3T4-vV1r-qME5",
       "type": "DOC",
@@ -1087,7 +2160,7 @@
       "depth": 1,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "m9hOk7qKanORcwAs",
+      "prev_uuid": "",
       "sibling_uuid": "yZEQ9PhhoW_1eff3",
       "child_uuid": "",
       "parent_uuid": "",
@@ -1096,7 +2169,7 @@
     {
       "uuid": "yZEQ9PhhoW_1eff3",
       "type": "TITLE",
-      "title": "web手册",
+      "title": "安全学习手册",
       "url": "",
       "slug": "#",
       "id": "",
@@ -1107,8 +2180,998 @@
       "visible": 1,
       "prev_uuid": "XkO3T4-vV1r-qME5",
       "sibling_uuid": "Dhd74Lwp6zhStPmG",
-      "child_uuid": "",
+      "child_uuid": "DKMyoV6-sGD-h6Kk",
       "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "DKMyoV6-sGD-h6Kk",
+      "type": "TITLE",
+      "title": "环境",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "yZEQ9PhhoW_1eff3",
+      "sibling_uuid": "7-6ij5PWSHaClw6S",
+      "child_uuid": "",
+      "parent_uuid": "yZEQ9PhhoW_1eff3",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "7-6ij5PWSHaClw6S",
+      "type": "TITLE",
+      "title": "计算机网络",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "DKMyoV6-sGD-h6Kk",
+      "sibling_uuid": "_0ffQMQAzmgPe4mG",
+      "child_uuid": "",
+      "parent_uuid": "yZEQ9PhhoW_1eff3",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "_0ffQMQAzmgPe4mG",
+      "type": "TITLE",
+      "title": "计算机操作系统",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "7-6ij5PWSHaClw6S",
+      "sibling_uuid": "tXrPB1CaQGWOm7ao",
+      "child_uuid": "",
+      "parent_uuid": "yZEQ9PhhoW_1eff3",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "tXrPB1CaQGWOm7ao",
+      "type": "TITLE",
+      "title": "web漏洞",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "_0ffQMQAzmgPe4mG",
+      "sibling_uuid": "O4Mm4r_D1gnze3vA",
+      "child_uuid": "wsWZ-h90Hg4AIC9P",
+      "parent_uuid": "yZEQ9PhhoW_1eff3",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "wsWZ-h90Hg4AIC9P",
+      "type": "TITLE",
+      "title": "2.1 信息收集",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "tXrPB1CaQGWOm7ao",
+      "sibling_uuid": "IBXDAYlUFWeyYz1O",
+      "child_uuid": "m422FEsb9ztjQIVO",
+      "parent_uuid": "tXrPB1CaQGWOm7ao",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "m422FEsb9ztjQIVO",
+      "type": "DOC",
+      "title": "2.1.1 谷歌语法",
+      "url": "yeekrfcueyimleqf",
+      "slug": "yeekrfcueyimleqf",
+      "id": 226801839,
+      "doc_id": 226801839,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "wsWZ-h90Hg4AIC9P",
+      "sibling_uuid": "3JfH9E1U-un5z7gy",
+      "child_uuid": "",
+      "parent_uuid": "wsWZ-h90Hg4AIC9P",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "3JfH9E1U-un5z7gy",
+      "type": "DOC",
+      "title": "2.1.2 信息泄露",
+      "url": "kt6lggft4yfckik5",
+      "slug": "kt6lggft4yfckik5",
+      "id": 226801838,
+      "doc_id": 226801838,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "m422FEsb9ztjQIVO",
+      "sibling_uuid": "rsljBLhucv9DKOql",
+      "child_uuid": "",
+      "parent_uuid": "wsWZ-h90Hg4AIC9P",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "rsljBLhucv9DKOql",
+      "type": "DOC",
+      "title": "2.1.3 子域名、CDN、泛解析",
+      "url": "rflsrrxk4dmcqst4",
+      "slug": "rflsrrxk4dmcqst4",
+      "id": 226801842,
+      "doc_id": 226801842,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "3JfH9E1U-un5z7gy",
+      "sibling_uuid": "ZEfjjU23fWH92Mlu",
+      "child_uuid": "",
+      "parent_uuid": "wsWZ-h90Hg4AIC9P",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "ZEfjjU23fWH92Mlu",
+      "type": "DOC",
+      "title": "2.1.4 ARL灯塔",
+      "url": "qkvr1rovk6arppgk",
+      "slug": "qkvr1rovk6arppgk",
+      "id": 226801836,
+      "doc_id": 226801836,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "rsljBLhucv9DKOql",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "wsWZ-h90Hg4AIC9P",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "IBXDAYlUFWeyYz1O",
+      "type": "TITLE",
+      "title": "2.2 弱口令CNVD挖掘",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "wsWZ-h90Hg4AIC9P",
+      "sibling_uuid": "AC5migTmxrRgw3B2",
+      "child_uuid": "SABSGYUvr4hIZfiA",
+      "parent_uuid": "tXrPB1CaQGWOm7ao",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "SABSGYUvr4hIZfiA",
+      "type": "DOC",
+      "title": "CNVD提交模板",
+      "url": "subra19lkqvy13yp",
+      "slug": "subra19lkqvy13yp",
+      "id": 226801837,
+      "doc_id": 226801837,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "IBXDAYlUFWeyYz1O",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "IBXDAYlUFWeyYz1O",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "AC5migTmxrRgw3B2",
+      "type": "TITLE",
+      "title": "2.3 SQL注入",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "IBXDAYlUFWeyYz1O",
+      "sibling_uuid": "TmGwWRN6MA0frWpp",
+      "child_uuid": "oAPytB9dXNIJNGXT",
+      "parent_uuid": "tXrPB1CaQGWOm7ao",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "oAPytB9dXNIJNGXT",
+      "type": "DOC",
+      "title": "2.3.1 SQL注入基础",
+      "url": "dmydqbervqaz65pw",
+      "slug": "dmydqbervqaz65pw",
+      "id": 226801835,
+      "doc_id": 226801835,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "AC5migTmxrRgw3B2",
+      "sibling_uuid": "Jjm-PzY7nWwrngIE",
+      "child_uuid": "",
+      "parent_uuid": "AC5migTmxrRgw3B2",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "Jjm-PzY7nWwrngIE",
+      "type": "DOC",
+      "title": "2.3.2 sql注入教程",
+      "url": "sxst8n9xkhlroag2",
+      "slug": "sxst8n9xkhlroag2",
+      "id": 226801840,
+      "doc_id": 226801840,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "oAPytB9dXNIJNGXT",
+      "sibling_uuid": "RxX4KH2itlz1twNB",
+      "child_uuid": "",
+      "parent_uuid": "AC5migTmxrRgw3B2",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "RxX4KH2itlz1twNB",
+      "type": "DOC",
+      "title": "2.3.3 sqli-labs通关",
+      "url": "ce7o0ziaykp42ho8",
+      "slug": "ce7o0ziaykp42ho8",
+      "id": 226801844,
+      "doc_id": 226801844,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "Jjm-PzY7nWwrngIE",
+      "sibling_uuid": "WHOx7MMtXMLHElLb",
+      "child_uuid": "",
+      "parent_uuid": "AC5migTmxrRgw3B2",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "WHOx7MMtXMLHElLb",
+      "type": "DOC",
+      "title": "2.3.4 SQL注入的修复",
+      "url": "lt0uskrgb98d9kg6",
+      "slug": "lt0uskrgb98d9kg6",
+      "id": 226801841,
+      "doc_id": 226801841,
+      "level": 3,
+      "depth": 4,
+      "open_window": 0,
+      "visible": 1,
+      "prev_uuid": "RxX4KH2itlz1twNB",
+      "sibling_uuid": "MzxZefpcnlA1X3Oh",
+      "child_uuid": "",
+      "parent_uuid": "AC5migTmxrRgw3B2",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "MzxZefpcnlA1X3Oh",
+      "type": "TITLE",
+      "title": "进阶",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "WHOx7MMtXMLHElLb",
+      "sibling_uuid": "",
+      "child_uuid": "Z6DTyh-cS9K2h8vs",
+      "parent_uuid": "AC5migTmxrRgw3B2",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "Z6DTyh-cS9K2h8vs",
+      "type": "DOC",
+      "title": "2.3.5 dnslog带外",
+      "url": "rti44kg76eogenm7",
+      "slug": "rti44kg76eogenm7",
+      "id": 226801834,
+      "doc_id": 226801834,
+      "level": 4,
+      "depth": 5,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "MzxZefpcnlA1X3Oh",
+      "sibling_uuid": "O1C2RwkupYOnMvgU",
+      "child_uuid": "",
+      "parent_uuid": "MzxZefpcnlA1X3Oh",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "O1C2RwkupYOnMvgU",
+      "type": "DOC",
+      "title": "2.3.5 dnslog带外注入",
+      "url": "vp2xhcfn92k16rt2",
+      "slug": "vp2xhcfn92k16rt2",
+      "id": 226801845,
+      "doc_id": 226801845,
+      "level": 4,
+      "depth": 5,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "Z6DTyh-cS9K2h8vs",
+      "sibling_uuid": "lziN7i0qGT9upIOH",
+      "child_uuid": "",
+      "parent_uuid": "MzxZefpcnlA1X3Oh",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "lziN7i0qGT9upIOH",
+      "type": "DOC",
+      "title": "2.3.6 Access注入",
+      "url": "xz8f2gxngel2gyd4",
+      "slug": "xz8f2gxngel2gyd4",
+      "id": 226801846,
+      "doc_id": 226801846,
+      "level": 4,
+      "depth": 5,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "O1C2RwkupYOnMvgU",
+      "sibling_uuid": "1ZCGL3JVNuNoq3H5",
+      "child_uuid": "",
+      "parent_uuid": "MzxZefpcnlA1X3Oh",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "1ZCGL3JVNuNoq3H5",
+      "type": "DOC",
+      "title": "2.3.7 SQLmap绕过WAF",
+      "url": "my2m66fh7z99rbtr",
+      "slug": "my2m66fh7z99rbtr",
+      "id": 226801849,
+      "doc_id": 226801849,
+      "level": 4,
+      "depth": 5,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "lziN7i0qGT9upIOH",
+      "sibling_uuid": "wZ8Hdtgqrlcv9xc2",
+      "child_uuid": "",
+      "parent_uuid": "MzxZefpcnlA1X3Oh",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "wZ8Hdtgqrlcv9xc2",
+      "type": "DOC",
+      "title": "2.3.8 分块传输",
+      "url": "ts0957b9ywkf2m3t",
+      "slug": "ts0957b9ywkf2m3t",
+      "id": 226801848,
+      "doc_id": 226801848,
+      "level": 4,
+      "depth": 5,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "1ZCGL3JVNuNoq3H5",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "MzxZefpcnlA1X3Oh",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "TmGwWRN6MA0frWpp",
+      "type": "TITLE",
+      "title": "2.4 XSS注入",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "AC5migTmxrRgw3B2",
+      "sibling_uuid": "_owyq5ot-oiko6F-",
+      "child_uuid": "i55Y0qjUyRvZ0FjA",
+      "parent_uuid": "tXrPB1CaQGWOm7ao",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "i55Y0qjUyRvZ0FjA",
+      "type": "DOC",
+      "title": "2.4.1 XSS跨站之原理及攻击手法",
+      "url": "ntu6edu5fd6d37wf",
+      "slug": "ntu6edu5fd6d37wf",
+      "id": 226801850,
+      "doc_id": 226801850,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "TmGwWRN6MA0frWpp",
+      "sibling_uuid": "rH2c4UCBrYCYXn9X",
+      "child_uuid": "",
+      "parent_uuid": "TmGwWRN6MA0frWpp",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "rH2c4UCBrYCYXn9X",
+      "type": "DOC",
+      "title": "2.4.2 XSS-labs通过",
+      "url": "gmgb1un77uel5n3m",
+      "slug": "gmgb1un77uel5n3m",
+      "id": 226801851,
+      "doc_id": 226801851,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "i55Y0qjUyRvZ0FjA",
+      "sibling_uuid": "JMpeU1HI02jqa3ng",
+      "child_uuid": "",
+      "parent_uuid": "TmGwWRN6MA0frWpp",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "JMpeU1HI02jqa3ng",
+      "type": "DOC",
+      "title": "2.4.3 XSS修复",
+      "url": "ylpg7g16efhy5xa5",
+      "slug": "ylpg7g16efhy5xa5",
+      "id": 226801852,
+      "doc_id": 226801852,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "rH2c4UCBrYCYXn9X",
+      "sibling_uuid": "DniBenWTkNJZWyed",
+      "child_uuid": "",
+      "parent_uuid": "TmGwWRN6MA0frWpp",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "DniBenWTkNJZWyed",
+      "type": "DOC",
+      "title": "2.4.4 XSS绕WAF",
+      "url": "umqrpfk66dld64qw",
+      "slug": "umqrpfk66dld64qw",
+      "id": 226801853,
+      "doc_id": 226801853,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "JMpeU1HI02jqa3ng",
+      "sibling_uuid": "OmrondpAsgJ2Ko0Y",
+      "child_uuid": "",
+      "parent_uuid": "TmGwWRN6MA0frWpp",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "OmrondpAsgJ2Ko0Y",
+      "type": "DOC",
+      "title": "2.4.5 XSS弹cookie",
+      "url": "lxh5i1fxlmgox6wp",
+      "slug": "lxh5i1fxlmgox6wp",
+      "id": 226801854,
+      "doc_id": 226801854,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "DniBenWTkNJZWyed",
+      "sibling_uuid": "ju5Ue0jqF7i6DaAG",
+      "child_uuid": "",
+      "parent_uuid": "TmGwWRN6MA0frWpp",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "ju5Ue0jqF7i6DaAG",
+      "type": "DOC",
+      "title": "xss-payload",
+      "url": "vw2cxm41t9kdzsmb",
+      "slug": "vw2cxm41t9kdzsmb",
+      "id": 226801857,
+      "doc_id": 226801857,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "OmrondpAsgJ2Ko0Y",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "TmGwWRN6MA0frWpp",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "_owyq5ot-oiko6F-",
+      "type": "TITLE",
+      "title": "2.5 文件上传注入",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "TmGwWRN6MA0frWpp",
+      "sibling_uuid": "Ob_wPYBW89rTq8GC",
+      "child_uuid": "BBzf-cqwRlDa6Q31",
+      "parent_uuid": "tXrPB1CaQGWOm7ao",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "BBzf-cqwRlDa6Q31",
+      "type": "DOC",
+      "title": "2.5.1 文件上传（uploads）",
+      "url": "igflx51787yin7rm",
+      "slug": "igflx51787yin7rm",
+      "id": 226801860,
+      "doc_id": 226801860,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "_owyq5ot-oiko6F-",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "_owyq5ot-oiko6F-",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "Ob_wPYBW89rTq8GC",
+      "type": "TITLE",
+      "title": "2.6 代码执行与命令执行",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "_owyq5ot-oiko6F-",
+      "sibling_uuid": "mDPCuvOkIeG80gSc",
+      "child_uuid": "bqm0EHSgf8drncOU",
+      "parent_uuid": "tXrPB1CaQGWOm7ao",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "bqm0EHSgf8drncOU",
+      "type": "DOC",
+      "title": "2.6.1 RCE远程代码执行",
+      "url": "pgea90ctlzvmmer6",
+      "slug": "pgea90ctlzvmmer6",
+      "id": 226801858,
+      "doc_id": 226801858,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "Ob_wPYBW89rTq8GC",
+      "sibling_uuid": "aMEyVv_v5ZTMBbhY",
+      "child_uuid": "",
+      "parent_uuid": "Ob_wPYBW89rTq8GC",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "aMEyVv_v5ZTMBbhY",
+      "type": "DOC",
+      "title": "2.6.2 命令执行漏洞挖掘",
+      "url": "ppnk8q1plendvpxc",
+      "slug": "ppnk8q1plendvpxc",
+      "id": 226801859,
+      "doc_id": 226801859,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "bqm0EHSgf8drncOU",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "Ob_wPYBW89rTq8GC",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "mDPCuvOkIeG80gSc",
+      "type": "TITLE",
+      "title": "2.7 文件包含",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "Ob_wPYBW89rTq8GC",
+      "sibling_uuid": "xCI1C-JOA8VS8csT",
+      "child_uuid": "rSN556cJ95FPK2NS",
+      "parent_uuid": "tXrPB1CaQGWOm7ao",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "rSN556cJ95FPK2NS",
+      "type": "DOC",
+      "title": "2.7.1 文件包含漏洞",
+      "url": "xl1vtggm3fvt6r3g",
+      "slug": "xl1vtggm3fvt6r3g",
+      "id": 226801864,
+      "doc_id": 226801864,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "mDPCuvOkIeG80gSc",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "mDPCuvOkIeG80gSc",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "xCI1C-JOA8VS8csT",
+      "type": "TITLE",
+      "title": "2.8 csrf",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "mDPCuvOkIeG80gSc",
+      "sibling_uuid": "DgndsxBPsR_3rSOo",
+      "child_uuid": "0q7YyR3JFk1CvBNJ",
+      "parent_uuid": "tXrPB1CaQGWOm7ao",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "0q7YyR3JFk1CvBNJ",
+      "type": "DOC",
+      "title": "csrf-xss 弹cookie-poc",
+      "url": "fih377hgkuowefv5",
+      "slug": "fih377hgkuowefv5",
+      "id": 226801861,
+      "doc_id": 226801861,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "xCI1C-JOA8VS8csT",
+      "sibling_uuid": "gy2vqLSwvczSid2w",
+      "child_uuid": "",
+      "parent_uuid": "xCI1C-JOA8VS8csT",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "gy2vqLSwvczSid2w",
+      "type": "DOC",
+      "title": "2.8.1 CSRF(跨站请求伪造)",
+      "url": "avfkw0wu95gmohbz",
+      "slug": "avfkw0wu95gmohbz",
+      "id": 226801865,
+      "doc_id": 226801865,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "0q7YyR3JFk1CvBNJ",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "xCI1C-JOA8VS8csT",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "DgndsxBPsR_3rSOo",
+      "type": "TITLE",
+      "title": "2.9 ssrf",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "xCI1C-JOA8VS8csT",
+      "sibling_uuid": "zHm6G8MHDsyEj7D1",
+      "child_uuid": "HtYY-BubnGU_DaJX",
+      "parent_uuid": "tXrPB1CaQGWOm7ao",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "HtYY-BubnGU_DaJX",
+      "type": "DOC",
+      "title": "ssrf+redis",
+      "url": "kmtouewgqygw7xq3",
+      "slug": "kmtouewgqygw7xq3",
+      "id": 226801862,
+      "doc_id": 226801862,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "DgndsxBPsR_3rSOo",
+      "sibling_uuid": "SHgWVyl6JekseKHs",
+      "child_uuid": "",
+      "parent_uuid": "DgndsxBPsR_3rSOo",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "SHgWVyl6JekseKHs",
+      "type": "DOC",
+      "title": "2.9.1 ssrf漏洞",
+      "url": "zh5hy2rd3kkl5ck7",
+      "slug": "zh5hy2rd3kkl5ck7",
+      "id": 226801863,
+      "doc_id": 226801863,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "HtYY-BubnGU_DaJX",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "DgndsxBPsR_3rSOo",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "zHm6G8MHDsyEj7D1",
+      "type": "TITLE",
+      "title": "2.10 cors",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "DgndsxBPsR_3rSOo",
+      "sibling_uuid": "h7rFNY_9G6M2UuvS",
+      "child_uuid": "uKYQa7-DTRyij9wL",
+      "parent_uuid": "tXrPB1CaQGWOm7ao",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "uKYQa7-DTRyij9wL",
+      "type": "DOC",
+      "title": "2.10.1 CORS介绍",
+      "url": "rxfd0nxflaz88ipb",
+      "slug": "rxfd0nxflaz88ipb",
+      "id": 226801867,
+      "doc_id": 226801867,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "zHm6G8MHDsyEj7D1",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "zHm6G8MHDsyEj7D1",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "h7rFNY_9G6M2UuvS",
+      "type": "TITLE",
+      "title": "2.11 反序列化",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "zHm6G8MHDsyEj7D1",
+      "sibling_uuid": "biL-TonmMrT5PZw5",
+      "child_uuid": "9mlnFCtoufaINrBo",
+      "parent_uuid": "tXrPB1CaQGWOm7ao",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "9mlnFCtoufaINrBo",
+      "type": "DOC",
+      "title": "2.11.1 php反序列化",
+      "url": "gc3kic9dilxc7uz8",
+      "slug": "gc3kic9dilxc7uz8",
+      "id": 226801866,
+      "doc_id": 226801866,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "h7rFNY_9G6M2UuvS",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "h7rFNY_9G6M2UuvS",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "biL-TonmMrT5PZw5",
+      "type": "TITLE",
+      "title": "2.12 XXE",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "h7rFNY_9G6M2UuvS",
+      "sibling_uuid": "",
+      "child_uuid": "uPkBUQwbASoKgBSN",
+      "parent_uuid": "tXrPB1CaQGWOm7ao",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "uPkBUQwbASoKgBSN",
+      "type": "DOC",
+      "title": "牙医(host头+XXE+suid提权)",
+      "url": "zya60ybexxfpa0ob",
+      "slug": "zya60ybexxfpa0ob",
+      "id": 226801868,
+      "doc_id": 226801868,
+      "level": 3,
+      "depth": 4,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "biL-TonmMrT5PZw5",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "biL-TonmMrT5PZw5",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "O4Mm4r_D1gnze3vA",
+      "type": "TITLE",
+      "title": "打点入门",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "tXrPB1CaQGWOm7ao",
+      "sibling_uuid": "wslkKrydaOUmHZ6q",
+      "child_uuid": "0BHgn2mKmT7_LZw_",
+      "parent_uuid": "yZEQ9PhhoW_1eff3",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "0BHgn2mKmT7_LZw_",
+      "type": "DOC",
+      "title": "常规打点",
+      "url": "kv9oyshdc3ybszb6",
+      "slug": "kv9oyshdc3ybszb6",
+      "id": 226888651,
+      "doc_id": 226888651,
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "O4Mm4r_D1gnze3vA",
+      "sibling_uuid": "UtFv-5jglrJQmz2w",
+      "child_uuid": "",
+      "parent_uuid": "O4Mm4r_D1gnze3vA",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "UtFv-5jglrJQmz2w",
+      "type": "DOC",
+      "title": "swagger接口泄露",
+      "url": "tln619yyqwry7rbs",
+      "slug": "tln619yyqwry7rbs",
+      "id": 226816456,
+      "doc_id": 226816456,
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "0BHgn2mKmT7_LZw_",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "O4Mm4r_D1gnze3vA",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "wslkKrydaOUmHZ6q",
+      "type": "TITLE",
+      "title": "后渗透",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "O4Mm4r_D1gnze3vA",
+      "sibling_uuid": "iXiJ2fuhbJabjeko",
+      "child_uuid": "-n5I2mRtrIvthq7n",
+      "parent_uuid": "yZEQ9PhhoW_1eff3",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "-n5I2mRtrIvthq7n",
+      "type": "DOC",
+      "title": "Windows痕迹清除",
+      "url": "qflabl20psezz0sh",
+      "slug": "qflabl20psezz0sh",
+      "id": 226817117,
+      "doc_id": 226817117,
+      "level": 2,
+      "depth": 3,
+      "open_window": 0,
+      "visible": 1,
+      "prev_uuid": "wslkKrydaOUmHZ6q",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "wslkKrydaOUmHZ6q",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "iXiJ2fuhbJabjeko",
+      "type": "TITLE",
+      "title": "应急/溯源",
+      "url": "",
+      "slug": "#",
+      "id": "",
+      "doc_id": "",
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "wslkKrydaOUmHZ6q",
+      "sibling_uuid": "",
+      "child_uuid": "hggC-iyC3I0_1SGC",
+      "parent_uuid": "yZEQ9PhhoW_1eff3",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "hggC-iyC3I0_1SGC",
+      "type": "LINK",
+      "title": "希潭实验室",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487594&idx=1&sn=c3e3f9ab8243af87e06b2bcebfe63c3f&chksm=c25fdf11f52856077eae7af5487d8508001966fce29eeaf07f2883f11af286ea878e5f7f0b07&cur_album_id=2358994630500859904&scene=189#wechat_redirect",
+      "slug": "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487594&idx=1&sn=c3e3f9ab8243af87e06b2bcebfe63c3f&chksm=c25fdf11f52856077eae7af5487d8508001966fce29eeaf07f2883f11af286ea878e5f7f0b07&cur_album_id=2358994630500859904&scene=189#wechat_redirect",
+      "id": "",
+      "doc_id": "",
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "iXiJ2fuhbJabjeko",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "iXiJ2fuhbJabjeko",
       "_serializer": "v2.toc_item"
     },
     {
@@ -1161,14 +3224,32 @@
       "visible": 1,
       "prev_uuid": "HphAs7aXOS03o40v",
       "sibling_uuid": "N4XIjJ62S1XFDYNT",
-      "child_uuid": "SweNgacodN2LNSc9",
+      "child_uuid": "SbKemwwXAj0PCLZj",
       "parent_uuid": "Dhd74Lwp6zhStPmG",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "SbKemwwXAj0PCLZj",
+      "type": "DOC",
+      "title": "龙神烈焰",
+      "url": "nua2y9cxe3xgvgwb",
+      "slug": "nua2y9cxe3xgvgwb",
+      "id": 226817606,
+      "doc_id": 226817606,
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "xQ9cgVK6kSWncbaH",
+      "sibling_uuid": "SweNgacodN2LNSc9",
+      "child_uuid": "",
+      "parent_uuid": "xQ9cgVK6kSWncbaH",
       "_serializer": "v2.toc_item"
     },
     {
       "uuid": "SweNgacodN2LNSc9",
       "type": "DOC",
-      "title": "法师瑞兹(t1)",
+      "title": "法师瑞兹",
       "url": "romkxt9k39klgwws",
       "slug": "romkxt9k39klgwws",
       "id": 226399016,
@@ -1177,7 +3258,7 @@
       "depth": 3,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "xQ9cgVK6kSWncbaH",
+      "prev_uuid": "SbKemwwXAj0PCLZj",
       "sibling_uuid": "CQwClDQrTFc5pfz0",
       "child_uuid": "",
       "parent_uuid": "xQ9cgVK6kSWncbaH",
@@ -1186,7 +3267,7 @@
     {
       "uuid": "CQwClDQrTFc5pfz0",
       "type": "DOC",
-      "title": "格斗迅捷射(t0.5)",
+      "title": "格斗迅捷射",
       "url": "fe9db36eblx6d826",
       "slug": "fe9db36eblx6d826",
       "id": 226398913,
