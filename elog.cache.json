@@ -453,14 +453,14 @@
     {
       "id": 213109662,
       "doc_id": "xcoymleeumz4vges",
-      "updated": 1751537055000,
+      "updated": 1757420211000,
       "properties": {
         "title": "payload",
         "urlname": "xcoymleeumz4vges",
         "date": "2025-03-31 08:47:29",
-        "updated": "2025-07-03 18:04:15",
+        "updated": "2025-09-09 20:16:51",
         "author": "孙武",
-        "description": "GitHub - sunwu57/ziye-security-wordlists: ziye的专属字典 \"-prompt(1)-\" \";prompt(1);// \"&gt;1 "
+        "description": "GitHub - sunwu57/ziye-security-wordlists: ziye的专属字典 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а], з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж..."
       },
       "catalog": [
         {
@@ -755,12 +755,12 @@
     {
       "id": 217841162,
       "doc_id": "lz7tg4sstgeuvovz",
-      "updated": 1747992222000,
+      "updated": 1757419301000,
       "properties": {
         "title": "JSRPC",
         "urlname": "lz7tg4sstgeuvovz",
         "date": "2025-04-30 20:33:35",
-        "updated": "2025-05-23 17:23:42",
+        "updated": "2025-09-09 20:01:41",
         "author": "孙武",
         "description": "1. 环境1.1. 靶场http://39.98.108.20:8085https://github.com/jxhczhl/JsRpchttps://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&amp;mid=2247512825&amp;idx=1&amp;sn=83296..."
       },
@@ -886,12 +886,12 @@
     {
       "id": 224859262,
       "doc_id": "dhyakwycffycd1yv",
-      "updated": 1751427519000,
+      "updated": 1755604465000,
       "properties": {
         "title": "普元eos-RCE",
         "urlname": "dhyakwycffycd1yv",
         "date": "2025-06-22 12:13:19",
-        "updated": "2025-07-02 11:38:39",
+        "updated": "2025-08-19 19:54:25",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1750599167527-6cea554f-b462-4f92-a276-075a08b32f72.png",
         "description": "/workspace/frame/permission/common/eos.jmx /default/.jmx .jmx .remove .download /java -jar ysoserial-0.0.6-SNAPSHOT-all.jar CommonsBeanutils1 \"calc..."
@@ -932,12 +932,12 @@
     {
       "id": 226399016,
       "doc_id": "romkxt9k39klgwws",
-      "updated": 1751790028000,
+      "updated": 1755077973000,
       "properties": {
         "title": "法师瑞兹",
         "urlname": "romkxt9k39klgwws",
         "date": "2025-07-03 08:31:20",
-        "updated": "2025-07-06 16:20:28",
+        "updated": "2025-08-13 17:39:33",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1751507479239-542be6c7-c094-4f7a-988d-1af1b48cab39.png",
         "description": "本阵容只有在2-5前来瑞兹时才玩速拉7级，慢d瑞兹，瑞兹装备（青龙刀，巨杀，法暴），吸血鬼，娜美，卡经济就不用追，没啥用装备优先级，瑞兹&gt;塞拉斯&gt;俄洛伊&gt;剩下的偷偷就行如果开局海克斯来魔导师（t0），则无脑冲就行，开3法，d牌时上3星界龙，d完下掉，娜美和吸血鬼换琴女和冰鸟，如果塞拉斯三星，娜..."
@@ -1054,12 +1054,12 @@
     {
       "id": 226888651,
       "doc_id": "kv9oyshdc3ybszb6",
-      "updated": 1751854814000,
+      "updated": 1755078007000,
       "properties": {
         "title": "常规打点",
         "urlname": "kv9oyshdc3ybszb6",
         "date": "2025-07-07 08:41:17",
-        "updated": "2025-07-07 10:20:14",
+        "updated": "2025-08-13 17:40:07",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1751849065772-b9e4961d-777c-4d5b-9ad3-fbd6b4d27b8f.png",
         "description": "从最基础的登录框突破登录框作为hw出现场次最多的角色，也是最容易出洞的，下面介绍一些自己常用的测试方法登录爆破小技巧像这种系统的爆破我们有两种解决方法：分析前端加密算法，写脚本模拟对密码进行加密固定密码为123456 000000 使用常见的用户名作为字典进行爆破两种方法各有优劣，我更倾向于第..."
@@ -1108,12 +1108,12 @@
     {
       "id": 226817117,
       "doc_id": "qflabl20psezz0sh",
-      "updated": 1751855542000,
+      "updated": 1755078102000,
       "properties": {
         "title": "Windows痕迹清除",
         "urlname": "qflabl20psezz0sh",
         "date": "2025-07-06 16:11:38",
-        "updated": "2025-07-07 10:32:22",
+        "updated": "2025-08-13 17:41:42",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2023/png/26698826/1675307155340-611a9cf1-28ca-4c3d-9bb0-ea042313a24e.png",
         "description": "Windows痕迹清除日志Windows的日志文件分为3类核心日志，分别是系统日志，程序日志，和安全日志系统日志(SysEvent)：记录操作系统产生的事件，如设备驱动无法正常启动或停止，系统进程崩溃等# 默认位置:%SystemRoot%\\System32\\Winevt\\Logs\\Syste..."
@@ -1135,12 +1135,12 @@
     {
       "id": 226816456,
       "doc_id": "tln619yyqwry7rbs",
-      "updated": 1751855547000,
+      "updated": 1755078046000,
       "properties": {
         "title": "swagger接口泄露",
         "urlname": "tln619yyqwry7rbs",
         "date": "2025-07-06 16:05:56",
-        "updated": "2025-07-07 10:32:27",
+        "updated": "2025-08-13 17:40:46",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751789263397-694e4559-e9e5-44ee-a9c5-469fbe1cb6bf.webp",
         "description": "swagger接口泄露在进行渗透测试中发现，存在以下接口特征，对于这种/api/v1或者/api/v2或者/api、/apis等API开头的接口前缀，是很容易出现swagger、actuator、druid泄露等，当然在我们课程中都是经常讲，也经常遇到的。对“https://www.xxxte..."
@@ -1162,12 +1162,12 @@
     {
       "id": 226945355,
       "doc_id": "kp37u978hqwbp1yh",
-      "updated": 1751873995000,
+      "updated": 1751937684000,
       "properties": {
         "title": "php序列化与反序列化",
         "urlname": "kp37u978hqwbp1yh",
         "date": "2025-07-07 14:46:02",
-        "updated": "2025-07-07 15:39:55",
+        "updated": "2025-07-08 09:21:24",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1751873959920-aa65ab64-4320-498f-9201-7a4f020ef22e.png",
         "description": "类⾥⾯所有的属性的值，都是可以⾃定义的（可以定义成任何\"对象\"：字符串、数组、函数、另⼀ 个类/对象） 利⽤pop链挖掘通法重复第⼀点__wakeup()  //使用unserialize时触发  ！！ __sleep()  //使用serialize时触发 __destruct()  //对..."
@@ -1193,12 +1193,12 @@
     {
       "id": 226950909,
       "doc_id": "ziw1xvhd07wh2ge8",
-      "updated": 1751872844000,
+      "updated": 1755078003000,
       "properties": {
         "title": "python序列化与反序列化",
         "urlname": "ziw1xvhd07wh2ge8",
         "date": "2025-07-07 15:10:29",
-        "updated": "2025-07-07 15:20:44",
+        "updated": "2025-08-13 17:40:03",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1751872586913-bd56d099-c7d9-4a49-910c-29484043eb34.png",
         "description": "Python提供两个模块来实现序列化:  cPickle和 pickle. 这两个模块功能是—样的,区别在于 cPickle是 C语言写的, 速度快;  pickle是纯 Python写的,速度慢.在Python3中已经没有cPickle模块，所以在现在这个环境下我们基本不用考虑cPickle..."
@@ -1224,12 +1224,12 @@
     {
       "id": 226945392,
       "doc_id": "bqad9c32a4ygdb6k",
-      "updated": 1751872103000,
+      "updated": 1755077979000,
       "properties": {
         "title": "java序列化与反序列化",
         "urlname": "bqad9c32a4ygdb6k",
         "date": "2025-07-07 14:46:17",
-        "updated": "2025-07-07 15:08:23",
+        "updated": "2025-08-13 17:39:39",
         "author": "孙武",
         "description": "Java 中的序列化和反序列化当在 Java 中创建对象的时候，只要我们需要这个对象，它就会一直存在。但是一旦程序终止，它们也就不复存在了。如果我们想让对象能够在程序不运行的状态下仍然能够保存它们的信息，那就需要用到序列化机制。概述通常情况下，Java 中被创建的对象的声明周期不会比 JVM ..."
       },
@@ -1250,9 +1250,114 @@
       "realName": "java序列化与反序列化",
       "relativePath": "\\安全学习手册\\web安全\\序列化与反序列化\\java序列化与反序列化.md",
       "docPath": "docs\\docs\\安全学习手册\\web安全\\序列化与反序列化"
+    },
+    {
+      "id": 230243444,
+      "doc_id": "goenv0dqh893oa1l",
+      "updated": 1753929742000,
+      "properties": {
+        "title": "jQuery XSS",
+        "urlname": "goenv0dqh893oa1l",
+        "date": "2025-07-30 16:44:06",
+        "updated": "2025-07-31 10:42:22",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/jpeg/26698826/1753865104981-a5c260ec-bfc6-4701-bf49-9c368f3249fb.jpeg",
+        "description": "POST-xss危害基本没有存在漏洞的jQuery版本在大于或等于1.2且在3.5.0之前的jQuery。漏洞存在的原因在大于或等于1.2且在3.5.0之前的jQuery版本中，即使执行了消毒（sanitize）处理，也仍会执行将来自不受信任来源的HTML传递给jQuery的DOM操作方法（即..."
+      },
+      "catalog": [
+        {
+          "title": "漏洞复现",
+          "doc_id": "goenv0dqh893oa1l"
+        }
+      ],
+      "realName": "jQuery XSS",
+      "relativePath": "\\漏洞复现\\jQuery XSS.md",
+      "docPath": "docs\\docs\\漏洞复现"
+    },
+    {
+      "id": 231622288,
+      "doc_id": "bb0f54kwh7ugzwau",
+      "updated": 1756435832000,
+      "properties": {
+        "title": "S15-斗魂无双",
+        "urlname": "bb0f54kwh7ugzwau",
+        "date": "2025-08-08 22:01:14",
+        "updated": "2025-08-29 10:50:32",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1754661684866-6a20384a-5c80-450d-a00e-bfda92d8e3db.png",
+        "description": "决斗龟"
+      },
+      "catalog": [
+        {
+          "title": "云顶之奕",
+          "doc_id": "bb0f54kwh7ugzwau"
+        }
+      ],
+      "realName": "S15-斗魂无双",
+      "relativePath": "\\云顶之奕\\S15-斗魂无双.md",
+      "docPath": "docs\\docs\\云顶之奕"
+    },
+    {
+      "id": 234419066,
+      "doc_id": "srvc1cyv52lerqib",
+      "updated": 1756804002000,
+      "properties": {
+        "title": "js调试与jsrpc",
+        "urlname": "srvc1cyv52lerqib",
+        "date": "2025-08-29 10:50:08",
+        "updated": "2025-09-02 17:06:42",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1756460228992-a95b374a-e0f9-4ba8-aaa1-45be7640c172.png",
+        "description": "案例站点http://39.98.108.20:8085/#/login为什么js调试数据传输加密的……，不js调试又如何测试呢开始调试定位发包函数由于网站使用webpacket进行打包，js变量混乱，且数据包post内容无法直接定位，这边用一个chrome插件进行定位📎v_jstools-..."
+      },
+      "catalog": [],
+      "realName": "js调试与jsrpc",
+      "relativePath": "\\js调试与jsrpc.md",
+      "docPath": "docs\\docs"
+    },
+    {
+      "id": 228388576,
+      "doc_id": "le2hdk4aiz6pbq7o",
+      "updated": 1755078285000,
+      "properties": {
+        "title": "redis主从复制",
+        "urlname": "le2hdk4aiz6pbq7o",
+        "date": "2025-07-17 10:43:22",
+        "updated": "2025-08-13 17:44:45",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1752720378893-cd9e9653-a2f5-4b4c-898f-2ae16e40cebd.png",
+        "description": "使用工具Multiple.Database.Utilization.Tools-2.1.1\\Plugins\\Redis&gt;python39 redis-cus-rogue.py 8080 exp.so在8080端口监听，即可执行命令原理相关文章https://www.cnblogs.com/xi..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "le2hdk4aiz6pbq7o"
+        }
+      ],
+      "realName": "redis主从复制",
+      "relativePath": "\\关于\\redis主从复制.md",
+      "docPath": "docs\\docs\\关于"
     }
   ],
   "catalog": [
+    {
+      "uuid": "OdfObEdSQ6RSbpqr",
+      "type": "DOC",
+      "title": "js调试与jsrpc",
+      "url": "srvc1cyv52lerqib",
+      "slug": "srvc1cyv52lerqib",
+      "id": 234419066,
+      "doc_id": 234419066,
+      "level": 0,
+      "depth": 1,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "",
+      "sibling_uuid": "XkO3T4-vV1r-qME5",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
     {
       "uuid": "XkO3T4-vV1r-qME5",
       "type": "DOC",
@@ -1265,7 +1370,7 @@
       "depth": 1,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "",
+      "prev_uuid": "OdfObEdSQ6RSbpqr",
       "sibling_uuid": "yZEQ9PhhoW_1eff3",
       "child_uuid": "",
       "parent_uuid": "",
@@ -1680,7 +1785,7 @@
       "open_window": 1,
       "visible": 1,
       "prev_uuid": "xQ9cgVK6kSWncbaH",
-      "sibling_uuid": "",
+      "sibling_uuid": "Baz0HzPvHxVTVZOZ",
       "child_uuid": "BEDlgP6u7hamKBg5",
       "parent_uuid": "Dhd74Lwp6zhStPmG",
       "_serializer": "v2.toc_item"
@@ -1830,6 +1935,24 @@
       "_serializer": "v2.toc_item"
     },
     {
+      "uuid": "Baz0HzPvHxVTVZOZ",
+      "type": "DOC",
+      "title": "S15-斗魂无双",
+      "url": "bb0f54kwh7ugzwau",
+      "slug": "bb0f54kwh7ugzwau",
+      "id": 231622288,
+      "doc_id": 231622288,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "N4XIjJ62S1XFDYNT",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "Dhd74Lwp6zhStPmG",
+      "_serializer": "v2.toc_item"
+    },
+    {
       "uuid": "ei-2gwma3II87RtG",
       "type": "TITLE",
       "title": "漏洞复现",
@@ -1843,8 +1966,26 @@
       "visible": 1,
       "prev_uuid": "Dhd74Lwp6zhStPmG",
       "sibling_uuid": "GxObxeQiBqbu0XuS",
-      "child_uuid": "JmzELftO_iZ9dCF8",
+      "child_uuid": "Ix4oMsuvfcq7fqOo",
       "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "Ix4oMsuvfcq7fqOo",
+      "type": "DOC",
+      "title": "jQuery XSS",
+      "url": "goenv0dqh893oa1l",
+      "slug": "goenv0dqh893oa1l",
+      "id": 230243444,
+      "doc_id": 230243444,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "ei-2gwma3II87RtG",
+      "sibling_uuid": "JmzELftO_iZ9dCF8",
+      "child_uuid": "",
+      "parent_uuid": "ei-2gwma3II87RtG",
       "_serializer": "v2.toc_item"
     },
     {
@@ -1859,7 +2000,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "ei-2gwma3II87RtG",
+      "prev_uuid": "Ix4oMsuvfcq7fqOo",
       "sibling_uuid": "8vhjyqm8blsdrbuA",
       "child_uuid": "",
       "parent_uuid": "ei-2gwma3II87RtG",
@@ -1915,8 +2056,26 @@
       "visible": 1,
       "prev_uuid": "ei-2gwma3II87RtG",
       "sibling_uuid": "",
-      "child_uuid": "9FL7Bjjzx7IgchY7",
+      "child_uuid": "exWEjTjt-g3hF01E",
       "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "exWEjTjt-g3hF01E",
+      "type": "DOC",
+      "title": "redis主从复制",
+      "url": "le2hdk4aiz6pbq7o",
+      "slug": "le2hdk4aiz6pbq7o",
+      "id": 228388576,
+      "doc_id": 228388576,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "sibling_uuid": "9FL7Bjjzx7IgchY7",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
       "_serializer": "v2.toc_item"
     },
     {
@@ -1931,7 +2090,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "prev_uuid": "exWEjTjt-g3hF01E",
       "sibling_uuid": "1h-E1yW67j00orkm",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",

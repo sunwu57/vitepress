@@ -4,6 +4,10 @@ export default {
       "text": "云顶之奕",
       "items": [
         {
+          "text": "S15-斗魂无双",
+          "link": "/docs/云顶之奕/S15-斗魂无双"
+        },
+        {
           "text": "索引",
           "link": "/docs/云顶之奕/索引"
         },
@@ -115,6 +119,10 @@ export default {
         {
           "text": "payload",
           "link": "/docs/关于/payload"
+        },
+        {
+          "text": "redis主从复制",
+          "link": "/docs/关于/redis主从复制"
         },
         {
           "text": "typora+PicGo+LskyPro+Obsidian实现文章管理",
@@ -261,6 +269,10 @@ export default {
         {
           "text": "Jeecg-boot常见漏洞汇总",
           "link": "/docs/漏洞复现/Jeecg-boot常见漏洞汇总"
+        },
+        {
+          "text": "jQuery XSS",
+          "link": "/docs/漏洞复现/jQuery XSS"
         },
         {
           "text": "Vite 任意文件读取漏洞（CVE-2025-30208）",
