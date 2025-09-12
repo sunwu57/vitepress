@@ -1359,6 +1359,56 @@
       "realName": "珠海国津软件科技ITSM任意文件读取漏洞",
       "relativePath": "\\漏洞复现\\珠海国津软件科技ITSM任意文件读取漏洞.md",
       "docPath": "docs\\docs\\漏洞复现"
+    },
+    {
+      "id": 236526348,
+      "doc_id": "tqy3ywk2mi9x544b",
+      "updated": 1757666604000,
+      "properties": {
+        "title": "司令奥德赛",
+        "urlname": "tqy3ywk2mi9x544b",
+        "date": "2025-09-12 16:16:44",
+        "updated": "2025-09-12 16:43:24",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1757606465216-ff7065ea-21d3-48ca-9dcf-1933fa41e59f.png",
+        "description": "优先战力海克斯(团队收益大的，不需要英雄单c的)，例如日炎棋盘、偷偷、造成小小英雄有钱的装备优先羊刀-&gt;石头装备-&gt;炸弹人装备，物理装备轮子妈-&gt;崔斯特果实轮子妈开局点金手或者随意，第二个给石头刷身体变换/抵抗，炸弹人3了给炸弹人刷减抗d牌节奏，4级如果剩30以上能冲出来一个三星就冲，冲不出来..."
+      },
+      "catalog": [
+        {
+          "title": "云顶之奕",
+          "doc_id": "tqy3ywk2mi9x544b"
+        },
+        {
+          "title": "S15-斗魂无双",
+          "doc_id": "tqy3ywk2mi9x544b"
+        }
+      ],
+      "realName": "司令奥德赛",
+      "relativePath": "\\云顶之奕\\S15-斗魂无双\\司令奥德赛.md",
+      "docPath": "docs\\docs\\云顶之奕\\S15-斗魂无双"
+    },
+    {
+      "id": 236463997,
+      "doc_id": "xb4zo7tswlgg7vtq",
+      "updated": 1757647907000,
+      "properties": {
+        "title": "burp最新版破解",
+        "urlname": "xb4zo7tswlgg7vtq",
+        "date": "2025-09-12 10:11:03",
+        "updated": "2025-09-12 11:31:47",
+        "author": "孙武",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1757646849244-53a5a57f-fa70-4b4a-b67b-acd34a1a011c.png",
+        "description": "1. 下载最新版burp(jar版本)https://portswigger.net/burp/releases#professional2. 下载最新版burp对应支持的java版本https://www.oracle.com/java/technologies/javase/jdk22-a..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "xb4zo7tswlgg7vtq"
+        }
+      ],
+      "realName": "burp最新版破解",
+      "relativePath": "\\关于\\burp最新版破解.md",
+      "docPath": "docs\\docs\\关于"
     }
   ],
   "catalog": [
@@ -1970,8 +2020,26 @@
       "visible": 1,
       "prev_uuid": "N4XIjJ62S1XFDYNT",
       "sibling_uuid": "",
-      "child_uuid": "",
+      "child_uuid": "m1U88ZsoqzdCkBT-",
       "parent_uuid": "Dhd74Lwp6zhStPmG",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "m1U88ZsoqzdCkBT-",
+      "type": "DOC",
+      "title": "司令奥德赛",
+      "url": "tqy3ywk2mi9x544b",
+      "slug": "tqy3ywk2mi9x544b",
+      "id": 236526348,
+      "doc_id": 236526348,
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "Baz0HzPvHxVTVZOZ",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "Baz0HzPvHxVTVZOZ",
       "_serializer": "v2.toc_item"
     },
     {
@@ -2096,8 +2164,26 @@
       "visible": 1,
       "prev_uuid": "ei-2gwma3II87RtG",
       "sibling_uuid": "",
-      "child_uuid": "exWEjTjt-g3hF01E",
+      "child_uuid": "Rx9zewCDq0RCqKNZ",
       "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "Rx9zewCDq0RCqKNZ",
+      "type": "DOC",
+      "title": "burp最新版破解",
+      "url": "xb4zo7tswlgg7vtq",
+      "slug": "xb4zo7tswlgg7vtq",
+      "id": 236463997,
+      "doc_id": 236463997,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "sibling_uuid": "exWEjTjt-g3hF01E",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
       "_serializer": "v2.toc_item"
     },
     {
@@ -2112,7 +2198,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "prev_uuid": "Rx9zewCDq0RCqKNZ",
       "sibling_uuid": "9FL7Bjjzx7IgchY7",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",
