@@ -453,12 +453,12 @@
     {
       "id": 213109662,
       "doc_id": "xcoymleeumz4vges",
-      "updated": 1757420211000,
+      "updated": 1757493094000,
       "properties": {
         "title": "payload",
         "urlname": "xcoymleeumz4vges",
         "date": "2025-03-31 08:47:29",
-        "updated": "2025-09-09 20:16:51",
+        "updated": "2025-09-10 16:31:34",
         "author": "孙武",
         "description": "GitHub - sunwu57/ziye-security-wordlists: ziye的专属字典 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а], з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж..."
       },
@@ -1277,12 +1277,12 @@
     {
       "id": 231622288,
       "doc_id": "bb0f54kwh7ugzwau",
-      "updated": 1756435832000,
+      "updated": 1757606468000,
       "properties": {
         "title": "S15-斗魂无双",
         "urlname": "bb0f54kwh7ugzwau",
         "date": "2025-08-08 22:01:14",
-        "updated": "2025-08-29 10:50:32",
+        "updated": "2025-09-12 00:01:08",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1754661684866-6a20384a-5c80-450d-a00e-bfda92d8e3db.png",
         "description": "决斗龟"
@@ -1300,12 +1300,12 @@
     {
       "id": 234419066,
       "doc_id": "srvc1cyv52lerqib",
-      "updated": 1756804002000,
+      "updated": 1757483578000,
       "properties": {
         "title": "js调试与jsrpc",
         "urlname": "srvc1cyv52lerqib",
         "date": "2025-08-29 10:50:08",
-        "updated": "2025-09-02 17:06:42",
+        "updated": "2025-09-10 13:52:58",
         "author": "孙武",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1756460228992-a95b374a-e0f9-4ba8-aaa1-45be7640c172.png",
         "description": "案例站点http://39.98.108.20:8085/#/login为什么js调试数据传输加密的……，不js调试又如何测试呢开始调试定位发包函数由于网站使用webpacket进行打包，js变量混乱，且数据包post内容无法直接定位，这边用一个chrome插件进行定位📎v_jstools-..."
@@ -1337,6 +1337,28 @@
       "realName": "redis主从复制",
       "relativePath": "\\关于\\redis主从复制.md",
       "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 236454803,
+      "doc_id": "gkg4934rnac7ifu2",
+      "updated": 1757640661000,
+      "properties": {
+        "title": "珠海国津软件科技ITSM任意文件读取漏洞",
+        "urlname": "gkg4934rnac7ifu2",
+        "date": "2025-09-12 09:28:41",
+        "updated": "2025-09-12 09:31:01",
+        "author": "孙武",
+        "description": "此处为语雀加密文本卡片，点击链接查看：https://www.yuque.com/sunwu-pbywz/cgsqv7/gkg4934rnac7ifu2#SuTC7"
+      },
+      "catalog": [
+        {
+          "title": "漏洞复现",
+          "doc_id": "gkg4934rnac7ifu2"
+        }
+      ],
+      "realName": "珠海国津软件科技ITSM任意文件读取漏洞",
+      "relativePath": "\\漏洞复现\\珠海国津软件科技ITSM任意文件读取漏洞.md",
+      "docPath": "docs\\docs\\漏洞复现"
     }
   ],
   "catalog": [
@@ -1966,8 +1988,26 @@
       "visible": 1,
       "prev_uuid": "Dhd74Lwp6zhStPmG",
       "sibling_uuid": "GxObxeQiBqbu0XuS",
-      "child_uuid": "Ix4oMsuvfcq7fqOo",
+      "child_uuid": "trU1dZE5zW2cYbQI",
       "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "trU1dZE5zW2cYbQI",
+      "type": "DOC",
+      "title": "珠海国津软件科技ITSM任意文件读取漏洞",
+      "url": "gkg4934rnac7ifu2",
+      "slug": "gkg4934rnac7ifu2",
+      "id": 236454803,
+      "doc_id": 236454803,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "ei-2gwma3II87RtG",
+      "sibling_uuid": "Ix4oMsuvfcq7fqOo",
+      "child_uuid": "",
+      "parent_uuid": "ei-2gwma3II87RtG",
       "_serializer": "v2.toc_item"
     },
     {
@@ -1982,7 +2022,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "ei-2gwma3II87RtG",
+      "prev_uuid": "trU1dZE5zW2cYbQI",
       "sibling_uuid": "JmzELftO_iZ9dCF8",
       "child_uuid": "",
       "parent_uuid": "ei-2gwma3II87RtG",
