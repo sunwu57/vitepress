@@ -8,6 +8,8 @@
 1. 将下载下来的最新版`burp`重命名为`burpsuite_pro_org.java`
 2. 将破解程序放到同级目录下
 
+链接: [https://pan.baidu.com/s/1uip37jljnR8uO9raXsMwyQ?pwd=avsm](https://pan.baidu.com/s/1uip37jljnR8uO9raXsMwyQ?pwd=avsm) 提取码: avsm 
+
 ![](../../images/ed04a0fd59d2ff2880c28d7cf1ec47ee.png)
 
 3. 启动`java22 -jar BurpSuiteLoader1.jar`  
