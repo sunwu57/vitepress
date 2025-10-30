@@ -8,6 +8,10 @@ export default {
           "link": "/docs/云顶之奕/S15-斗魂无双"
         },
         {
+          "text": "S15-斗魂无双2",
+          "link": "/docs/云顶之奕/S15-斗魂无双2"
+        },
+        {
           "text": "索引",
           "link": "/docs/云顶之奕/索引"
         },
@@ -49,6 +53,24 @@ export default {
           ]
         },
         {
+          "text": "S15-斗魂无双",
+          "items": [
+            {
+              "text": "司令奥德赛",
+              "link": "/docs/云顶之奕/S15-斗魂无双/司令奥德赛"
+            }
+          ]
+        },
+        {
+          "text": "S15-斗魂无双2",
+          "items": [
+            {
+              "text": "司令奥德赛",
+              "link": "/docs/云顶之奕/S15-斗魂无双2/司令奥德赛"
+            }
+          ]
+        },
+        {
           "text": "龙神回归",
           "items": [
             {
@@ -81,6 +103,10 @@ export default {
       "text": "关于",
       "items": [
         {
+          "text": "burp最新版破解",
+          "link": "/docs/关于/burp最新版破解"
+        },
+        {
           "text": "CORS",
           "link": "/docs/关于/CORS"
         },
@@ -103,6 +129,10 @@ export default {
         {
           "text": "JSRPC",
           "link": "/docs/关于/JSRPC"
+        },
+        {
+          "text": "js调试与jsrpc",
+          "link": "/docs/关于/js调试与jsrpc"
         },
         {
           "text": "jwt爆破",
@@ -207,6 +237,10 @@ export default {
         {
           "text": "语雀转vitepress示例代码",
           "link": "/docs/关于/语雀转vitepress示例代码"
+        },
+        {
+          "text": "隐藏应用列表使用教程",
+          "link": "/docs/关于/隐藏应用列表使用教程"
         }
       ]
     }
@@ -254,8 +288,25 @@ export default {
               "link": "/docs/安全学习手册/打点入门/swagger接口泄露"
             },
             {
+              "text": "常见各组件以及系统默认弱口令",
+              "link": "/docs/安全学习手册/打点入门/常见各组件以及系统默认弱口令"
+            },
+            {
               "text": "常规打点",
               "link": "/docs/安全学习手册/打点入门/常规打点"
+            }
+          ]
+        },
+        {
+          "text": "水洞集合",
+          "items": [
+            {
+              "text": "jQuery XSS 副本",
+              "link": "/docs/安全学习手册/水洞集合/jQuery XSS 副本"
+            },
+            {
+              "text": "邮件伪造（spf）漏洞",
+              "link": "/docs/安全学习手册/水洞集合/邮件伪造（spf）漏洞"
             }
           ]
         }
@@ -281,6 +332,10 @@ export default {
         {
           "text": "普元eos-RCE",
           "link": "/docs/漏洞复现/普元eos-RCE"
+        },
+        {
+          "text": "珠海国津软件科技ITSM任意文件读取漏洞",
+          "link": "/docs/漏洞复现/珠海国津软件科技ITSM任意文件读取漏洞"
         }
       ]
     }
