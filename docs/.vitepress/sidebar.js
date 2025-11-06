@@ -336,6 +336,10 @@ export default {
         {
           "text": "珠海国津软件科技ITSM任意文件读取漏洞",
           "link": "/docs/漏洞复现/珠海国津软件科技ITSM任意文件读取漏洞"
+        },
+        {
+          "text": "蓝凌ekp后台xss和sql注入",
+          "link": "/docs/漏洞复现/蓝凌ekp后台xss和sql注入"
         }
       ]
     }

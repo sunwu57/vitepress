@@ -9,7 +9,7 @@
         "urlname": "on578p3peeqksucw",
         "date": "2025-02-17 22:34:56",
         "updated": "2025-10-27 18:20:32",
-        "author": "pingX",
+        "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1739803976612-3af47b2e-5e9e-4e54-8354-e593e1a7bd46.png",
         "description": "1. 博客介绍使用vitepress框架+github存储+Elog+语雀写作+vercel部署+自定义域名子夜旅馆2. 部署2.1. VitePressVitePress 官网：VitePress 中文版2.1.1. 什么是 VitePressVitePress 是一个静态站点生成器 (SS..."
       },
@@ -33,7 +33,7 @@
         "urlname": "cc6cb6af50f74808fa4e0c665f87159a",
         "date": "2023-12-03 17:14:50",
         "updated": "2025-03-04 23:56:25",
-        "author": "pingX",
+        "author": "sunwu57",
         "description": "markdown的使用说明一、标题语法：# (一级标题)  ## (二级标题)  ### (三级标题) ......代码：# 这是一级标题 ## 这是二级标题效果:  这是一级标题这是二级标题快捷键:Ctrl+数字1~6可以快速将选中的文本调成对应级别的标题Ctrl+0可以快速将选中的文本调成..."
       },
       "catalog": [
@@ -259,7 +259,7 @@
         "urlname": "ktlz2f4rgb1x5zyv",
         "date": "2023-12-03 19:06:35",
         "updated": "2025-03-04 23:55:20",
-        "author": "pingX",
+        "author": "sunwu57",
         "description": "markdown的使用说明一、标题语法：# (一级标题)  ## (二级标题)  ### (三级标题) ......代码： # 这是一级标题 ## 这是二级标题效果: 这是一级标题 这是二级标题快捷键: Ctrl+数字1~6可以快速将选中的文本调成对应级别的标题Ctrl+0可以快速将选中的文本..."
       },
       "catalog": [
@@ -886,13 +886,13 @@
     {
       "id": 224859262,
       "doc_id": "dhyakwycffycd1yv",
-      "updated": 1755604465000,
+      "updated": 1762216118000,
       "properties": {
         "title": "普元eos-RCE",
         "urlname": "dhyakwycffycd1yv",
         "date": "2025-06-22 12:13:19",
-        "updated": "2025-08-19 19:54:25",
-        "author": "孙武",
+        "updated": "2025-11-04 08:28:38",
+        "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1750599167527-6cea554f-b462-4f92-a276-075a08b32f72.png",
         "description": "/workspace/frame/permission/common/eos.jmx /default/.jmx .jmx .remove .download /java -jar ysoserial-0.0.6-SNAPSHOT-all.jar CommonsBeanutils1 \"calc..."
       },
@@ -1518,6 +1518,28 @@
       "realName": "常见各组件以及系统默认弱口令",
       "relativePath": "\\安全学习手册\\打点入门\\常见各组件以及系统默认弱口令.md",
       "docPath": "docs\\docs\\安全学习手册\\打点入门"
+    },
+    {
+      "id": 243198615,
+      "doc_id": "gy73467kh48tpr9f",
+      "updated": 1762162758000,
+      "properties": {
+        "title": "蓝凌ekp后台xss和sql注入",
+        "urlname": "gy73467kh48tpr9f",
+        "date": "2025-11-03 17:19:32",
+        "updated": "2025-11-03 17:39:18",
+        "author": "sunwu57",
+        "description": "此处为语雀加密文本卡片，点击链接查看：https://www.yuque.com/sunwu-pbywz/cgsqv7/gy73467kh48tpr9f#ZqtLV"
+      },
+      "catalog": [
+        {
+          "title": "漏洞复现",
+          "doc_id": "gy73467kh48tpr9f"
+        }
+      ],
+      "realName": "蓝凌ekp后台xss和sql注入",
+      "relativePath": "\\漏洞复现\\蓝凌ekp后台xss和sql注入.md",
+      "docPath": "docs\\docs\\漏洞复现"
     }
   ],
   "catalog": [
@@ -1534,42 +1556,6 @@
       "open_window": 1,
       "visible": 1,
       "prev_uuid": "",
-      "sibling_uuid": "4Qy9onSjMZYq9WVO",
-      "child_uuid": "",
-      "parent_uuid": "",
-      "_serializer": "v2.toc_item"
-    },
-    {
-      "uuid": "4Qy9onSjMZYq9WVO",
-      "type": "DOC",
-      "title": "无标题文档",
-      "url": "dtutmxxt04hgpv5w",
-      "slug": "dtutmxxt04hgpv5w",
-      "id": 241806855,
-      "doc_id": 241806855,
-      "level": 0,
-      "depth": 1,
-      "open_window": 1,
-      "visible": 0,
-      "prev_uuid": "WQLWpnB4T3jQy2Ud",
-      "sibling_uuid": "JlE4Z-FayPSZWeDo",
-      "child_uuid": "",
-      "parent_uuid": "",
-      "_serializer": "v2.toc_item"
-    },
-    {
-      "uuid": "JlE4Z-FayPSZWeDo",
-      "type": "DOC",
-      "title": "无标题文档",
-      "url": "ofghp7bab4a7xy4f",
-      "slug": "ofghp7bab4a7xy4f",
-      "id": 241806813,
-      "doc_id": 241806813,
-      "level": 0,
-      "depth": 1,
-      "open_window": 1,
-      "visible": 0,
-      "prev_uuid": "4Qy9onSjMZYq9WVO",
       "sibling_uuid": "XkO3T4-vV1r-qME5",
       "child_uuid": "",
       "parent_uuid": "",
@@ -1587,7 +1573,7 @@
       "depth": 1,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "JlE4Z-FayPSZWeDo",
+      "prev_uuid": "WQLWpnB4T3jQy2Ud",
       "sibling_uuid": "yZEQ9PhhoW_1eff3",
       "child_uuid": "",
       "parent_uuid": "",
@@ -2273,8 +2259,26 @@
       "visible": 1,
       "prev_uuid": "Dhd74Lwp6zhStPmG",
       "sibling_uuid": "GxObxeQiBqbu0XuS",
-      "child_uuid": "trU1dZE5zW2cYbQI",
+      "child_uuid": "oonSgx0Jlk9bHDw5",
       "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "oonSgx0Jlk9bHDw5",
+      "type": "DOC",
+      "title": "蓝凌ekp后台xss和sql注入",
+      "url": "gy73467kh48tpr9f",
+      "slug": "gy73467kh48tpr9f",
+      "id": 243198615,
+      "doc_id": 243198615,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "ei-2gwma3II87RtG",
+      "sibling_uuid": "trU1dZE5zW2cYbQI",
+      "child_uuid": "",
+      "parent_uuid": "ei-2gwma3II87RtG",
       "_serializer": "v2.toc_item"
     },
     {
@@ -2289,7 +2293,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "ei-2gwma3II87RtG",
+      "prev_uuid": "oonSgx0Jlk9bHDw5",
       "sibling_uuid": "Ix4oMsuvfcq7fqOo",
       "child_uuid": "",
       "parent_uuid": "ei-2gwma3II87RtG",

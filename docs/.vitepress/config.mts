@@ -34,6 +34,7 @@ export default defineConfig({
        {  text: '安全学习入门',
       items: [
        { text: '安全学习手册', link: '/docs/安全学习手册/打点入门/常规打点' },
+       { text: '漏洞复现', link: '/docs/漏洞复现/珠海国津软件科技ITSM任意文件读取漏洞' },
       ] },
       { text: '爱发电', link: 'https://afdian.com/dashboard/stats' },
       { text: '云顶之奕', link: '/docs/云顶之奕/索引'},
@@ -46,6 +47,7 @@ export default defineConfig({
       {  text: '友链',
       items: [
        { text: '红细胞安全实验室', link: 'https://redcellsec.cn' },
+       { text: '红细胞安全实验室-yinsel', link: 'https://blog.yinsel.redcellsec.cn' },
       ] },
       // { text: '短路由模式', link: '/docs-shorturl/ssuhngw0yb3dgkkg', activeMatch: '/docs-shorturl/' }
     ],
