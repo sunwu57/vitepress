@@ -284,6 +284,10 @@ export default {
           "text": "打点入门",
           "items": [
             {
+              "text": "js加解密",
+              "link": "/docs/安全学习手册/打点入门/js加解密"
+            },
+            {
               "text": "swagger接口泄露",
               "link": "/docs/安全学习手册/打点入门/swagger接口泄露"
             },

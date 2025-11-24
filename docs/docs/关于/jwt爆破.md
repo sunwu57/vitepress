@@ -36,7 +36,7 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIn0.4v8PzHfAjT4yRlN
 
 + `-m 16500`：JWT HS256 的 Hashcat 模式
 + `-a 0`：字典攻击模式
-+ `22.txt`：包含 JWT 的 `<font style="color:rgb(29, 26, 32);background-color:rgb(255, 251, 255);">Private/Secret Key</font>`
++ `22.txt`：`完整jwt`
 + `passwords.txt`：字典文件
 + -w 3 使用gpu加速破解(需要快速破解，但希望系统仍能进行其他任务（如浏览网页、观看视频）。)
 

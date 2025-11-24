@@ -96,14 +96,14 @@
     {
       "id": 211004886,
       "doc_id": "qlc13al0flbxrsoc",
-      "updated": 1742225934000,
+      "updated": 1763113827000,
       "properties": {
         "title": "jwt爆破",
         "urlname": "qlc13al0flbxrsoc",
         "date": "2025-03-17 22:25:04",
-        "updated": "2025-03-17 23:38:54",
-        "author": "孙武",
-        "description": "1. 什么是jwt？1.1. 使用 Hashcat 爆破 JWT（JSON Web Token）JWT 主要由三部分组成：Header（头部）Payload（负载）Signature（签名）其中，Signature 是基于 HMAC、RSA 或 ECDSA 进行签名的。Hashcat 只能破解..."
+        "updated": "2025-11-14 17:50:27",
+        "author": "sunwu57",
+        "description": "1. 什么是jwt？1.1. 使用 Hashcat 爆破 JWT（JSON Web Token）JWT 主要由三部分组成：Header（头部）Payload（负载）Signature（签名）其中，Signature 是基于 HMAC、RSA 或 ECDSA"
       },
       "catalog": [
         {
@@ -453,13 +453,13 @@
     {
       "id": 213109662,
       "doc_id": "xcoymleeumz4vges",
-      "updated": 1761558111000,
+      "updated": 1763460686000,
       "properties": {
         "title": "payload",
         "urlname": "xcoymleeumz4vges",
         "date": "2025-03-31 08:47:29",
-        "updated": "2025-10-27 17:41:51",
-        "author": "pingX",
+        "updated": "2025-11-18 18:11:26",
+        "author": "sunwu57",
         "description": "GitHub - sunwu57/ziye-security-wordlists: ziye的专属字典 а='',б=!а+а,в=!б+а,г=а+{},д=б[а++],е=б[ж=а], з=++ж+а,и=г[ж+з],б[и+=г[а]+(б.в+г)[а]+в[з]+д+е+б[ж..."
       },
       "catalog": [
@@ -886,12 +886,12 @@
     {
       "id": 224859262,
       "doc_id": "dhyakwycffycd1yv",
-      "updated": 1762216118000,
+      "updated": 1762762441000,
       "properties": {
         "title": "普元eos-RCE",
         "urlname": "dhyakwycffycd1yv",
         "date": "2025-06-22 12:13:19",
-        "updated": "2025-11-04 08:28:38",
+        "updated": "2025-11-10 16:14:01",
         "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1750599167527-6cea554f-b462-4f92-a276-075a08b32f72.png",
         "description": "/workspace/frame/permission/common/eos.jmx /default/.jmx .jmx .remove .download /java -jar ysoserial-0.0.6-SNAPSHOT-all.jar CommonsBeanutils1 \"calc..."
@@ -1300,15 +1300,15 @@
     {
       "id": 234419066,
       "doc_id": "srvc1cyv52lerqib",
-      "updated": 1759975713000,
+      "updated": 1763872995000,
       "properties": {
         "title": "js调试与jsrpc",
         "urlname": "srvc1cyv52lerqib",
         "date": "2025-08-29 10:50:08",
-        "updated": "2025-10-09 10:08:33",
-        "author": "pingX",
+        "updated": "2025-11-23 12:43:15",
+        "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1756460228992-a95b374a-e0f9-4ba8-aaa1-45be7640c172.png",
-        "description": "案例站点http://39.98.108.20:8085/#/login为什么js调试数据传输加密的……，不js调试又如何测试呢开始调试定位发包函数由于网站使用webpacket进行打包，js变量混乱，且数据包post内容无法直接定位，这边用一个chrome插件进行定位📎v_jstools-..."
+        "description": "案例站点http://39.98.108.20:8085/#/login为什么js调试数据传输加密的……，不js调试又如何测试呢开始调试定位发包函数由于网站使用webpacket进行打包，js变量混乱，且数据包post内容无法直接定位，这边用一个chrome插件进行定位"
       },
       "catalog": [
         {
@@ -1522,12 +1522,12 @@
     {
       "id": 243198615,
       "doc_id": "gy73467kh48tpr9f",
-      "updated": 1762162758000,
+      "updated": 1762736347000,
       "properties": {
         "title": "蓝凌ekp后台xss和sql注入",
         "urlname": "gy73467kh48tpr9f",
         "date": "2025-11-03 17:19:32",
-        "updated": "2025-11-03 17:39:18",
+        "updated": "2025-11-10 08:59:07",
         "author": "sunwu57",
         "description": "此处为语雀加密文本卡片，点击链接查看：https://www.yuque.com/sunwu-pbywz/cgsqv7/gy73467kh48tpr9f#ZqtLV"
       },
@@ -1540,6 +1540,32 @@
       "realName": "蓝凌ekp后台xss和sql注入",
       "relativePath": "\\漏洞复现\\蓝凌ekp后台xss和sql注入.md",
       "docPath": "docs\\docs\\漏洞复现"
+    },
+    {
+      "id": 246043097,
+      "doc_id": "hgbiyledh3i6m18t",
+      "updated": 1763985677000,
+      "properties": {
+        "title": "js加解密",
+        "urlname": "hgbiyledh3i6m18t",
+        "date": "2025-11-24 20:01:17",
+        "updated": "2025-11-24 20:01:17",
+        "author": "sunwu57",
+        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1763695607491-1b436e82-6d50-42dc-bc1e-402baed82744.png"
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "hgbiyledh3i6m18t"
+        },
+        {
+          "title": "打点入门",
+          "doc_id": "hgbiyledh3i6m18t"
+        }
+      ],
+      "realName": "js加解密",
+      "relativePath": "\\安全学习手册\\打点入门\\js加解密.md",
+      "docPath": "docs\\docs\\安全学习手册\\打点入门"
     }
   ],
   "catalog": [
@@ -1755,8 +1781,26 @@
       "visible": 1,
       "prev_uuid": "2EH1CjIKL6lt4hLT",
       "sibling_uuid": "wslkKrydaOUmHZ6q",
-      "child_uuid": "qb1KLFp2FGF33Hoi",
+      "child_uuid": "e7IVtTrRZsvs2OCl",
       "parent_uuid": "yZEQ9PhhoW_1eff3",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "e7IVtTrRZsvs2OCl",
+      "type": "DOC",
+      "title": "js加解密",
+      "url": "hgbiyledh3i6m18t",
+      "slug": "hgbiyledh3i6m18t",
+      "id": 246043097,
+      "doc_id": 246043097,
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "O4Mm4r_D1gnze3vA",
+      "sibling_uuid": "qb1KLFp2FGF33Hoi",
+      "child_uuid": "",
+      "parent_uuid": "O4Mm4r_D1gnze3vA",
       "_serializer": "v2.toc_item"
     },
     {
@@ -1771,7 +1815,7 @@
       "depth": 3,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "O4Mm4r_D1gnze3vA",
+      "prev_uuid": "e7IVtTrRZsvs2OCl",
       "sibling_uuid": "0BHgn2mKmT7_LZw_",
       "child_uuid": "",
       "parent_uuid": "O4Mm4r_D1gnze3vA",
