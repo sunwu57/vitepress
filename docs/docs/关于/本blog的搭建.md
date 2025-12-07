@@ -1285,7 +1285,7 @@ git push -u origin main --force
 ## <font style="color:rgb(31, 35, 40);">部署到 Vercel</font>
 <font style="color:rgb(31, 35, 40);">注册</font>[ Vercel](https://vercel.com/)<font style="color:rgb(31, 35, 40);"> 账号并绑定 Github，在 Vercel 导入 该项目，Vercel 会自动识别出该 VitePress 项目，不需要改动，直接选择 Deploy 部署。部署完成会有一个 Vercel 临时域名，你也可以绑定自己的域名。</font>
 
-![](../../images/3262d4fee014e5f89e2faed3296f5522.png)![](../../images/eabb3bebbfc5de266ddefd7648e940f0.png)
+![](https://camo.githubusercontent.com/cbb81a9ba9c325fa12d2c693188237a5f410d5ef6f7e2f5f4609b00f66de1c8d/68747470733a2f2f696d6167652e313837342e636f6f6c2f313837342f3230323331313139303132323036302e706e67)![](../../images/eabb3bebbfc5de266ddefd7648e940f0.png)
 
 ## 进行域名绑定
 Domains->Add  
