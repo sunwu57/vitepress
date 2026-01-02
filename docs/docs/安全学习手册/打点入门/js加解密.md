@@ -1,4 +1,4 @@
-jxhczhl/jsrpc
+建议先看《js调试与jsrpc》这个
 
 ## 常⻅加密⽅式
 | <font style="color:rgb(38,38,38);">加密⽅式 </font> | <font style="color:rgb(38,38,38);">对称加密 </font> | <font style="color:rgb(38,38,38);">⾮对称加密 </font> | <font style="color:rgb(38,38,38);">哈希算法</font> |
@@ -385,6 +385,14 @@ afterRequest = func(https, originReq, req, originRsp, rsp) {
 ![](../../../images/eeb0355d2256935ce1c5581394979b81.png)
 
 #### 补充
+##### 提示微信版本过低无法登陆
+先安装最新版本的微信，然后再安装`<font style="color:rgb(31,35,40);">3.9.10.19</font>`<font style="color:rgb(31,35,40);">版本，就可以使用低版本了</font>
+
+##### <font style="color:rgb(31,35,40);">打开程序闪退</font>
+请确保小程序版本为`8555`，如果有其他版本请删除
+
+![](../../../images/1d6ef855504d1d74b39d64e370e729f9.png)
+
 ##### arm版本一键f12工具
 [https://github.com/f4l1k/WeChatOpenDevTools-Python-arm](https://github.com/f4l1k/WeChatOpenDevTools-Python-arm)
 

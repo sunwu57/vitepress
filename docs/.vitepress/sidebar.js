@@ -74,6 +74,10 @@ export default {
           "text": "S16-传奇",
           "items": [
             {
+              "text": "442大悲",
+              "link": "/docs/云顶之奕/S16-传奇/442大悲"
+            },
+            {
               "text": "4法95",
               "link": "/docs/云顶之奕/S16-传奇/4法95"
             },
@@ -94,12 +98,20 @@ export default {
               "link": "/docs/云顶之奕/S16-传奇/梅尔95"
             },
             {
+              "text": "比尔95(12.13最强)",
+              "link": "/docs/云顶之奕/S16-传奇/比尔95(12.13最强)"
+            },
+            {
               "text": "比尔95",
               "link": "/docs/云顶之奕/S16-传奇/比尔95"
             },
             {
               "text": "炼金flex(一般)",
               "link": "/docs/云顶之奕/S16-传奇/炼金flex(一般)"
+            },
+            {
+              "text": "艾欧尼亚",
+              "link": "/docs/云顶之奕/S16-传奇/艾欧尼亚"
             },
             {
               "text": "虚空拼多多",
@@ -112,6 +124,10 @@ export default {
             {
               "text": "霸王龙(极难运营 ，成型约等于三星四费)",
               "link": "/docs/云顶之奕/S16-传奇/霸王龙(极难运营 ，成型约等于三星四费)"
+            },
+            {
+              "text": "霸王龙",
+              "link": "/docs/云顶之奕/S16-传奇/霸王龙"
             }
           ]
         },
@@ -348,6 +364,10 @@ export default {
             {
               "text": "js加解密",
               "link": "/docs/安全学习手册/打点入门/js加解密"
+            },
+            {
+              "text": "js调试与jsrpc",
+              "link": "/docs/安全学习手册/打点入门/js调试与jsrpc"
             },
             {
               "text": "swagger接口泄露",

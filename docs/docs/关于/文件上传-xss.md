@@ -64,7 +64,7 @@ alert(/618/);
 ```
 
 ```plain
-<svg style="background-image: url('javascript:alert(1)');">
-<svg style="width: expression(alert(1));"> <!-- IE特有的CSS表达式攻击 -->
+<svg style="background-image: url('javascript:alert(1)');">
+<svg style="width: expression(alert(1));"> <!-- IE特有的CSS表达式攻击 -->
 ```
 
