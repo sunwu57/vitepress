@@ -1836,14 +1836,14 @@
     {
       "id": 246200054,
       "doc_id": "yl7ef85x5ax49cgr",
-      "updated": 1766543051000,
+      "updated": 1767664475000,
       "properties": {
         "title": "其他",
         "urlname": "yl7ef85x5ax49cgr",
         "date": "2025-11-25 21:59:11",
-        "updated": "2025-12-24 10:24:11",
+        "updated": "2026-01-06 09:54:35",
         "author": "sunwu57",
-        "description": "App1. r0capture(wirshark-&gt;bp)https://github.com/r0ysue/r0capture2. MikManagerhttps://github.com/dqzg12300/MikManager开发1."
+        "description": "App1. r0capture(wirshark-&gt;bp)https://github.com/r0ysue/r0capture2. MikManagerhttps://github.com/dqzg12300/MikManager3."
       },
       "catalog": [
         {
@@ -1989,6 +1989,33 @@
       "realName": "js调试与jsrpc",
       "relativePath": "\\安全学习手册\\打点入门\\js调试与jsrpc.md",
       "docPath": "docs\\docs\\安全学习手册\\打点入门"
+    },
+    {
+      "id": 252057919,
+      "doc_id": "gv351xw5nhh2nzop",
+      "updated": 1767781304000,
+      "properties": {
+        "title": "通过patch进行免杀",
+        "urlname": "gv351xw5nhh2nzop",
+        "date": "2026-01-07 08:53:24",
+        "updated": "2026-01-07 18:21:44",
+        "author": "sunwu57",
+        "cover": "https://cdn.nlark.com/yuque/0/2026/png/26698826/1767754872271-c5083f04-00c7-4686-a235-1736cc67e33d.png",
+        "description": "1. 参考链接https://github.com/sunwu57/patch-studyhttps://github.com/yinsel/BypassAVhttps://xz.aliyun.com/news/14518"
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "gv351xw5nhh2nzop"
+        },
+        {
+          "title": "后渗透",
+          "doc_id": "gv351xw5nhh2nzop"
+        }
+      ],
+      "realName": "通过patch进行免杀",
+      "relativePath": "\\安全学习手册\\后渗透\\通过patch进行免杀.md",
+      "docPath": "docs\\docs\\安全学习手册\\后渗透"
     }
   ],
   "catalog": [
@@ -2384,8 +2411,26 @@
       "visible": 1,
       "prev_uuid": "O4Mm4r_D1gnze3vA",
       "sibling_uuid": "iXiJ2fuhbJabjeko",
-      "child_uuid": "-n5I2mRtrIvthq7n",
+      "child_uuid": "bn-xyj2CR3pd588M",
       "parent_uuid": "yZEQ9PhhoW_1eff3",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "bn-xyj2CR3pd588M",
+      "type": "DOC",
+      "title": "通过patch进行免杀",
+      "url": "gv351xw5nhh2nzop",
+      "slug": "gv351xw5nhh2nzop",
+      "id": 252057919,
+      "doc_id": 252057919,
+      "level": 2,
+      "depth": 3,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "wslkKrydaOUmHZ6q",
+      "sibling_uuid": "-n5I2mRtrIvthq7n",
+      "child_uuid": "",
+      "parent_uuid": "wslkKrydaOUmHZ6q",
       "_serializer": "v2.toc_item"
     },
     {
@@ -2400,7 +2445,7 @@
       "depth": 3,
       "open_window": 0,
       "visible": 1,
-      "prev_uuid": "wslkKrydaOUmHZ6q",
+      "prev_uuid": "bn-xyj2CR3pd588M",
       "sibling_uuid": "",
       "child_uuid": "",
       "parent_uuid": "wslkKrydaOUmHZ6q",

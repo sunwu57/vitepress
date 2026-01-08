@@ -338,6 +338,10 @@ export default {
             {
               "text": "Windows痕迹清除",
               "link": "/docs/安全学习手册/后渗透/Windows痕迹清除"
+            },
+            {
+              "text": "通过patch进行免杀",
+              "link": "/docs/安全学习手册/后渗透/通过patch进行免杀"
             }
           ]
         },
