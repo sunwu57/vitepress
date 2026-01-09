@@ -392,7 +392,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-![](../../images/28816bd55b5acaec28dd60741b55c742.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811080253-34219843-dfff-42a2-804a-56fb8fa8dd30.png)
 
 <font style="color:rgb(51, 51, 51);">可以看出 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">logo</font>`<font style="color:rgb(51, 51, 51);"> 已经加上了，而且 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">sitTitle</font>`<font style="color:rgb(51, 51, 51);"> 字段覆盖了 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">title</font>`<font style="color:rgb(51, 51, 51);"> 字段</font>
 
@@ -427,10 +427,10 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-![](../../images/ab16a751a1b30be698f0fb74c90828df.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811081168-e0d3ef01-32f5-4f32-9f3a-68d31d40cb67.png)
 
 ##### <font style="color:rgb(51, 51, 51);">搜索效果展示</font>
-![](../../images/f855417fbee04e07effe08d8eb5c20c5.gif)
+![](https://cdn.nlark.com/yuque/0/2025/gif/26698826/1739811081078-25b47778-d66c-4677-98c4-a85e90954d29.gif)
 
 #### <font style="color:rgb(51, 51, 51);">导航链接：nav</font>
 <font style="color:rgb(119, 119, 119);">可以定义 themeConfig.nav 选项以将链接添加到导航栏。</font>

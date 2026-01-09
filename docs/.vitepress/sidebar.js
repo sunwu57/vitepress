@@ -264,6 +264,10 @@ export default {
           "link": "/docs/关于/反弹SHell原理与检测思路"
         },
         {
+          "text": "小程序公众号开f12",
+          "link": "/docs/关于/小程序公众号开f12"
+        },
+        {
           "text": "护网题库",
           "link": "/docs/关于/护网题库"
         },

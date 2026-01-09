@@ -1993,12 +1993,12 @@
     {
       "id": 252057919,
       "doc_id": "gv351xw5nhh2nzop",
-      "updated": 1767781304000,
+      "updated": 1767929046000,
       "properties": {
         "title": "通过patch进行免杀",
         "urlname": "gv351xw5nhh2nzop",
         "date": "2026-01-07 08:53:24",
-        "updated": "2026-01-07 18:21:44",
+        "updated": "2026-01-09 11:24:06",
         "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2026/png/26698826/1767754872271-c5083f04-00c7-4686-a235-1736cc67e33d.png",
         "description": "1. 参考链接https://github.com/sunwu57/patch-studyhttps://github.com/yinsel/BypassAVhttps://xz.aliyun.com/news/14518"
@@ -2016,6 +2016,29 @@
       "realName": "通过patch进行免杀",
       "relativePath": "\\安全学习手册\\后渗透\\通过patch进行免杀.md",
       "docPath": "docs\\docs\\安全学习手册\\后渗透"
+    },
+    {
+      "id": 252393852,
+      "doc_id": "ai6qn32cw3eikxyz",
+      "updated": 1767946695000,
+      "properties": {
+        "title": "小程序公众号开f12",
+        "urlname": "ai6qn32cw3eikxyz",
+        "date": "2026-01-09 11:24:20",
+        "updated": "2026-01-09 16:18:15",
+        "author": "sunwu57",
+        "cover": "https://cdn.nlark.com/yuque/0/2026/png/26698826/1767942219181-d180193e-d530-40e3-b71f-4be386747ce3.png",
+        "description": "微信4.0以上(暂时没找到开内置浏览器的方案，只有开小程序的)微信下载地址https://github.com/cscnk52/wechat-windows-versions/releases/download/v4.1.5.15/weixin_4.1.5.15.exe安装好微信配置fnm环境..."
+      },
+      "catalog": [
+        {
+          "title": "关于",
+          "doc_id": "ai6qn32cw3eikxyz"
+        }
+      ],
+      "realName": "小程序公众号开f12",
+      "relativePath": "\\关于\\小程序公众号开f12.md",
+      "docPath": "docs\\docs\\关于"
     }
   ],
   "catalog": [
@@ -3221,8 +3244,26 @@
       "visible": 1,
       "prev_uuid": "ei-2gwma3II87RtG",
       "sibling_uuid": "",
-      "child_uuid": "m3bEELd1-HiVUe2u",
+      "child_uuid": "834gP4ByASA0Q4bR",
       "parent_uuid": "",
+      "_serializer": "v2.toc_item"
+    },
+    {
+      "uuid": "834gP4ByASA0Q4bR",
+      "type": "DOC",
+      "title": "小程序公众号开f12",
+      "url": "ai6qn32cw3eikxyz",
+      "slug": "ai6qn32cw3eikxyz",
+      "id": 252393852,
+      "doc_id": 252393852,
+      "level": 1,
+      "depth": 2,
+      "open_window": 1,
+      "visible": 1,
+      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "sibling_uuid": "m3bEELd1-HiVUe2u",
+      "child_uuid": "",
+      "parent_uuid": "GxObxeQiBqbu0XuS",
       "_serializer": "v2.toc_item"
     },
     {
@@ -3237,7 +3278,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "GxObxeQiBqbu0XuS",
+      "prev_uuid": "834gP4ByASA0Q4bR",
       "sibling_uuid": "OdfObEdSQ6RSbpqr",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",
