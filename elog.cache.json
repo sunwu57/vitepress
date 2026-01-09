@@ -2020,12 +2020,12 @@
     {
       "id": 252393852,
       "doc_id": "ai6qn32cw3eikxyz",
-      "updated": 1767946695000,
+      "updated": 1767947526000,
       "properties": {
         "title": "小程序公众号开f12",
         "urlname": "ai6qn32cw3eikxyz",
         "date": "2026-01-09 11:24:20",
-        "updated": "2026-01-09 16:18:15",
+        "updated": "2026-01-09 16:32:06",
         "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2026/png/26698826/1767942219181-d180193e-d530-40e3-b71f-4be386747ce3.png",
         "description": "微信4.0以上(暂时没找到开内置浏览器的方案，只有开小程序的)微信下载地址https://github.com/cscnk52/wechat-windows-versions/releases/download/v4.1.5.15/weixin_4.1.5.15.exe安装好微信配置fnm环境..."
