@@ -5,7 +5,7 @@
 [https://github.com/0ctDay/encrypt-decrypt-vuls?tab=readme-ov-file](https://github.com/0ctDay/encrypt-decrypt-vuls?tab=readme-ov-file)
 
 ### 为什么js调试
-![](../../../images/4cd11d49052c319375eaebdf915be9c9.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756460228992-a95b374a-e0f9-4ba8-aaa1-45be7640c172.png)
 
 数据传输加密的……，不js调试又如何测试呢
 
@@ -15,68 +15,68 @@
 
 #### [v_jstools-main.zip](https://www.yuque.com/attachments/yuque/0/2025/zip/26698826/1766050949372-721c84d5-3f01-4037-ba70-130ff1c356c9.zip)
 安装直接解压，加载未打包的扩展程序，直接安装即可，插件配置如下  
-![](../../../images/b8378a01902f88bb453ce7faa83134bc.png)![](../../../images/ba571564d4bbd72010e3794147334c3b.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756774584125-947677b8-2be8-4ab5-a0a7-6ff827519a2f.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756774565426-652934f1-2dd2-49fc-919c-d5b8a2c4c18c.png)
 
 当提交登陆表单后，控制台打印如下内容，跟进
 
-![](../../../images/04995f650f54c8d0583ec6510453c3fc.png)![](../../../images/bc2b0e935bb74eea506398838076fb15.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756774673937-ae26ba17-e677-4fbd-be3a-048f22e7313e.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756774749229-d8f784f9-498a-4506-bac2-f864ca97d612.png)
 
 #### 进一步分析
 在给出的位置上打断点，然后重新提交表单
 
-![](../../../images/f6f3ca200c04d65042d7f80369c7ca88.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756774848634-e19734c6-8baf-4538-a346-40d58e1c9018.png)
 
 这边看一下`t.data = l(n);`在控制台进行打印
 
-![](../../../images/3024076af534cde055a8b0c9c0a9cd36.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756775009317-1ec616ea-5f63-4197-a5da-60a8ecda17e4.png)
 
 可以对比发现n是我们的表单，通过了l()这个函数的加密就得到了我们刚刚发送的密文
 
-![](../../../images/ebc580f5f6251c334938c4a44b5959f9.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756775087643-d4f06206-b026-4dff-92cc-79b80c728377.png)
 
 #### 理解了明文变密文的过程如何测试呢？有两个方法
 ##### 打断点直接调试
-1. 在加密前进行修改明文，还是老位置断点![](../../../images/59f52be16c096c5d193a7985ce735286.png)
+1. 在加密前进行修改明文，还是老位置断点![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756775432052-1855f044-8a81-4a05-93f9-882ffaa3f178.png)
 2. 在控制台进行修改
 
 其中控制台直接输入函数/变量名会直接打印函数内容或者变量值，
 
 `n='{"password":"admin123","username":"admin","validCode":"sdah"}'`的意思是将等号右边的内容赋值给左边的n
 
-![](../../../images/074c9720c95b5b3acf5027749c0fc243.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756775534869-f8857279-c234-4d0b-89b2-e20445c09f5b.png)
 
 3. 跳过后续调试直接运行
 
-![](../../../images/47885272e9e07c77ebfe4f1f880e6447.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756775764929-bf75765a-a91b-4395-9c96-ee3710cc837a.png)
 
 发现显示签名过期，这说明我断点断晚了，或者说sign没修改，导致sign校验失败
 
-![](../../../images/5fe87fd06169d8f392e9bcda74d62715.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756775838844-2cd8cdda-8057-47d1-bbf2-82a386476c39.png)
 
 sign内容是啥？  
-![](../../../images/c5b7fc3f0427f32114083ea6fcd4d57c.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756776233002-9d48faaa-eda5-4ae9-a057-c2a56170ea1e.png)
 
 看代码可以发现是s赋值给了sign，而刚刚s我们没改，所以签名不正确，这简单再来一次，这次把签名改了就行
 
-![](../../../images/6987eaf705f280423c1b9dfe7b0447bc.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756776357272-25247f2d-396b-4bc7-8777-24cda816bc7f.png)
 
 n进行了修改，s的值也得重新计算，调用原本的函数直接运行即可
 
-![](../../../images/c48b232fd8ee42d9c9d04429a3455df2.png)![](../../../images/55af177cee4052e9f4d01847ac24a2e4.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756776388300-4aa58a49-e054-468a-9d55-43ca2e833ff9.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756776402358-e3bb554d-8c5e-427f-a721-784ae4060fb8.png)
 
 4. 补充(如何查看l函数内容)
 
-![](../../../images/57ab23166a6c5b47d6b080dcae594246.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756777402626-6822b6e4-ea5a-4e71-8f4f-01e5f7ed0115.png)
 
 ![](../../../images/598ab88a115e7de92f5df597f35ef774.png)
 
 到了要运行`l(n)`的时候鼠标放在l上出现以下内容
 
-![](../../../images/ef7d06dee8cb404f46f3fe34c57461fb.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756777200407-0b7b1e01-c769-4d13-a11c-a56c25ae386d.png)
 
 点击跟进
 
-![](../../../images/c91a74a8202fe696e1b5abca662dc43f.png)![](../../../images/1027e12d20ed1d5792d2a8c6b41a9029.png)
+![](../../../images/c91a74a8202fe696e1b5abca662dc43f.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756777315000-f632161e-d1bf-4fc9-93f1-4e4d43b495c3.png)
 
 <font style="color:rgb(63, 63, 63);">其中t参数为原始的内容，f参数为密钥，h为密码，在部分项目上也算个垃圾漏洞(密钥泄漏)</font>
 
@@ -89,7 +89,7 @@ n进行了修改，s的值也得重新计算，调用原本的函数直接运行
 
 #### jsrpc(稍微高级些)
 ##### 启动jsrpc并注入js代码
-![](../../../images/cfc4b4a5750d91be3a1a9210b97d89c6.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756778000646-af095a4c-079b-4433-abe6-88e28c61217d.png)
 
 将下面这一段粘贴到控制台
 
@@ -210,7 +210,7 @@ Hlclient.prototype.sendResult = function (action, message_id, e) {
 }
 ```
 
-![](../../../images/289f1853aecafef01d51b205679a0e79.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756781522205-4f013769-fa4d-4b7e-ab35-f4d6febc95ed.png)
 
 上面的js执行结果不报错即可，
 
@@ -218,7 +218,7 @@ Hlclient.prototype.sendResult = function (action, message_id, e) {
 var demo = new Hlclient("ws://127.0.0.1:12080/ws?group=zzz");
 ```
 
-上面这个也复制到控制台，效果是与本地jsrpc客户端建立连接，显示rpc连接成功即可![](../../../images/b1cfaacc4dc50654e4cb0018800d9040.png)![](../../../images/e6f338ef88738c21466d157c57851194.png)
+上面这个也复制到控制台，效果是与本地jsrpc客户端建立连接，显示rpc连接成功即可![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756778534762-98d9a0da-fd43-4075-8298-2fb9e419e9d9.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756778558753-2b966d01-d0bb-4cae-8f05-c958f3436d78.png)
 
 ##### 开始构建函数
 这里函数什么意思，就是想要把网页js的什么功能代理到本地
@@ -258,7 +258,7 @@ demo.regAction("req7", function (resolve,param) {
 
 老位置断点，js函数构建
 
-![](../../../images/afb22d57f84ff557a51f94b426f4107b.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756782786530-644de61d-47f9-42ac-b98a-ef82cd3653aa.png)
 
 然后再放开断点
 
@@ -268,7 +268,7 @@ GET /go?group=zzz&action=req7&param={"password":"123","username":"test","validCo
 Host: 127.0.0.1:12080
 ```
 
-![](../../../images/0228d69061da447a5163aa3d483b9fdc.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756783808017-f9d56893-b686-4c7b-b352-b978f0a58850.png)
 
 成功构建req7
 
@@ -326,13 +326,13 @@ beforeRequest = func(req) {
 
 ```
 
-![](../../../images/a04bd94e50a0fbdd7348d4c5c885ebe0.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756803854929-2b08c124-629a-4685-ac5f-12ccb57eb3db.png)
 
-![](../../../images/261e2571b592992cc9bbaf0c43f90d76.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756800140387-1c7e2894-af85-4064-9958-8bd5a90e1f7c.png)
 
 成功获取密码
 
-![](../../../images/f5fcac0f77bf7856e588f43c1bb54c2f.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756803932630-b253fb64-17f4-4f60-b50f-fa7a2fd29644.png)
 
 参考[https://blog.csdn.net/2201_75556043/article/details/149946548](https://blog.csdn.net/2201_75556043/article/details/149946548)
 

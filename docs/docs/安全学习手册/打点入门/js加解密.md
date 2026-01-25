@@ -53,17 +53,17 @@ node src/proxy-server/proxy-server.js
 
 1. 流量代理到本地的10086端口
 2. f12进入网络，刷新页面，获取一段密文
-3. 使用`hook.search("密文")`进行搜索（<font style="color:#DF2A3F;">如果没hook说明上面的流程没走成功</font>），一般第一个就是，点击链接进入![](../../../images/a44adf7d04c139a527eef5457ef6f86b.png)
+3. 使用`hook.search("密文")`进行搜索（<font style="color:#DF2A3F;">如果没hook说明上面的流程没走成功</font>），一般第一个就是，点击链接进入![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763695607491-1b436e82-6d50-42dc-bc1e-402baed82744.png)
 4. 跳到入图，可以发现用的关键字是`1.key``0e.doEncrypt`
 
-![](../../../images/3cc697273819b1db050cde9c23d9b140.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763688665637-dd4c3e90-c6c2-4f1b-8498-15855626444f.png)
 
 5. 取消代理，正常访问，定位关键字，断点，发包，发现成功断到明文加密位置
 
-![](../../../images/b7c115887b1e0d0a27bff00ec26773c5.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763693026913-0ab7feaa-47c3-4f96-931a-a4b64e5baac7.png)
 
 ##### 集中采购管理系统
-![](../../../images/251ef06f80c0b3d0c91edc57751216d7.png)![](../../../images/ecb8f31f329c3f6dbda77494e1fa18af.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763727514513-f4c75d95-6419-4960-bcb0-6c95d8c7d3c5.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763727220768-1bd6ed4b-9055-4b38-963c-40d175c9428c.png)
 
 #### 方案不足
 1. 环境难配
@@ -77,19 +77,19 @@ node src/proxy-server/proxy-server.js
 [https://github.com/cilame/v_jstools](https://github.com/cilame/v_jstools)
 
 #### 使用方法
-![](../../../images/b8378a01902f88bb453ce7faa83134bc.png)![](../../../images/a793c85c7e0cd02c1840dfa4a89a3d53.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756774584125-947677b8-2be8-4ab5-a0a7-6ff827519a2f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_18%2Ctext_eml5ZQ%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10%2Fformat%2Cwebp)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763810901543-7a5134cb-2b73-471e-ab43-70342c017ce4.png)
 
 根据图中的勾选即可，由于网站开发者通常系统使用json进行数据传输，以及使用base64编码数据，这边勾上即可在编码时在浏览器控制台输出对应的加密点
 
 1. 当提交登陆表单后，控制台打印如下内容，跟进
 
-![](../../../images/04995f650f54c8d0583ec6510453c3fc.png)![](../../../images/bc2b0e935bb74eea506398838076fb15.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756774673937-ae26ba17-e677-4fbd-be3a-048f22e7313e.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_96%2Ctext_eml5ZQ%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10%2Fformat%2Cwebp)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756774749229-d8f784f9-498a-4506-bac2-f864ca97d612.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_51%2Ctext_eml5ZQ%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10%2Fformat%2Cwebp)
 
 #### 方案不足
 1. 默认只能处理最常见的编码，经常hook不到加密位置
 
 ### 方法五-栈调用
-![](../../../images/f1ae7a1f029fc23464877cd9aac5c143.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763895082690-5ffc03a9-7f94-4dea-a891-41ed11abab36.png)
 
 ## JsRpc
 #### 项目地址
@@ -100,7 +100,7 @@ JSRPC 利用 RPC 的核心思想，通过 webSocket 协议将浏览器中的 JS 
 ### 使用方法
 #### 贵金属商城
 ##### 定位加密函数位置
-![](../../../images/22716744191d7963a3ef8bdf75c66837.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763871066558-07d02b25-9e41-48c8-9949-6876dcc8eb3c.png)
 
 #####  简单的分析
 ```plain
@@ -114,7 +114,7 @@ t = 1
 
 ##### 使用方法
 ###### 启动jsrpc
-![](../../../images/32ee81e16980ff2bb71bdb58c33009d2.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763878141438-c8b340e4-a4c4-4fb9-aa91-e8c5192ed282.png)
 
 ###### jsrpc注入浏览器
 1. 放开断点
@@ -238,7 +238,7 @@ Hlclient.prototype.sendResult = function (action, message_id, e) {
 var demo = new Hlclient("ws://127.0.0.1:12080/ws?group=zzz");
 ```
 
-![](../../../images/ff53b28b65e40eca2a7283a595c59c00.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763878303987-c4a33bc1-6864-4df8-92e9-f83fac865d96.png)
 
 ###### 编写远程调用的函数
 ```plain
@@ -276,7 +276,7 @@ Content-Length: 24
 action=getkey1&group=zzz
 ```
 
-![](../../../images/14e4e28fd7b3aaad2b07ecd508466c6e.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763880506312-23a61998-2b16-4672-8a78-49a40fc5326e.png)
 
 ```plain
 POST /go HTTP/1.1
@@ -288,7 +288,7 @@ Content-Length: 24
 action=gethmac1&group=zzz&param={"o":{"requestTime":1763879406185}}
 ```
 
-![](../../../images/a2add187d956b13a9ead8553e3d538fd.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763881396012-1fdfefb2-d4c2-4e14-a5fe-89156d24d0c0.png)
 
 ###### 编写yakit热加载，实现明文数据传输
 ```plain
@@ -361,7 +361,7 @@ afterRequest = func(https, originReq, req, originRsp, rsp) {
 
 ```
 
-![](../../../images/978b61e14f57349cad919ec2db6cd4f9.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763892439940-40f1270f-7d78-42df-a3ce-bb6c17f6f13b.png)
 
 至于mitm模块的热加载需要改一下，懒得写了
 
@@ -382,7 +382,7 @@ afterRequest = func(https, originReq, req, originRsp, rsp) {
 4. `WechatOpenDevTools-Python.exe -x`
 5. `devtools`打开控制台
 
-![](../../../images/eeb0355d2256935ce1c5581394979b81.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763894402219-9dbc3e4b-c718-4a23-a84e-dbe0fba3d590.png)
 
 #### 补充
 ##### 提示微信版本过低无法登陆
@@ -391,7 +391,7 @@ afterRequest = func(https, originReq, req, originRsp, rsp) {
 ##### <font style="color:rgb(31,35,40);">打开程序闪退</font>
 请确保小程序版本为`8555`，如果有其他版本请删除
 
-![](../../../images/1d6ef855504d1d74b39d64e370e729f9.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1766051226016-6fa6322a-7f99-404b-8b99-4a7205cc93ac.png)
 
 ##### arm版本一键f12工具
 [https://github.com/f4l1k/WeChatOpenDevTools-Python-arm](https://github.com/f4l1k/WeChatOpenDevTools-Python-arm)
@@ -525,10 +525,10 @@ demo.regAction("getData", function (resolve,param) {
 如果不能用就参考[https://github.com/jxhczhl/JsRpc/issues/25](https://github.com/jxhczhl/JsRpc/issues/25)
 
 ### 案例一：南京银行鑫微厅
-1. 定位加密位置![](../../../images/15c0232853c4b16e808ea725c0a0bf69.png)
+1. 定位加密位置![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763897805239-6563b0ba-33f9-4317-8d0c-6885e4d6619d.png)
 
 #### 方法一：ce改内存
-![](../../../images/28000d5ae6014d54dbbe848fcf784fdf.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763897922620-40c50218-65b5-404c-97f9-0fcda36a4458.png)
 
 ```plain
 原
@@ -541,7 +541,297 @@ for(var t=function(e,t){return "123123123123"/*111111111111111111111111111111111
 
 #### 方法二：改js（主推）
 1. 清理掉本地所有小程序相关文件
-2. bp抓包，在加密的js出现时，响应中加入固定的key，使本地保存的js是修改后的js，后面小程序优先调用本地js就可以固定密钥了![](../../../images/f3d3d8f5d208357a7b37abff6e60fda6.png)
+2. bp抓包，在加密的js出现时，响应中加入固定的key，使本地保存的js是修改后的js，后面小程序优先调用本地js就可以固定密钥了![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763898573129-3f72742e-df4f-47e6-8690-14bd0dc68818.png)
+
+```plain
+// 1. 微信小程序环境适配
+const isWechatMiniProgram = typeof wx !== 'undefined' && wx.connectSocket;
+
+// 全局变量直接挂载到globalThis
+globalThis.rpc_client_id = wx && wx.getStorageSync ? wx.getStorageSync('rpc_client_id') || '' : '';
+
+// 2. 构造函数 - 适配小程序API
+globalThis.Hlclient = function (wsURL) {
+    if (!wsURL) thrownewError('wsURL can not be empty!!');
+    
+    this.wsURL = wsURL;
+    this.handlers = {
+        _execjs: function (resolve, param) {
+            try {
+                let res = eval(param);
+                resolve(res || "没有返回值");
+            } catch (e) {
+                resolve(`执行错误: ${e.message}`);
+            }
+        }
+    };
+    this.socket = null;
+    this.isWechat = isWechatMiniProgram;
+    this.connected = false;
+    
+    // 小程序环境初始化
+    if (this.isWechat) {
+        this.initWechatEvents();
+    }
+    
+    this.connect();
+};
+
+// 3. 小程序专用事件初始化
+globalThis.Hlclient.prototype.initWechatEvents = function() {
+    let _this = this;
+    
+    // 监听WebSocket打开
+    wx.onSocketOpen(function(res) {
+        console.log('微信WebSocket连接已打开');
+        _this.connected = true;
+        // 发送注册消息
+        if (globalThis.rpc_client_id) {
+            _this.send(JSON.stringify({
+                action: 'register',
+                clientId: globalThis.rpc_client_id
+            }));
+        }
+    });
+    
+    // 监听消息
+    wx.onSocketMessage(function(res) {
+        console.log('收到微信WebSocket消息:', res.data);
+        _this.handlerRequest(res.data);
+    });
+    
+    // 监听错误
+    wx.onSocketError(function(err) {
+        console.error('微信WebSocket错误:', err);
+        _this.connected = false;
+        _this.reconnect();
+    });
+    
+    // 监听关闭
+    wx.onSocketClose(function(res) {
+        console.log('微信WebSocket连接关闭');
+        _this.connected = false;
+        _this.reconnect();
+    });
+};
+
+// 4. 连接方法 - 小程序适配
+globalThis.Hlclient.prototype.connect = function () {
+    let _this = this;
+    
+    // 处理URL，添加clientId
+    let connectURL = this.wsURL;
+    if (connectURL.indexOf("clientId=") === -1 && globalThis.rpc_client_id) {
+        connectURL += (connectURL.indexOf('?') === -1 ? '?' : '&') + 
+                     "clientId=" + encodeURIComponent(globalThis.rpc_client_id);
+    }
+    
+    console.log('开始连接到:', connectURL);
+    
+    if (this.isWechat) {
+        // 微信小程序环境
+        if (this.socket) {
+            try {
+                wx.closeSocket();
+            } catch (e) {}
+        }
+        
+        wx.connectSocket({
+            url: connectURL,
+            success: function() {
+                console.log('微信WebSocket连接请求已发送');
+            },
+            fail: function(err) {
+                console.error('微信WebSocket连接失败:', err);
+                setTimeout(function() {
+                    _this.reconnect();
+                }, 3000);
+            }
+        });
+        
+        this.socket = true; // 微信环境下，socket是一个状态标识
+        
+    } else {
+        // 浏览器环境
+        try {
+            this.socket = new WebSocket(connectURL);
+            this.socket.onopen = function() {
+                console.log("WebSocket连接成功");
+                _this.connected = true;
+            };
+            this.socket.onmessage = function(e) {
+                _this.handlerRequest(e.data);
+            };
+            this.socket.onclose = function() {
+                console.log('WebSocket连接关闭');
+                _this.connected = false;
+                _this.reconnect();
+            };
+            this.socket.onerror = function(err) {
+                console.error('WebSocket错误:', err);
+                _this.connected = false;
+            };
+        } catch (e) {
+            console.error("连接失败:", e);
+            this.reconnect();
+        }
+    }
+};
+
+// 5. 重连方法
+globalThis.Hlclient.prototype.reconnect = function () {
+    let _this = this;
+    console.log("5秒后尝试重连...");
+    setTimeout(function() {
+        _this.connect();
+    }, 5000);
+};
+
+// 6. 发送消息方法
+globalThis.Hlclient.prototype.send = function (msg) {
+    if (this.isWechat) {
+        if (this.connected) {
+            wx.sendSocketMessage({
+                data: msg,
+                success: function() {
+                    console.log('消息发送成功');
+                },
+                fail: function(err) {
+                    console.error('消息发送失败:', err);
+                }
+            });
+        } else {
+            console.warn('连接未就绪，无法发送消息');
+            setTimeout(() => {
+                this.send(msg);
+            }, 1000);
+        }
+    } else {
+        if (this.socket && this.socket.readyState === WebSocket.OPEN) {
+            this.socket.send(msg);
+        }
+    }
+};
+
+// 7. 其他方法保持不变，但需要适配globalThis.rpc_client_id
+globalThis.Hlclient.prototype.regAction = function (func_name, func) {
+    if (typeof func_name !== 'string') thrownewError("func_name must be string");
+    if (typeof func !== 'function') thrownewError("must be function");
+    console.log("注册函数:", func_name);
+    this.handlers[func_name] = func;
+    returntrue;
+};
+
+globalThis.Hlclient.prototype.handlerRequest = function (requestJson) {
+    let _this = this;
+    try {
+        console.log('处理请求:', requestJson);
+        let result = JSON.parse(requestJson);
+        
+        // 处理注册ID
+        if (result["registerId"] || result["clientId"]) {
+            globalThis.rpc_client_id = result["registerId"] || result["clientId"];
+            console.log('收到clientId:', globalThis.rpc_client_id);
+            
+            // 小程序环境保存到storage
+            if (this.isWechat && wx.setStorageSync) {
+                wx.setStorageSync('rpc_client_id', globalThis.rpc_client_id);
+            }
+            
+            // 发送确认消息
+            _this.send(JSON.stringify({
+                action: 'register_ack',
+                clientId: globalThis.rpc_client_id,
+                status: 'success'
+            }));
+            
+            return;
+        }
+        
+        // 处理常规请求
+        if (!result['action'] || !result["message_id"]) {
+            console.warn('无效的请求:', result);
+            return;
+        }
+        
+        let action = result["action"],
+            message_id = result["message_id"],
+            param = result["param"];
+        
+        try { 
+            if (typeof param === 'string') {
+                param = JSON.parse(param); 
+            }
+        } catch (e) { }
+        
+        let handler = this.handlers[action];
+        if (!handler) {
+            console.warn('未找到处理函数:', action);
+            returnthis.sendResult(action, message_id, 'Action not found');
+        }
+        
+        // 执行处理函数
+        try {
+            handler(function (response) {
+                _this.sendResult(action, message_id, response);
+            }, param);
+        } catch (e) {
+            console.error('执行处理函数出错:', e);
+            _this.sendResult(action, message_id, `执行错误: ${e.message}`);
+        }
+        
+    } catch (error) {
+        console.error("处理请求出错:", error);
+        if (result && result.message_id) {
+            this.sendResult(result.action || '', result.message_id, error.message);
+        }
+    }
+};
+
+globalThis.Hlclient.prototype.sendResult = function (action, message_id, data) {
+    let response;
+    if (typeof data === 'object') {
+        try { 
+            response = JSON.stringify(data); 
+        } catch (e) { 
+            response = String(data); 
+        }
+    } else {
+        response = String(data);
+    }
+    
+    let resultMsg = JSON.stringify({
+        action: action,
+        message_id: message_id,
+        response_data: response
+    });
+    
+    console.log('发送响应:', resultMsg);
+    this.send(resultMsg);
+};
+globalThis.socket = new Hlclient("ws://127.0.0.1:12080/ws?group=two");
+
+globalThis.one = this.sm2Encode; // globalThis.【第一次无需变化】 = 要注入的方法名
+globalThis.socket.regAction("two", function (resolve, param) {
+try {
+let result = globalThis.one(param['data']); // param 部分 填参数
+  resolve(result);
+ } catch (e) {
+  resolve(`调用失败: ${e.message}`);
+ }
+});
+
+// 第一次注册可以使用上述代码直接复制粘贴, 第二次往后需要单独注册
+globalThis.two = this.tempKey; // globalThis.【需要变化】 = 要注入的方法名
+globalThis.socket.regAction("one", function (resolve, param) { // 注册的第一个参数名称不能与之前相同.
+try {
+let result = globalThis.two(); // globalThis.two 与之前注册的一样, param 部分 填参数
+  resolve(result);
+ } catch (e) {
+  resolve(`调用失败: ${e.message}`);
+ }
+});
+```
 
 ## App
 ### 前置

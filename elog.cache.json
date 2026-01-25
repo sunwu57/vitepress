@@ -753,28 +753,6 @@
       "docPath": "docs\\docs\\关于"
     },
     {
-      "id": 217841162,
-      "doc_id": "lz7tg4sstgeuvovz",
-      "updated": 1761807487000,
-      "properties": {
-        "title": "JSRPC",
-        "urlname": "lz7tg4sstgeuvovz",
-        "date": "2025-04-30 20:33:35",
-        "updated": "2025-10-30 14:58:07",
-        "author": "pingX",
-        "description": "1. 环境1.1. 靶场http://39.98.108.20:8085https://github.com/jxhczhl/JsRpchttps://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&amp;mid=2247512825&amp;idx=1&amp;sn=83296..."
-      },
-      "catalog": [
-        {
-          "title": "关于",
-          "doc_id": "lz7tg4sstgeuvovz"
-        }
-      ],
-      "realName": "JSRPC",
-      "relativePath": "\\关于\\JSRPC.md",
-      "docPath": "docs\\docs\\关于"
-    },
-    {
       "id": 216837685,
       "doc_id": "ohqoxsoggu7pww3x",
       "updated": 1765889346000,
@@ -1298,29 +1276,6 @@
       "docPath": "docs\\docs\\云顶之奕"
     },
     {
-      "id": 234419066,
-      "doc_id": "srvc1cyv52lerqib",
-      "updated": 1765984695000,
-      "properties": {
-        "title": "js调试与jsrpc",
-        "urlname": "srvc1cyv52lerqib",
-        "date": "2025-08-29 10:50:08",
-        "updated": "2025-12-17 23:18:15",
-        "author": "sunwu57",
-        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1756460228992-a95b374a-e0f9-4ba8-aaa1-45be7640c172.png",
-        "description": "案例站点http://39.98.108.20:8085/#/login如果打不开就本地自己搭建个https://github.com/0ctDay/encrypt-decrypt-vuls?tab=readme-ov-file为什么js调试"
-      },
-      "catalog": [
-        {
-          "title": "关于",
-          "doc_id": "srvc1cyv52lerqib"
-        }
-      ],
-      "realName": "js调试与jsrpc",
-      "relativePath": "\\关于\\js调试与jsrpc.md",
-      "docPath": "docs\\docs\\关于"
-    },
-    {
       "id": 228388576,
       "doc_id": "le2hdk4aiz6pbq7o",
       "updated": 1755078285000,
@@ -1441,13 +1396,13 @@
     {
       "id": 240922927,
       "doc_id": "dsbbrgcu0wlitoce",
-      "updated": 1760686087000,
+      "updated": 1769094770000,
       "properties": {
         "title": "jQuery XSS 副本",
         "urlname": "dsbbrgcu0wlitoce",
         "date": "2025-10-17 15:28:07",
-        "updated": "2025-10-17 15:28:07",
-        "author": "pingX",
+        "updated": "2026-01-22 23:12:50",
+        "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2025/jpeg/26698826/1753865104981-a5c260ec-bfc6-4701-bf49-9c368f3249fb.jpeg",
         "description": "POST-xss危害基本没有存在漏洞的jQuery版本在大于或等于1.2且在3.5.0之前的jQuery。漏洞存在的原因在大于或等于1.2且在3.5.0之前的jQuery版本中，即使执行了消毒（sanitize）处理，也仍会执行将来自不受信任来源的HTML传递给jQuery的DOM操作方法（即..."
       },
@@ -1463,18 +1418,19 @@
       ],
       "realName": "jQuery XSS 副本",
       "relativePath": "\\安全学习手册\\水洞集合\\jQuery XSS 副本.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\水洞集合"
     },
     {
       "id": 240922988,
       "doc_id": "cpoh7243zxga2qb9",
-      "updated": 1760686251000,
+      "updated": 1769005377000,
       "properties": {
         "title": "邮件伪造（spf）漏洞",
         "urlname": "cpoh7243zxga2qb9",
         "date": "2025-10-17 15:28:24",
-        "updated": "2025-10-17 15:30:51",
-        "author": "pingX",
+        "updated": "2026-01-21 22:22:57",
+        "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1760686216717-46ee4568-ea7b-42fa-80a2-d39aa525338b.png",
         "description": "1. 漏洞危害允许攻击者伪造发件人身份，从而发送钓鱼邮件或垃圾邮件，获取接收方的信任，进而可能导致主机被控制或重要资料的泄露。比如：www.baidu.com有这个漏洞，你就可以伪造HR@baidu.com给受害人发邮件进行钓鱼2. 挖掘过程 dig -t txt baidu.com 如果是-..."
       },
@@ -1490,18 +1446,19 @@
       ],
       "realName": "邮件伪造（spf）漏洞",
       "relativePath": "\\安全学习手册\\水洞集合\\邮件伪造（spf）漏洞.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\水洞集合"
     },
     {
       "id": 239621979,
       "doc_id": "by37kbzug7yehvwg",
-      "updated": 1759919789000,
+      "updated": 1769005363000,
       "properties": {
         "title": "常见各组件以及系统默认弱口令",
         "urlname": "by37kbzug7yehvwg",
         "date": "2025-10-08 18:32:05",
-        "updated": "2025-10-08 18:36:29",
-        "author": "pingX",
+        "updated": "2026-01-21 22:22:43",
+        "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2025/webp/26698826/1759919570527-fe6692ab-8130-49e2-aad5-746735c9ee0b.webp",
         "description": "常见系统口令泛微移动管理平台sysadmin 1 sysadmin 111111 sysadmin 123456 sysadmin admin sysadmin Weaver#2012!@# sysadmin Weaver@2001 sysadmin Weaver@2020 sysadmin ..."
       },
@@ -1517,6 +1474,7 @@
       ],
       "realName": "常见各组件以及系统默认弱口令",
       "relativePath": "\\安全学习手册\\打点入门\\常见各组件以及系统默认弱口令.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\打点入门"
     },
     {
@@ -1544,12 +1502,12 @@
     {
       "id": 246043097,
       "doc_id": "hgbiyledh3i6m18t",
-      "updated": 1766325834000,
+      "updated": 1768551052000,
       "properties": {
         "title": "js加解密",
         "urlname": "hgbiyledh3i6m18t",
         "date": "2025-11-24 20:01:17",
-        "updated": "2025-12-21 22:03:54",
+        "updated": "2026-01-16 16:10:52",
         "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1763695607491-1b436e82-6d50-42dc-bc1e-402baed82744.png",
         "description": "建议先看《js调试与jsrpc》这个常⻅加密⽅式加密⽅式 对称加密 ⾮对称加密"
@@ -1566,6 +1524,7 @@
       ],
       "realName": "js加解密",
       "relativePath": "\\安全学习手册\\打点入门\\js加解密.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\打点入门"
     },
     {
@@ -1914,12 +1873,12 @@
     {
       "id": 251419836,
       "doc_id": "ia37hfn3gfbttd5w",
-      "updated": 1767360968000,
+      "updated": 1769005383000,
       "properties": {
         "title": "艾欧尼亚",
         "urlname": "ia37hfn3gfbttd5w",
         "date": "2026-01-02 21:32:37",
-        "updated": "2026-01-02 21:36:08",
+        "updated": "2026-01-21 22:23:03",
         "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2026/png/26698826/1767360777088-6031df53-1893-4cd3-9780-3d9d12d30584.png"
       },
@@ -1935,6 +1894,7 @@
       ],
       "realName": "艾欧尼亚",
       "relativePath": "\\云顶之奕\\S16-传奇\\艾欧尼亚.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\云顶之奕\\S16-传奇"
     },
     {
@@ -1966,12 +1926,12 @@
     {
       "id": 249412607,
       "doc_id": "akyv9ck5kvo37adi",
-      "updated": 1766050978000,
+      "updated": 1768835874000,
       "properties": {
         "title": "js调试与jsrpc",
         "urlname": "akyv9ck5kvo37adi",
         "date": "2025-12-18 17:42:29",
-        "updated": "2025-12-18 17:42:58",
+        "updated": "2026-01-19 23:17:54",
         "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1756460228992-a95b374a-e0f9-4ba8-aaa1-45be7640c172.png",
         "description": "案例站点http://39.98.108.20:8085/#/login如果打不开就本地自己搭建个https://github.com/0ctDay/encrypt-decrypt-vuls?tab=readme-ov-file为什么js调试"
@@ -1988,6 +1948,7 @@
       ],
       "realName": "js调试与jsrpc",
       "relativePath": "\\安全学习手册\\打点入门\\js调试与jsrpc.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\打点入门"
     },
     {
@@ -2020,12 +1981,12 @@
     {
       "id": 252393852,
       "doc_id": "ai6qn32cw3eikxyz",
-      "updated": 1767947526000,
+      "updated": 1769155629000,
       "properties": {
         "title": "小程序公众号开f12",
         "urlname": "ai6qn32cw3eikxyz",
         "date": "2026-01-09 11:24:20",
-        "updated": "2026-01-09 16:32:06",
+        "updated": "2026-01-23 16:07:09",
         "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2026/png/26698826/1767942219181-d180193e-d530-40e3-b71f-4be386747ce3.png",
         "description": "微信4.0以上(暂时没找到开内置浏览器的方案，只有开小程序的)微信下载地址https://github.com/cscnk52/wechat-windows-versions/releases/download/v4.1.5.15/weixin_4.1.5.15.exe安装好微信配置fnm环境..."
@@ -2038,6 +1999,7 @@
       ],
       "realName": "小程序公众号开f12",
       "relativePath": "\\关于\\小程序公众号开f12.md",
+      "needUpdate": 1,
       "docPath": "docs\\docs\\关于"
     }
   ],
@@ -2333,7 +2295,7 @@
     {
       "uuid": "Fw2QVfqPuPmxkUR7",
       "type": "DOC",
-      "title": "js调试与jsrpc 副本",
+      "title": "js调试与jsrpc",
       "url": "akyv9ck5kvo37adi",
       "slug": "akyv9ck5kvo37adi",
       "id": 249412607,
@@ -3279,24 +3241,6 @@
       "open_window": 1,
       "visible": 1,
       "prev_uuid": "834gP4ByASA0Q4bR",
-      "sibling_uuid": "OdfObEdSQ6RSbpqr",
-      "child_uuid": "",
-      "parent_uuid": "GxObxeQiBqbu0XuS",
-      "_serializer": "v2.toc_item"
-    },
-    {
-      "uuid": "OdfObEdSQ6RSbpqr",
-      "type": "DOC",
-      "title": "js调试与jsrpc",
-      "url": "srvc1cyv52lerqib",
-      "slug": "srvc1cyv52lerqib",
-      "id": 234419066,
-      "doc_id": 234419066,
-      "level": 1,
-      "depth": 2,
-      "open_window": 1,
-      "visible": 1,
-      "prev_uuid": "m3bEELd1-HiVUe2u",
       "sibling_uuid": "Rx9zewCDq0RCqKNZ",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",
@@ -3314,7 +3258,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "OdfObEdSQ6RSbpqr",
+      "prev_uuid": "m3bEELd1-HiVUe2u",
       "sibling_uuid": "exWEjTjt-g3hF01E",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",
@@ -3459,24 +3403,6 @@
       "open_window": 1,
       "visible": 1,
       "prev_uuid": "EV1UDIYLTlXIsHgp",
-      "sibling_uuid": "GNlna-kJzTJXzj78",
-      "child_uuid": "",
-      "parent_uuid": "GxObxeQiBqbu0XuS",
-      "_serializer": "v2.toc_item"
-    },
-    {
-      "uuid": "GNlna-kJzTJXzj78",
-      "type": "DOC",
-      "title": "JSRPC",
-      "url": "lz7tg4sstgeuvovz",
-      "slug": "lz7tg4sstgeuvovz",
-      "id": 217841162,
-      "doc_id": 217841162,
-      "level": 1,
-      "depth": 2,
-      "open_window": 1,
-      "visible": 1,
-      "prev_uuid": "GbQfn2W0iZ9vtQZO",
       "sibling_uuid": "__OUGZAZrFR6EUeL",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",
@@ -3494,7 +3420,7 @@
       "depth": 2,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "GNlna-kJzTJXzj78",
+      "prev_uuid": "GbQfn2W0iZ9vtQZO",
       "sibling_uuid": "Xm5i103eDxIMFbXL",
       "child_uuid": "",
       "parent_uuid": "GxObxeQiBqbu0XuS",
