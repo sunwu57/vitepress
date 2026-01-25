@@ -8,7 +8,7 @@
 
 <font style="color:rgb(51, 51, 51);">如果是</font>`<font style="color:rgb(51, 51, 51);">-all</font>`<font style="color:rgb(51, 51, 51);">就是不存在，如果是</font>`<font style="color:rgb(51, 51, 51);">~all</font>`<font style="color:rgb(51, 51, 51);">就是存在</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1760686216717-46ee4568-ea7b-42fa-80a2-d39aa525338b.png)
+![](../../../images/95d39440f2eb04daaefe1c07e7674280.png)
 
 <font style="color:rgb(51, 51, 51);">利用工具：kali自带的swaks</font>
 
@@ -19,7 +19,7 @@
 
 <font style="color:rgb(51, 51, 51);">能收到邮件就说明存在此漏洞</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1760686216678-6ec241c9-07ff-47d0-8f9c-c45609abf218.png)
+![](../../../images/1f4ac008bcb04555fba0d1c1e3e62a65.png)
 
 ### <font style="color:rgb(51, 51, 51);">✨</font><font style="color:rgb(51, 51, 51);">怎么修复</font>
 <font style="color:rgb(51, 51, 51);">把</font>`<font style="color:rgb(51, 51, 51);">~all</font>`<font style="color:rgb(51, 51, 51);">改成</font>`<font style="color:rgb(51, 51, 51);">-all</font>`

@@ -53,17 +53,17 @@ node src/proxy-server/proxy-server.js
 
 1. 流量代理到本地的10086端口
 2. f12进入网络，刷新页面，获取一段密文
-3. 使用`hook.search("密文")`进行搜索（<font style="color:#DF2A3F;">如果没hook说明上面的流程没走成功</font>），一般第一个就是，点击链接进入![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763695607491-1b436e82-6d50-42dc-bc1e-402baed82744.png)
+3. 使用`hook.search("密文")`进行搜索（<font style="color:#DF2A3F;">如果没hook说明上面的流程没走成功</font>），一般第一个就是，点击链接进入![](../../../images/a44adf7d04c139a527eef5457ef6f86b.png)
 4. 跳到入图，可以发现用的关键字是`1.key``0e.doEncrypt`
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763688665637-dd4c3e90-c6c2-4f1b-8498-15855626444f.png)
+![](../../../images/3cc697273819b1db050cde9c23d9b140.png)
 
 5. 取消代理，正常访问，定位关键字，断点，发包，发现成功断到明文加密位置
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763693026913-0ab7feaa-47c3-4f96-931a-a4b64e5baac7.png)
+![](../../../images/b7c115887b1e0d0a27bff00ec26773c5.png)
 
 ##### 集中采购管理系统
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763727514513-f4c75d95-6419-4960-bcb0-6c95d8c7d3c5.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763727220768-1bd6ed4b-9055-4b38-963c-40d175c9428c.png)
+![](../../../images/251ef06f80c0b3d0c91edc57751216d7.png)![](../../../images/ecb8f31f329c3f6dbda77494e1fa18af.png)
 
 #### 方案不足
 1. 环境难配
@@ -77,19 +77,19 @@ node src/proxy-server/proxy-server.js
 [https://github.com/cilame/v_jstools](https://github.com/cilame/v_jstools)
 
 #### 使用方法
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756774584125-947677b8-2be8-4ab5-a0a7-6ff827519a2f.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_18%2Ctext_eml5ZQ%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10%2Fformat%2Cwebp)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763810901543-7a5134cb-2b73-471e-ab43-70342c017ce4.png)
+![](../../../images/b8378a01902f88bb453ce7faa83134bc.png)![](../../../images/a793c85c7e0cd02c1840dfa4a89a3d53.png)
 
 根据图中的勾选即可，由于网站开发者通常系统使用json进行数据传输，以及使用base64编码数据，这边勾上即可在编码时在浏览器控制台输出对应的加密点
 
 1. 当提交登陆表单后，控制台打印如下内容，跟进
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756774673937-ae26ba17-e677-4fbd-be3a-048f22e7313e.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_96%2Ctext_eml5ZQ%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10%2Fformat%2Cwebp)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1756774749229-d8f784f9-498a-4506-bac2-f864ca97d612.png?x-oss-process=image%2Fwatermark%2Ctype_d3F5LW1pY3JvaGVp%2Csize_51%2Ctext_eml5ZQ%3D%3D%2Ccolor_FFFFFF%2Cshadow_50%2Ct_80%2Cg_se%2Cx_10%2Cy_10%2Fformat%2Cwebp)
+![](../../../images/04995f650f54c8d0583ec6510453c3fc.png)![](../../../images/bc2b0e935bb74eea506398838076fb15.png)
 
 #### 方案不足
 1. 默认只能处理最常见的编码，经常hook不到加密位置
 
 ### 方法五-栈调用
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763895082690-5ffc03a9-7f94-4dea-a891-41ed11abab36.png)
+![](../../../images/f1ae7a1f029fc23464877cd9aac5c143.png)
 
 ## JsRpc
 #### 项目地址
@@ -100,7 +100,7 @@ JSRPC 利用 RPC 的核心思想，通过 webSocket 协议将浏览器中的 JS 
 ### 使用方法
 #### 贵金属商城
 ##### 定位加密函数位置
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763871066558-07d02b25-9e41-48c8-9949-6876dcc8eb3c.png)
+![](../../../images/22716744191d7963a3ef8bdf75c66837.png)
 
 #####  简单的分析
 ```plain
@@ -114,7 +114,7 @@ t = 1
 
 ##### 使用方法
 ###### 启动jsrpc
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763878141438-c8b340e4-a4c4-4fb9-aa91-e8c5192ed282.png)
+![](../../../images/32ee81e16980ff2bb71bdb58c33009d2.png)
 
 ###### jsrpc注入浏览器
 1. 放开断点
@@ -238,7 +238,7 @@ Hlclient.prototype.sendResult = function (action, message_id, e) {
 var demo = new Hlclient("ws://127.0.0.1:12080/ws?group=zzz");
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763878303987-c4a33bc1-6864-4df8-92e9-f83fac865d96.png)
+![](../../../images/ff53b28b65e40eca2a7283a595c59c00.png)
 
 ###### 编写远程调用的函数
 ```plain
@@ -276,7 +276,7 @@ Content-Length: 24
 action=getkey1&group=zzz
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763880506312-23a61998-2b16-4672-8a78-49a40fc5326e.png)
+![](../../../images/14e4e28fd7b3aaad2b07ecd508466c6e.png)
 
 ```plain
 POST /go HTTP/1.1
@@ -288,7 +288,7 @@ Content-Length: 24
 action=gethmac1&group=zzz&param={"o":{"requestTime":1763879406185}}
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763881396012-1fdfefb2-d4c2-4e14-a5fe-89156d24d0c0.png)
+![](../../../images/a2add187d956b13a9ead8553e3d538fd.png)
 
 ###### 编写yakit热加载，实现明文数据传输
 ```plain
@@ -361,7 +361,7 @@ afterRequest = func(https, originReq, req, originRsp, rsp) {
 
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763892439940-40f1270f-7d78-42df-a3ce-bb6c17f6f13b.png)
+![](../../../images/978b61e14f57349cad919ec2db6cd4f9.png)
 
 至于mitm模块的热加载需要改一下，懒得写了
 
@@ -382,7 +382,7 @@ afterRequest = func(https, originReq, req, originRsp, rsp) {
 4. `WechatOpenDevTools-Python.exe -x`
 5. `devtools`打开控制台
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763894402219-9dbc3e4b-c718-4a23-a84e-dbe0fba3d590.png)
+![](../../../images/eeb0355d2256935ce1c5581394979b81.png)
 
 #### 补充
 ##### 提示微信版本过低无法登陆
@@ -391,7 +391,7 @@ afterRequest = func(https, originReq, req, originRsp, rsp) {
 ##### <font style="color:rgb(31,35,40);">打开程序闪退</font>
 请确保小程序版本为`8555`，如果有其他版本请删除
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1766051226016-6fa6322a-7f99-404b-8b99-4a7205cc93ac.png)
+![](../../../images/1d6ef855504d1d74b39d64e370e729f9.png)
 
 ##### arm版本一键f12工具
 [https://github.com/f4l1k/WeChatOpenDevTools-Python-arm](https://github.com/f4l1k/WeChatOpenDevTools-Python-arm)
@@ -525,10 +525,10 @@ demo.regAction("getData", function (resolve,param) {
 如果不能用就参考[https://github.com/jxhczhl/JsRpc/issues/25](https://github.com/jxhczhl/JsRpc/issues/25)
 
 ### 案例一：南京银行鑫微厅
-1. 定位加密位置![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763897805239-6563b0ba-33f9-4317-8d0c-6885e4d6619d.png)
+1. 定位加密位置![](../../../images/15c0232853c4b16e808ea725c0a0bf69.png)
 
 #### 方法一：ce改内存
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763897922620-40c50218-65b5-404c-97f9-0fcda36a4458.png)
+![](../../../images/28000d5ae6014d54dbbe848fcf784fdf.png)
 
 ```plain
 原
@@ -541,7 +541,7 @@ for(var t=function(e,t){return "123123123123"/*111111111111111111111111111111111
 
 #### 方法二：改js（主推）
 1. 清理掉本地所有小程序相关文件
-2. bp抓包，在加密的js出现时，响应中加入固定的key，使本地保存的js是修改后的js，后面小程序优先调用本地js就可以固定密钥了![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1763898573129-3f72742e-df4f-47e6-8690-14bd0dc68818.png)
+2. bp抓包，在加密的js出现时，响应中加入固定的key，使本地保存的js是修改后的js，后面小程序优先调用本地js就可以固定密钥了![](../../../images/f3d3d8f5d208357a7b37abff6e60fda6.png)
 
 ```plain
 // 1. 微信小程序环境适配

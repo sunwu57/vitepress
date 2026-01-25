@@ -51,7 +51,7 @@ YUQUE_LOGIN=获取的login
 YUQUE_REPO=获取的repo
 ```
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739810402414-30a10456-d000-4822-8864-32a8322642ea.png)
+![](../../images/2a1771ce5f1f45f20c50f2d5b4f29a6d.png)
 
 ### <font style="color:rgb(31, 35, 40);">本地调试</font>
 <font style="color:rgb(31, 35, 40);">在项目根目录运行同步命令，将语雀repo对应库中的文档进行拉取到本地</font>
@@ -76,7 +76,7 @@ export default Theme
 ```
 
 #### 在<font style="color:rgb(51, 51, 51);background-color:rgb(247, 247, 247);">.vitepress/config.mts</font>添加下面内容
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739813239441-be707389-06bc-4efb-8eec-cf6a0340adc8.png)
+![](../../images/4c6f0f6411208c41b57add406c9eddba.png)
 
 ## <font style="color:rgb(31, 35, 40);">项目目录介绍</font>
 <font style="color:rgb(31, 35, 40);">根据</font><font style="color:rgb(31, 35, 40);"> </font>[VitePress](https://vitepress.dev/)<font style="color:rgb(31, 35, 40);"> </font><font style="color:rgb(31, 35, 40);">文档，配置你的文档站点直到你满意为止。</font>
@@ -131,7 +131,7 @@ layout: home
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077699-807f66b1-b841-43da-942b-78f81e79324a.png)
+`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>![](../../images/d27e98fbc3ffde49e1c19cdfd072cabd.png)
 
 ---
 
@@ -143,7 +143,7 @@ layout: home
 
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">page</font>`<font style="color:rgb(51, 51, 51);"> 展示</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077715-1bb2f825-aa77-441c-882c-043be5cf9702.png)
+![](../../images/e5d5540d0028ac3f6b02bcd9c885ddf5.png)
 
 #### <font style="color:rgb(51, 51, 51);">Hero</font>
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">hero</font>`<font style="color:rgb(51, 51, 51);"> 部分位于主页顶部。</font>**<font style="color:rgb(51, 51, 51);">当 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">layout</font>**`**<font style="color:rgb(51, 51, 51);"> 设置为 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">home</font>**`**<font style="color:rgb(51, 51, 51);"> 时，</font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">hero</font>**`**<font style="color:rgb(51, 51, 51);"> 配置才会生效</font>**<font style="color:rgb(51, 51, 51);">。</font>
@@ -209,7 +209,7 @@ hero:
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811077921-011ca5af-e1a6-49f8-b706-1ff22c739c44.png)
+![](../../images/e38c3fe953234bbc897cc15bf840ceaa.png)
 
 #### <font style="color:rgb(51, 51, 51);">Features</font>
 <font style="color:rgb(51, 51, 51);">可以在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Hero</font>`<font style="color:rgb(51, 51, 51);"> 部分之后列出任意数量的 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Feature</font>`
@@ -283,7 +283,7 @@ features:
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面展示</font>
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811078642-56a65af3-5bb8-4a2f-acab-8c827a607afb.png)
+![](../../images/ff38e1cbcfa298db2821e1e22d1f3f96.png)
 
 #### <font style="color:rgb(51, 51, 51);">其他</font>
 <font style="color:rgb(51, 51, 51);">如果到这个时候你觉得在首页 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">md</font>`<font style="color:rgb(51, 51, 51);"> 文件中还没有满足你的其他需求，可以在分隔符下继续以 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">md</font>`<font style="color:rgb(51, 51, 51);"> 的格式开发新内容。</font>
@@ -338,12 +338,12 @@ article>img{
 1. <font style="color:rgb(51, 51, 51);">引入 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">MD</font>`<font style="color:rgb(51, 51, 51);"> 文件展示</font>![](../../images/e90efb1f859247dd24869863508d6961.png)
 2. `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">Style</font>`<font style="color:rgb(51, 51, 51);"> 标签样式展示</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811079290-db237a21-d438-4e71-8c1c-a09db0e542a4.png)
+![](../../images/8c7843cf20f363efd85ec87a51fdabb6.png)
 
 ### <font style="color:rgb(51, 51, 51);">导航栏</font>
 <font style="color:rgb(119, 119, 119);">Nav 是显示在页面顶部的导航栏。它包含站点标题、全局菜单链接等。</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811080094-26e0947a-22ba-43e9-a007-23457f07df48.png)**<font style="color:rgb(51, 51, 51);">导航栏模块的配置是通过 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">docs/.vitepress/config.mts</font>**`**<font style="color:rgb(51, 51, 51);"> 文件配置的</font>**
+![](../../images/b86b03f5923ca21a53134213283bdab3.png)**<font style="color:rgb(51, 51, 51);">导航栏模块的配置是通过 </font>**`**<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">docs/.vitepress/config.mts</font>**`**<font style="color:rgb(51, 51, 51);"> 文件配置的</font>**
 
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">config.mts</font>`<font style="color:rgb(51, 51, 51);"> 文件内容</font>
 
@@ -649,12 +649,12 @@ export default defineConfig({
 ```
 
 #### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811084557-5bbc7601-f1c2-461b-905c-b202f9193cb7.png)
+![](../../images/edf9bd4354764b064de8792199315148.png)
 
 ### <font style="color:rgb(51, 51, 51);">左侧边栏</font>
 <font style="color:rgb(119, 119, 119);">左侧边栏是文档的主要导航块。</font>
 
-<font style="color:rgb(51, 51, 51);">在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig.sidebar</font>`<font style="color:rgb(51, 51, 51);"> 中配置左侧边栏菜单</font>![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811084768-6aea703b-96b9-4e3e-9444-1eb72a27a9e7.png)
+<font style="color:rgb(51, 51, 51);">在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">themeConfig.sidebar</font>`<font style="color:rgb(51, 51, 51);"> 中配置左侧边栏菜单</font>![](../../images/ab996deae6301f254090932bd287bab2.png)
 
 #### <font style="color:rgb(51, 51, 51);">左侧边栏基础配置</font>
 ##### <font style="color:rgb(51, 51, 51);">创建 md 文件</font>
@@ -753,7 +753,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](https://cdn.nlark.com/yuque/0/2025/gif/26698826/1739811084141-2ab8133c-54cc-44bf-8eb1-677df72bc61e.gif)
+![](../../images/e8aa86160abd935f8b2b65301bdd8e6a.gif)
 
 ##### <font style="color:rgb(51, 51, 51);">配置注意项</font>
 1. <font style="color:rgb(51, 51, 51);">基本用法是传入一个数组，</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">text</font>`<font style="color:rgb(51, 51, 51);"> 是侧边栏名词，</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">link</font>`<font style="color:rgb(51, 51, 51);"> 是链接</font>
@@ -862,7 +862,7 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](https://cdn.nlark.com/yuque/0/2025/gif/26698826/1739811085349-8c537688-ece0-445c-a8ab-bf06b140e8b1.gif)
+![](../../images/393f430dc5349468a3c495ab8c0e3935.gif)
 
 ##### <font style="color:rgb(51, 51, 51);">配置注意项</font>
 1. <font style="color:rgb(51, 51, 51);">多侧边栏配置时， </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">sidebar</font>`<font style="color:rgb(51, 51, 51);"> 为对象</font>
@@ -905,14 +905,14 @@ export default defineConfig({
 ```
 
 ##### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086111-8f851a80-e7e6-4707-9e83-edda13c743e1.png)
+![](../../images/5efeed543ed4c7516f39524852567948.png)
 
 ### <font style="color:rgb(51, 51, 51);">右侧边栏</font>
 <font style="color:rgb(119, 119, 119);">右侧边栏是大纲中显示的标题导航块</font>
 
 <font style="color:rgb(51, 51, 51);">配置 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">outline</font>`<font style="color:rgb(51, 51, 51);"> 字段可以设置渲染大纲层级</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086201-03973040-9b7e-40a3-821f-2d5a05b4fe77.png)
+![](../../images/d4876f439cf13c9a5971c6e18e6e0a63.png)
 
 #### <font style="color:rgb(51, 51, 51);">在 basic 中的 index.md 写入以下内容</font>
 ```plain
@@ -1003,7 +1003,7 @@ BASIC index page
 
 <font style="color:rgb(51, 51, 51);">右侧边栏效果展示</font>
 
-![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811086163-a7cc5869-a25d-482c-9ce3-2880aa73c571.png)
+![](../../images/073b9e24bbc2f4da28305eec248ed665.png)
 
 <font style="color:rgb(51, 51, 51);">可以看出只展示了 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">h2</font>`<font style="color:rgb(51, 51, 51);"> 标题，</font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">outline</font>`<font style="color:rgb(51, 51, 51);"> 的默认值为 2</font>
 
@@ -1115,7 +1115,7 @@ next:
 ```
 
 #### <font style="color:rgb(51, 51, 51);">页面效果展示</font>
-![](../../images/bc35e5e1135dafd98c152f26e8a4a2b2.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1739811088708-7301372a-2603-4a52-a18c-3e0674056855.png)
 
 ### <font style="color:rgb(51, 51, 51);">配置项目 head</font>
 `<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">head</font>`<font style="color:rgb(51, 51, 51);"> 模块配置的内容会添加在项目的 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">head</font>`<font style="color:rgb(51, 51, 51);"> 标签中，在 </font>`<font style="color:rgb(51, 51, 51);background-color:rgb(243, 244, 244);">config</font>`<font style="color:rgb(51, 51, 51);"> 中配置</font>

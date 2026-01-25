@@ -1418,7 +1418,6 @@
       ],
       "realName": "jQuery XSS 副本",
       "relativePath": "\\安全学习手册\\水洞集合\\jQuery XSS 副本.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\水洞集合"
     },
     {
@@ -1446,7 +1445,6 @@
       ],
       "realName": "邮件伪造（spf）漏洞",
       "relativePath": "\\安全学习手册\\水洞集合\\邮件伪造（spf）漏洞.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\水洞集合"
     },
     {
@@ -1474,7 +1472,6 @@
       ],
       "realName": "常见各组件以及系统默认弱口令",
       "relativePath": "\\安全学习手册\\打点入门\\常见各组件以及系统默认弱口令.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\打点入门"
     },
     {
@@ -1524,7 +1521,6 @@
       ],
       "realName": "js加解密",
       "relativePath": "\\安全学习手册\\打点入门\\js加解密.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\打点入门"
     },
     {
@@ -1894,7 +1890,6 @@
       ],
       "realName": "艾欧尼亚",
       "relativePath": "\\云顶之奕\\S16-传奇\\艾欧尼亚.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\云顶之奕\\S16-传奇"
     },
     {
@@ -1948,7 +1943,6 @@
       ],
       "realName": "js调试与jsrpc",
       "relativePath": "\\安全学习手册\\打点入门\\js调试与jsrpc.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\安全学习手册\\打点入门"
     },
     {
@@ -1999,7 +1993,6 @@
       ],
       "realName": "小程序公众号开f12",
       "relativePath": "\\关于\\小程序公众号开f12.md",
-      "needUpdate": 1,
       "docPath": "docs\\docs\\关于"
     }
   ],
