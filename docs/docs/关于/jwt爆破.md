@@ -1,6 +1,6 @@
 # 什么是jwt？
 ## 使用 Hashcat 爆破 JWT（JSON Web Token）
-JWT 主要由三部分组成：
+JWT 主要由三部分组成： 
 
 1. **Header（头部）**
 2. **Payload（负载）**

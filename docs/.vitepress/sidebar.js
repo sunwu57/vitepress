@@ -164,16 +164,20 @@ export default {
       "text": "关于",
       "items": [
         {
-          "text": "Typora",
-          "link": "/docs/关于/Typora"
+          "text": "本blog的搭建",
+          "link": "/docs/关于/本blog的搭建"
         },
         {
           "text": "markdown语法",
           "link": "/docs/关于/markdown语法"
         },
         {
-          "text": "本blog的搭建",
-          "link": "/docs/关于/本blog的搭建"
+          "text": "Typora",
+          "link": "/docs/关于/Typora"
+        },
+        {
+          "text": "jwt爆破",
+          "link": "/docs/关于/jwt爆破"
         },
         {
           "text": "小程序公众号开f12",
@@ -190,10 +194,6 @@ export default {
         {
           "text": "关于大模型DeepSeek构建个人知识库的搭建(RAG)",
           "link": "/docs/关于/关于大模型DeepSeek构建个人知识库的搭建(RAG)"
-        },
-        {
-          "text": "jwt爆破",
-          "link": "/docs/关于/jwt爆破"
         },
         {
           "text": "burp最新版破解",
