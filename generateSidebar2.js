@@ -9,8 +9,7 @@ const sidebar = {};
 function walkDir(currentDirPath, baseRoute) {
   const entries = fs.readdirSync(currentDirPath, { withFileTypes: true });
 
-  // 1. 处理文件：先收集文件信息（包含修改时间）
-  const fileItems = entries
+  const items = entries
     .filter(entry => {
       return (
         entry.isFile() &&
@@ -19,45 +18,28 @@ function walkDir(currentDirPath, baseRoute) {
       );
     })
     .map(entry => {
-      // 获取文件的完整路径
-      const fullPath = path.join(currentDirPath, entry.name);
-      // 获取文件的修改时间戳（ms）
-      const mtime = fs.statSync(fullPath).mtimeMs;
       const name = entry.name.replace(/\.md$/, '');
       return {
         text: name,
-        link: `${baseRoute}${name}`,
-        mtime // 记录修改时间，用于排序
+        link: `${baseRoute}${name}`
       };
     });
 
-  // 2. 处理文件夹：递归收集文件夹信息（包含修改时间）
-  const dirItems = entries
+  entries
     .filter(entry => entry.isDirectory())
-    .map(dir => {
+    .forEach(dir => {
       const subDirPath = path.join(currentDirPath, dir.name);
       const subRoute = `${baseRoute}${dir.name}/`;
       const children = walkDir(subDirPath, subRoute);
-      // 获取文件夹的修改时间戳
-      const mtime = fs.statSync(subDirPath).mtimeMs;
-      return {
-        text: dir.name,
-        items: children,
-        mtime // 记录修改时间，用于排序
-      };
-    })
-    .filter(item => item.items.length > 0); // 过滤空文件夹
+      if (children.length > 0) {
+        items.push({
+          text: dir.name,
+          items: children
+        });
+      }
+    });
 
-  // 3. 合并文件和文件夹项，并按修改时间降序排序（最新的在前）
-  const allItems = [...fileItems, ...dirItems].sort((a, b) => {
-    // 按修改时间戳降序排列，b.mtime - a.mtime = 最新的在前
-    return b.mtime - a.mtime;
-  });
-
-  // 4. 删除排序用的mtime属性（避免写入配置文件）
-  const finalItems = allItems.map(({ mtime, ...rest }) => rest);
-
-  return finalItems;
+  return items;
 }
 
 function generateSidebar() {
@@ -89,4 +71,4 @@ const sidebarConfig = generateSidebar();
 const content = `export default ${JSON.stringify(sidebarConfig, null, 2)};\n`;
 fs.writeFileSync(outputFile, content, 'utf-8');
 
-console.log('✅ 自动 sidebar.js 已生成于 docs/.vitepress/sidebar.js（已按修改时间排序）');
+console.log('✅ 自动 sidebar.js 已生成于 docs/.vitepress/sidebar.js');
