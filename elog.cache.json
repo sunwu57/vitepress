@@ -1497,33 +1497,6 @@
       "docPath": "docs\\docs\\漏洞复现"
     },
     {
-      "id": 246043097,
-      "doc_id": "hgbiyledh3i6m18t",
-      "updated": 1768551052000,
-      "properties": {
-        "title": "js加解密",
-        "urlname": "hgbiyledh3i6m18t",
-        "date": "2025-11-24 20:01:17",
-        "updated": "2026-01-16 16:10:52",
-        "author": "sunwu57",
-        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1763695607491-1b436e82-6d50-42dc-bc1e-402baed82744.png",
-        "description": "建议先看《js调试与jsrpc》这个常⻅加密⽅式加密⽅式 对称加密 ⾮对称加密"
-      },
-      "catalog": [
-        {
-          "title": "安全学习手册",
-          "doc_id": "hgbiyledh3i6m18t"
-        },
-        {
-          "title": "打点入门",
-          "doc_id": "hgbiyledh3i6m18t"
-        }
-      ],
-      "realName": "js加解密",
-      "relativePath": "\\安全学习手册\\打点入门\\js加解密.md",
-      "docPath": "docs\\docs\\安全学习手册\\打点入门"
-    },
-    {
       "id": 247649984,
       "doc_id": "kakkm8re8gx4ibro",
       "updated": 1765045541000,
@@ -1919,33 +1892,6 @@
       "docPath": "docs\\docs\\云顶之奕\\S16-传奇"
     },
     {
-      "id": 249412607,
-      "doc_id": "akyv9ck5kvo37adi",
-      "updated": 1768835874000,
-      "properties": {
-        "title": "js调试与jsrpc",
-        "urlname": "akyv9ck5kvo37adi",
-        "date": "2025-12-18 17:42:29",
-        "updated": "2026-01-19 23:17:54",
-        "author": "sunwu57",
-        "cover": "https://cdn.nlark.com/yuque/0/2025/png/26698826/1756460228992-a95b374a-e0f9-4ba8-aaa1-45be7640c172.png",
-        "description": "案例站点http://39.98.108.20:8085/#/login如果打不开就本地自己搭建个https://github.com/0ctDay/encrypt-decrypt-vuls?tab=readme-ov-file为什么js调试"
-      },
-      "catalog": [
-        {
-          "title": "安全学习手册",
-          "doc_id": "akyv9ck5kvo37adi"
-        },
-        {
-          "title": "打点入门",
-          "doc_id": "akyv9ck5kvo37adi"
-        }
-      ],
-      "realName": "js调试与jsrpc",
-      "relativePath": "\\安全学习手册\\打点入门\\js调试与jsrpc.md",
-      "docPath": "docs\\docs\\安全学习手册\\打点入门"
-    },
-    {
       "id": 252057919,
       "doc_id": "gv351xw5nhh2nzop",
       "updated": 1767929046000,
@@ -1994,6 +1940,33 @@
       "realName": "小程序公众号开f12",
       "relativePath": "\\关于\\小程序公众号开f12.md",
       "docPath": "docs\\docs\\关于"
+    },
+    {
+      "id": 255161468,
+      "doc_id": "lefoxbf54dkv8vls",
+      "updated": 1770023004000,
+      "properties": {
+        "title": "js加解密v1.0",
+        "urlname": "lefoxbf54dkv8vls",
+        "date": "2026-01-29 16:06:03",
+        "updated": "2026-02-02 17:03:24",
+        "author": "sunwu57",
+        "cover": "https://cdn.nlark.com/yuque/0/2026/png/26698826/1769675009149-ada41a63-a039-4361-8795-548760af3e72.png",
+        "description": "js加解密入门-web前言常见的加密方式加密⽅式 对称加密 ⾮对称加密"
+      },
+      "catalog": [
+        {
+          "title": "安全学习手册",
+          "doc_id": "lefoxbf54dkv8vls"
+        },
+        {
+          "title": "打点入门",
+          "doc_id": "lefoxbf54dkv8vls"
+        }
+      ],
+      "realName": "js加解密v1.0",
+      "relativePath": "\\安全学习手册\\打点入门\\js加解密v1.0.md",
+      "docPath": "docs\\docs\\安全学习手册\\打点入门"
     }
   ],
   "catalog": [
@@ -2281,41 +2254,23 @@
       "visible": 1,
       "prev_uuid": "2EH1CjIKL6lt4hLT",
       "sibling_uuid": "wslkKrydaOUmHZ6q",
-      "child_uuid": "Fw2QVfqPuPmxkUR7",
+      "child_uuid": "istcIMFC-UcONI6N",
       "parent_uuid": "yZEQ9PhhoW_1eff3",
       "_serializer": "v2.toc_item"
     },
     {
-      "uuid": "Fw2QVfqPuPmxkUR7",
+      "uuid": "istcIMFC-UcONI6N",
       "type": "DOC",
-      "title": "js调试与jsrpc",
-      "url": "akyv9ck5kvo37adi",
-      "slug": "akyv9ck5kvo37adi",
-      "id": 249412607,
-      "doc_id": 249412607,
+      "title": "js加解密v1.0",
+      "url": "lefoxbf54dkv8vls",
+      "slug": "lefoxbf54dkv8vls",
+      "id": 255161468,
+      "doc_id": 255161468,
       "level": 2,
       "depth": 3,
       "open_window": 1,
       "visible": 1,
       "prev_uuid": "O4Mm4r_D1gnze3vA",
-      "sibling_uuid": "e7IVtTrRZsvs2OCl",
-      "child_uuid": "",
-      "parent_uuid": "O4Mm4r_D1gnze3vA",
-      "_serializer": "v2.toc_item"
-    },
-    {
-      "uuid": "e7IVtTrRZsvs2OCl",
-      "type": "DOC",
-      "title": "js加解密",
-      "url": "hgbiyledh3i6m18t",
-      "slug": "hgbiyledh3i6m18t",
-      "id": 246043097,
-      "doc_id": 246043097,
-      "level": 2,
-      "depth": 3,
-      "open_window": 1,
-      "visible": 1,
-      "prev_uuid": "Fw2QVfqPuPmxkUR7",
       "sibling_uuid": "qb1KLFp2FGF33Hoi",
       "child_uuid": "",
       "parent_uuid": "O4Mm4r_D1gnze3vA",
@@ -2333,7 +2288,7 @@
       "depth": 3,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "e7IVtTrRZsvs2OCl",
+      "prev_uuid": "istcIMFC-UcONI6N",
       "sibling_uuid": "0BHgn2mKmT7_LZw_",
       "child_uuid": "",
       "parent_uuid": "O4Mm4r_D1gnze3vA",

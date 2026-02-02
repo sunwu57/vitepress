@@ -374,6 +374,10 @@ export default {
               "link": "/docs/安全学习手册/打点入门/js加解密"
             },
             {
+              "text": "js加解密v1.0",
+              "link": "/docs/安全学习手册/打点入门/js加解密v1.0"
+            },
+            {
               "text": "js调试与jsrpc",
               "link": "/docs/安全学习手册/打点入门/js调试与jsrpc"
             },
