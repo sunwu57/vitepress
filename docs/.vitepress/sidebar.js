@@ -164,12 +164,12 @@ export default {
       "text": "关于",
       "items": [
         {
-          "text": "markdown语法",
-          "link": "/docs/关于/markdown语法"
-        },
-        {
           "text": "Typora",
           "link": "/docs/关于/Typora"
+        },
+        {
+          "text": "markdown语法",
+          "link": "/docs/关于/markdown语法"
         },
         {
           "text": "本blog的搭建",
