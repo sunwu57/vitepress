@@ -164,6 +164,10 @@ export default {
       "text": "关于",
       "items": [
         {
+          "text": "markdown语法",
+          "link": "/docs/关于/markdown语法"
+        },
+        {
           "text": "Typora",
           "link": "/docs/关于/Typora"
         },
@@ -172,8 +176,8 @@ export default {
           "link": "/docs/关于/本blog的搭建"
         },
         {
-          "text": "markdown语法",
-          "link": "/docs/关于/markdown语法"
+          "text": "payload",
+          "link": "/docs/关于/payload"
         },
         {
           "text": "jwt爆破",
@@ -186,10 +190,6 @@ export default {
         {
           "text": "文件上传-xss",
           "link": "/docs/关于/文件上传-xss"
-        },
-        {
-          "text": "payload",
-          "link": "/docs/关于/payload"
         },
         {
           "text": "关于大模型DeepSeek构建个人知识库的搭建(RAG)",
@@ -307,6 +307,15 @@ export default {
       "text": "安全学习手册",
       "items": [
         {
+          "text": "钓鱼",
+          "items": [
+            {
+              "text": "微信钓鱼",
+              "link": "/docs/安全学习手册/钓鱼/微信钓鱼"
+            }
+          ]
+        },
+        {
           "text": "打点入门",
           "items": [
             {
@@ -404,16 +413,16 @@ export default {
       "text": "漏洞复现",
       "items": [
         {
-          "text": "珠海国津软件科技ITSM任意文件读取漏洞",
-          "link": "/docs/漏洞复现/珠海国津软件科技ITSM任意文件读取漏洞"
-        },
-        {
           "text": "蓝凌ekp后台xss和sql注入",
           "link": "/docs/漏洞复现/蓝凌ekp后台xss和sql注入"
         },
         {
           "text": "普元eos-RCE",
           "link": "/docs/漏洞复现/普元eos-RCE"
+        },
+        {
+          "text": "珠海国津软件科技ITSM任意文件读取漏洞",
+          "link": "/docs/漏洞复现/珠海国津软件科技ITSM任意文件读取漏洞"
         },
         {
           "text": "jQuery XSS",
