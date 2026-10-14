@@ -164,10 +164,6 @@ export default {
       "text": "关于",
       "items": [
         {
-          "text": "Typora",
-          "link": "/docs/关于/Typora"
-        },
-        {
           "text": "markdown语法",
           "link": "/docs/关于/markdown语法"
         },
@@ -176,12 +172,16 @@ export default {
           "link": "/docs/关于/本blog的搭建"
         },
         {
-          "text": "payload",
-          "link": "/docs/关于/payload"
+          "text": "Typora",
+          "link": "/docs/关于/Typora"
         },
         {
           "text": "jwt爆破",
           "link": "/docs/关于/jwt爆破"
+        },
+        {
+          "text": "payload",
+          "link": "/docs/关于/payload"
         },
         {
           "text": "小程序公众号开f12",
@@ -413,6 +413,10 @@ export default {
       "text": "漏洞复现",
       "items": [
         {
+          "text": "Jeecg-boot常见漏洞汇总",
+          "link": "/docs/漏洞复现/Jeecg-boot常见漏洞汇总"
+        },
+        {
           "text": "蓝凌ekp后台xss和sql注入",
           "link": "/docs/漏洞复现/蓝凌ekp后台xss和sql注入"
         },
@@ -427,10 +431,6 @@ export default {
         {
           "text": "jQuery XSS",
           "link": "/docs/漏洞复现/jQuery XSS"
-        },
-        {
-          "text": "Jeecg-boot常见漏洞汇总",
-          "link": "/docs/漏洞复现/Jeecg-boot常见漏洞汇总"
         },
         {
           "text": "Vite 任意文件读取漏洞（CVE-2025-30208）",

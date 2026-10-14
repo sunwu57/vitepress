@@ -96,12 +96,12 @@
     {
       "id": 211004886,
       "doc_id": "qlc13al0flbxrsoc",
-      "updated": 1763113827000,
+      "updated": 1790673197000,
       "properties": {
         "title": "jwt爆破",
         "urlname": "qlc13al0flbxrsoc",
         "date": "2025-03-17 22:25:04",
-        "updated": "2025-11-14 17:50:27",
+        "updated": "2026-09-29 17:13:17",
         "author": "sunwu57",
         "description": "1. 什么是jwt？1.1. 使用 Hashcat 爆破 JWT（JSON Web Token）JWT 主要由三部分组成：Header（头部）Payload（负载）Signature（签名）其中，Signature 是基于 HMAC、RSA 或 ECDSA"
       },
@@ -987,13 +987,13 @@
     {
       "id": 226558258,
       "doc_id": "eum9gg3xl0rf7ufg",
-      "updated": 1751592294000,
+      "updated": 1783409785000,
       "properties": {
         "title": "Jeecg-boot常见漏洞汇总",
         "urlname": "eum9gg3xl0rf7ufg",
         "date": "2025-07-04 08:38:03",
-        "updated": "2025-07-04 09:24:54",
-        "author": "孙武",
+        "updated": "2026-07-07 15:36:25",
+        "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2025/webp/26698826/1751589515301-e1aa383a-53ab-4d1c-b146-0633a5f9bd71.webp",
         "description": "前言jeecg-boot漏洞笔记记录一下，大佬勿喷。小白可以直接收藏下来学习一下很多poc我都直接给出来了，基本就是我的笔记。如果，有不对的可以指正一下，一起学习。jeecg-boot介绍JeecgBoot是一款集成AI应用的，基于BPM流程的低代码平台，旨在帮助企业快速实现低代码开发和构建个..."
       },
@@ -1942,44 +1942,17 @@
       "docPath": "docs\\docs\\关于"
     },
     {
-      "id": 255161468,
-      "doc_id": "lefoxbf54dkv8vls",
-      "updated": 1777204392000,
-      "properties": {
-        "title": "js加解密v1.0",
-        "urlname": "lefoxbf54dkv8vls",
-        "date": "2026-01-29 16:06:03",
-        "updated": "2026-04-26 19:53:12",
-        "author": "sunwu57",
-        "cover": "https://cdn.nlark.com/yuque/0/2026/png/26698826/1769675009149-ada41a63-a039-4361-8795-548760af3e72.png",
-        "description": "js加解密入门-web前言常见的加密方式加密⽅式 对称加密 ⾮对称加密"
-      },
-      "catalog": [
-        {
-          "title": "安全学习手册",
-          "doc_id": "lefoxbf54dkv8vls"
-        },
-        {
-          "title": "打点入门",
-          "doc_id": "lefoxbf54dkv8vls"
-        }
-      ],
-      "realName": "js加解密v1.0",
-      "relativePath": "\\安全学习手册\\打点入门\\js加解密v1.0.md",
-      "docPath": "docs\\docs\\安全学习手册\\打点入门"
-    },
-    {
       "id": 271267113,
       "doc_id": "cq03wynmfvzps1fv",
-      "updated": 1779716227000,
+      "updated": 1779721139000,
       "properties": {
         "title": "微信钓鱼",
         "urlname": "cq03wynmfvzps1fv",
         "date": "2026-05-25 18:48:15",
-        "updated": "2026-05-25 21:37:07",
+        "updated": "2026-05-25 22:58:59",
         "author": "sunwu57",
         "cover": "https://cdn.nlark.com/yuque/0/2026/png/26698826/1779709904882-0d57f69a-a76f-4076-a747-fdfce4bf5a46.png",
-        "description": "成品效果原聊天新聊天落地原"
+        "description": "成品效果效果1原聊天新聊天落地"
       },
       "catalog": [
         {
@@ -2281,26 +2254,8 @@
       "visible": 1,
       "prev_uuid": "2EH1CjIKL6lt4hLT",
       "sibling_uuid": "wslkKrydaOUmHZ6q",
-      "child_uuid": "istcIMFC-UcONI6N",
+      "child_uuid": "qb1KLFp2FGF33Hoi",
       "parent_uuid": "yZEQ9PhhoW_1eff3",
-      "_serializer": "v2.toc_item"
-    },
-    {
-      "uuid": "istcIMFC-UcONI6N",
-      "type": "DOC",
-      "title": "js加解密v1.0",
-      "url": "lefoxbf54dkv8vls",
-      "slug": "lefoxbf54dkv8vls",
-      "id": 255161468,
-      "doc_id": 255161468,
-      "level": 2,
-      "depth": 3,
-      "open_window": 1,
-      "visible": 1,
-      "prev_uuid": "O4Mm4r_D1gnze3vA",
-      "sibling_uuid": "qb1KLFp2FGF33Hoi",
-      "child_uuid": "",
-      "parent_uuid": "O4Mm4r_D1gnze3vA",
       "_serializer": "v2.toc_item"
     },
     {
@@ -2315,7 +2270,7 @@
       "depth": 3,
       "open_window": 1,
       "visible": 1,
-      "prev_uuid": "istcIMFC-UcONI6N",
+      "prev_uuid": "O4Mm4r_D1gnze3vA",
       "sibling_uuid": "0BHgn2mKmT7_LZw_",
       "child_uuid": "",
       "parent_uuid": "O4Mm4r_D1gnze3vA",
