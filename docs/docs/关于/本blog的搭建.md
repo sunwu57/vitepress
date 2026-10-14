@@ -1399,7 +1399,7 @@ GITHUB_REPO=仓库名字
 ![](../../images/da797a164d3bde5484fd00fffbf19d25.png)
 
 ### github的token获取
-![](../../images/acfb6c9dddc727c68bdeeb9797dc8364.png)![](../../images/0a3199ed6d025824b89fb9045c592a71.png)![](../../images/b01d66cf29075b5e1478b503d697bcd7.png)
+![](../../images/acfb6c9dddc727c68bdeeb9797dc8364.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640600349-c8f9f3db-3210-4add-8c90-2499a2227d0d.png)![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640556911-84b533fe-9404-4ab3-9a3b-fa53be4f0d95.png)
 
 ### 在项目根目录执行同步命令即可
 ```yaml
@@ -1407,7 +1407,7 @@ pnpm run elog:sync-local
 ```
 
 1. 如果如图报错，请检查`.elog.env`中添加的三个参数值是否正确  
-![](../../images/a8f03b2d56e5056bceaf75c0927c0b49.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1740640777195-ac5f5938-2e31-405e-807f-cde5af0556fb.png)
 2. 记得执行后续命令，将项目上传到github
 
 ```yaml
@@ -1592,5 +1592,5 @@ nav: [
 ```
 
 即可实现目录分组功能  
-![](../../images/299eae86c1dc4f52684588820cb35869.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/26698826/1751358857727-304e76a0-77a3-490e-9094-6977f5b85bda.png)
 
