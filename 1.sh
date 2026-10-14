@@ -3,7 +3,7 @@ node ./generateSidebar.js
 
 git init
 git add .
-git commit -m "20261014-1"
+git commit -m "20261014-2"
 git remote set-url origin git@github.com:sunwu57/vitepress.git
 git branch -M main
 git config --global http.sslVerify "false"

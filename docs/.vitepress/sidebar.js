@@ -164,12 +164,12 @@ export default {
       "text": "关于",
       "items": [
         {
-          "text": "Typora",
-          "link": "/docs/关于/Typora"
-        },
-        {
           "text": "markdown语法",
           "link": "/docs/关于/markdown语法"
+        },
+        {
+          "text": "Typora",
+          "link": "/docs/关于/Typora"
         },
         {
           "text": "本blog的搭建",
@@ -307,21 +307,8 @@ export default {
       "text": "安全学习手册",
       "items": [
         {
-          "text": "钓鱼",
-          "items": [
-            {
-              "text": "微信钓鱼",
-              "link": "/docs/安全学习手册/钓鱼/微信钓鱼"
-            }
-          ]
-        },
-        {
           "text": "打点入门",
           "items": [
-            {
-              "text": "js加解密v1.0",
-              "link": "/docs/安全学习手册/打点入门/js加解密v1.0"
-            },
             {
               "text": "常见各组件以及系统默认弱口令",
               "link": "/docs/安全学习手册/打点入门/常见各组件以及系统默认弱口令"
@@ -337,6 +324,15 @@ export default {
             {
               "text": "常规打点",
               "link": "/docs/安全学习手册/打点入门/常规打点"
+            }
+          ]
+        },
+        {
+          "text": "钓鱼",
+          "items": [
+            {
+              "text": "微信钓鱼",
+              "link": "/docs/安全学习手册/钓鱼/微信钓鱼"
             }
           ]
         },
